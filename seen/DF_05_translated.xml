@@ -1,0 +1,2319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  <layer_show id="CMN_001" layer="1" pos="1" x="0" xDescription="黒ベタ" y="0" />
+  <task method="call" taskid="EYE_CATCHE_CHAPTER04" />
+  
+  <layer_hide layer="1" pos="1" x="0" xDescription="黒ベタ" y="0" />
+  <bgm_play fade="500.0" id="BGM_044" volume="100.0" xDescription="物語はまわる" />
+  <layer_show id="SEI_116" layer="1" pos="1" x="0" xDescription="コクピット・ヴェールリバー戦場" y="0" />ビィィィィ！　警告音が鳴り響いていた。<readstop />
+  <br />
+  <hr />ディスプレイは赤く点滅している。<readstop />
+  <br />
+  <hr />なんだこれえええ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜ＧＧＦ、損害を報告せよ！　こちらシキツウ、損害を報告せよ＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />オレはすぐさま自分の全身をチェックした。<readstop />
+  <br />
+  <hr />手足胴体、どれも問題ない……<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「こちらＧＧＦ。損傷軽微、体勢を立て直す！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちらシキツウ、了解。的になってるぞ！　すぐに後退せよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />あっ……オレは気づいた。<readstop />
+  <br />
+  <hr />痛みがないので何も問題ないと思ったが、オレには右足がなかった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「こちらＧＧＦ。訂正、右脚大破。身動きがとれない、繰り返す、右脚大破、行動不能」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちらシキツウ了解。セイヒアをバックアップに向かわせる。防御せよ！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />ははは、いきなりの絶望。<readstop />
+  <br />
+  <hr />これは負けフラグだ。<readstop />
+  <br />
+  <hr />ＨＭＤに映る敵機サークルが１つ、２つと増えていく。<readstop />
+  <br />
+  <hr />機体は足をやられて仰向けになっていたが、上半身を起こせば、バックアップに積んでいる武器は使用可能だった。<readstop />
+  <br />
+  <hr />おとりミサイル、機銃、なけなしの誘導ミサイル。<readstop />
+  <br />
+  <hr />主装備の滑空砲はこの体勢からは狙えない。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「こちらＧＧＦ、周辺に敵機４，５……多数！　至急、救援を要請する。回避のためスモークを焚く。間違ってオレを撃つなよ、ＩＦＦを穴が開くほど見てくれ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちら、シキツウ了解。セイヒア到着まで持ちこたえろ！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />スモークを焚くと視界はゼロになった。<readstop />
+  <br />
+  <hr />あとは計器に頼ってすべてを動かす必要がある。<readstop />
+  <br />
+  <hr />敵、戦車、ヘリは前世紀の改修なしだとすればこの煙幕も意味をなすのだが……警告音がビィビィとヒステリックに鳴り響く。<readstop />
+  <br />
+  <hr />とりあえず熱源めがけて撃ってきたか。<readstop />
+  <br />
+  <hr />オレはフレアを発射すると同時にＨＭＤの赤外線映像をもとにミサイルを見つけようと首を振る。<readstop />
+  <br />
+  <hr />ミサイルを視界にとらえるとそれはおとり熱源に向かって軌道を変えていた。<readstop />
+  <br />
+  <hr />それとは別に機体に機銃がひゅんひゅんとかすめて通りすぎていく。<readstop />
+  <br />
+  <hr />そしてその数が増え、装甲にあたって乾いた金属音が聞こえるようになる。<readstop />
+  <br />
+  <hr />そのうちの何発かは装甲の薄いところを貫通し機体にダメージを蓄積させていった。<readstop />
+  <br />
+  <hr />これはだめか……<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「こちらＧＧＦ、敵機に囲まれ集中砲火を浴びている。回避不能。脱出する」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />通信にノイズが入る。<readstop />
+  <br />
+  <hr />他のパイロットからの通信だった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />＜こちらコンバットネームＫ。救援にきたわよ！　ひゃっほー。すぐに蹴散らしてあげるから待っててね！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />Ｋってなんだよ。<readstop />
+  <br />
+  <hr />めんどくさいなあ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちらシキツウ、強襲空挺重機兵の応援だ！　航空支援と落下傘重機兵が降下する。援護しろ！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />計器観測していると周辺の敵機が航空支援を警戒して散開、後退していく。<readstop />
+  <br />
+  <hr />その周辺に高射隊が見える。<readstop />
+  <br />
+  <hr />高射隊に向けて誘導ミサイル発射。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />＜わー、ぎゃー、よけ！　よけ！　撃つなって。そっち撃てよ、そっち、わっわわ＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />ケイちゃんの悲鳴が聞こえるが、ふわふわ落ちてくる落下傘重機兵の悲しい叫びだ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />＜う、うわ、ぜ、全弾発射だって、わー死ぬー！　チャフチャフ！　フレアフレア！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />ケイちゃんの惨めな声が聞こえる……レーダーには熱源が無数にあふれている。<readstop />
+  <br />
+  <hr />もうダメだ……熱源はケイちゃんとオレに迫っていた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜なっさけないなあ、二人とも！　むふふっ！　あたし最高にかっこいいー！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />煙幕を吹き飛ばしてオレの横に機体が現れた。<readstop />
+  <br />
+  <hr />手に持った４０ミリ機関砲を特に狙う素振りもなく散発的に発射する。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜だんちゃぅぅぅぅぅ、イマイマイマイマイマ！　わっお、全弾迎撃ぃ。反撃いきまーす＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />煙幕は薄くなったが視界は百メートルを超えない。<readstop />
+  <br />
+  <hr />その機体はあっという間にいなくなった。<readstop />
+  <br />
+  <hr />そしてすぐにいくつかの爆音が聞こえ、熱源が消えた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SAYHERE" name="セイヒア" />＜こちらセイヒア、テッキすべて倒しました。キトウしまーす。んふふ＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SAYHERE" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちらシキツウ、帰投の指示は出していないぞ。戦場に戻れ！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />セイヒアはそれに答えず戦場から離脱したようだ。<readstop />
+  <br />
+  <hr />そのあと、地面に震動をたてて落下したのはケイちゃんだった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜ったく、セイヒアときたら……あー、こちらシキツウ。敵は退却していく模様、各自残敵を掃討しつつ帰投せよ。ＧＧＦは回収車が向かっている、Ｋと共にその場で警戒、待機せよ＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />煙幕が晴れるとそこにはＫの機体があった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />＜いやあ、危なかったですねえ。あたしが来なければもう少しでやられるところでしたよ！　何かあたしに言うことありますよね＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「楽しみだったのはこのことか！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />＜え？　何のことですか？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />何もかも知ってる口調だった。<readstop />
+  <br />
+  <hr />オレは諦めた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ところで、クエストのシナリオはケイちゃんが作ったんだよね。ほんとにこれ史実に忠実なの？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />＜あー、うー、物語はリアルじゃなきゃいけないでしょ？　だから史実なんですよ。でもリアルってのは退屈なことが多いでしょ＞<readstop />
+  <br />
+  <hr />＜それに、世の中に完全はないというか、全く同じ状態を再現することは理想世界だけであってえ、つまりなんというか、退屈しない程度には、脚色はあるかもしれません＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />オレは表情が伝わるわけではないのににこっと笑って「ありがとう」と言った。<readstop />
+  <br />
+  <hr />ケイちゃんはあーとかうーとか言いながら聞こえないふりをしている。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_play fade="15000.0" id="BGM_049" xDescription="GGF IV" />重機兵回収車がくると損傷した機体を貨物台に載せ替えて基地へと帰投した。<readstop />
+  <br />
+  <hr />ケイちゃんも護衛がてらついてきた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="コクピット・ヴェールリバー戦場" y="0" />
+  <layer_show id="SEI_084" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・川沿い未舗装路（コクピット）" y="0" />川沿いの未舗装路をゆっくり進んでいく。<readstop />
+  <br />
+  <hr />川の水はまるでうち捨てられた兵器の赤錆が流れ出したかのような色だった。<readstop />
+  <br />
+  <hr />それ以外にはただ、乾いた大地に低い草木が延々と続いている。<readstop />
+  <br />
+  <hr />その遙か向こうに山が見える。<readstop />
+  <br />
+  <hr />２０キロほど移動すると舗装路になり小さな町が見えてきた。<readstop />
+  <br />
+  <hr />重機兵回収車は町の入り口の手前を曲がるとその先には部隊の駐屯地があった。<readstop />
+  <br />
+  <hr />ゲートをくぐる前には、子どもたちがいて、しきりに手を振っていた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />＜こちらシキツウ。状況終了。リモートウェアのシャットダウンシーケンスを開始する＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />オレはその通信の意味が分からなかった。<readstop />
+  <br />
+  <hr />ＨＭＤにカウントダウンが表示されるとそれがゼロを表示すると目の前が暗転した。<readstop />
+  <br />
+  <hr />そして完全な無音に支配されオレは自分の身体が宙に浮いたような奇妙な感覚に襲われた。<readstop />
+  <br />
+  <hr />オレには頭があるはずで、その場所にはＨＭＤがあるはずだった。<readstop />
+  <br />
+  <hr />オレはヘルメットを脱ごうとしたがまるでそこには何もなく手は空気を掴んだ。<readstop />
+  <br />
+  <hr />オレは一瞬呼吸が止まった。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・川沿い未舗装路（コクピット）" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <restore_tags id="2">
+    <bgm_play id="BGM_049" xDescription="GGF IV" />
+  </restore_tags>ぱっと強烈な光が全身を照らした。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show easing="31" id="DF_c04_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <layer_show easing="31" id="DF_c12_p02_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿（パイロットスーツ）通常" y="820" />
+  <layer_show id="SEI_085" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「やあやあ、どうですか、ＧＧＦ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />ケイちゃんの威勢のいい声がした。<readstop />
+  <br />
+  <hr />ケイちゃんの顔だった。<readstop />
+  <br />
+  <hr />オレは自分の顔の輪郭を確かめ、詰まった息を吐き出した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「心配いりません、リモートウェアのコクピットですよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「さっきまでのは！？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />ケイちゃんは周囲を確認して小声で言った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「あれがＸＮＣによるリモートウェアで重機兵を操縦しているときの体感です。予想はしていましたが、あれがヴァーチャルだとは思えないほどでしたね。すんごい興奮しました」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />オレは大きく息を吐き出すと混乱した頭を整理した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ええっと、あれは遠隔操作していた重機兵で……今ここにいるのもデッドフィールドのゲームの中なんだよな。過去のシミュレーションなんだよな」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <layer_show easing="31" id="DF_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイもじもじ紅潮" y="820" />
+  <set_text_font fontType="gothic" />オレが確認するとケイちゃんは頷いた。<readstop />
+  <br />
+  <hr />オレは状況と身体感覚のズレを補正するためにヘルメットをとり周囲をゆっくりと見渡す。<readstop />
+  <br />
+  <hr />無数のケーブルが地面を這い回っていたがそれ以外はとくに何もなく、オレの座っているメカニカルなコクピットが４基あり、ＨＭＤが２つ置かれている。<readstop />
+  <br />
+  <hr />ケイちゃんはパイロットスーツの上半身のチャックを開けてラフな格好だった。<readstop />
+  <br />
+  <hr />それをみてオレは小さく声を上げた。<readstop />
+  <br />
+  <hr />胸が小さい……。<readstop />
+  <br />
+  <hr />そのオレの反応をみてケイちゃんは作り笑いを浮かべ、そわそわしながら上半身をよじらせた。<readstop />
+  <br />
+  <hr />オレは自分が何を気にしているんだという恥ずかしさと、見てはいけないものを見てしまったような気持ちになって顔を背けた。<readstop />
+  <br />
+  <hr />いやいや、それもおかしい。<readstop />
+  <br />
+  <hr />オレは元に戻ってケイちゃんに微笑みかけた。<readstop />
+  <br />
+  <hr />なんか、ケイちゃん少し顔を赤らめているのは、気にかかる……。<readstop />
+  <br />
+  <hr />うわあ、なんか余計聞きづらい雰囲気になったなあ。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイもじもじ紅潮" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ケイちゃんひどいよ。いくら面白がらせのためとはいえ、クエストのしょっぱなから負けイベントなんてさあ。死んだらどうするの」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「リアルで良かったでしょ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「リアルなもんか、もう。リアリティのない兵器とリアリティのない作戦といい、戦術やらエースパイロットなんて幻想なんだからさ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />ケイちゃんはにこっとした。<readstop />
+  <br />
+  <hr />そして耳打ちするように言った。<readstop />
+  <br />
+  <hr />そんなつもりはないのに胸の谷間が見えてしまった。<readstop />
+  <br />
+  <hr />確実にスケールダウンしてる、なんだこれ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「他の人に聞かれるから、外世界的なことはあんまり……彼らは、自分たちが登場人物だとは思っていませんから……クエストの軸はプログラミングしてありますが、キャラクターたちはあくまでも自動的ですので、その軸から逸脱してしまうこともありますから」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「う、うん？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「ちゃんと聞いてます？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常不満" y="820" />
+  <show_message_actor id="GGF" name="GGF" />「聞いてるよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />ケイちゃんは納得いかないようでオレの顔をみて口を尖らせている。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「埴谷さんや斑猫さんに会っても余計なこと言っちゃだめですよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常不満" y="820" />
+  <layer_show easing="31" id="DF_c04_p03_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ頭を抱える普通" y="820" />
+  <show_message_actor id="GGF" name="GGF" />「あ、いるのか……」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />ケイちゃんは頭を抱えた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ頭を抱える普通" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常不満" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「分かってないじゃないですか。ここもまたヴァーチャルですけど、ここにダイナミックにロードされている人格は数学的な言葉を使えばこの世界系で十分に確からしいんです」<readstop />
+  <br />
+  <hr />「わたしたちは主張のない無人格、繰り返し同じ台詞をを繰り返すあれになるほうなんですから。いいですか、自分の機能を果たしたら、じっとそこでなんでもないことを繰り返せばいいのです。そのあと、世界は自動的に動きますから」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「いや、でも一応、クエストのオーナーとして自由にプレイする権利はあるんだろ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「そりゃそうですけど、目的忘れないでください。主人公としてクエストを進行させるボタンは押しますが、それ以外では余計な干渉はしないことです。なるべく再現性の高い過去を観察するにはそれが一番です。分かりました？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「理屈は分かるのだけど、なんかなあ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「ちょっともう、自分を殺せばいいだけです。おとなしくなんもしなければいいんです。今まで通りですよ。サボタージュしててください」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常不満" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <set_text_font fontType="gothic" />軽く貶されているような気もするが、事実を言っても貶すことにはならないしな、オレには反論する余地はなかった。<readstop />
+  <br />
+  <hr />ああ、空を見上げている人は、みんなこんな気持ちなんだな。<readstop />
+  <br />
+  <hr />納得してオレは確認のために空を見上げた。<readstop />
+  <br />
+  <hr />視界いっぱいの空はオレのわだかまりをすっかり吸い上げてくれた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「次のイベントまではのんびり何もせずにいるようにする。次のイベントって？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「それ教えたら、余計なことするでしょ？　だから内緒です。なるべく自然にしててください」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />おかしいって。<readstop />
+  <br />
+  <hr />自然にしようと思って自然にできるかよ……まあ、余計なことをするなってことだろうな。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「とりあえず宿舎に戻って、次の出撃に備えましょう。あと、あたしの機体ですが、史実には存在しないんで、数には入れないでくださいね。そもそも実際はセイヒアの一号機と大破した二号機しかないので」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「余計なことすんなって言ってたのに、ケイちゃんひどいよ。自分はそうやって都合良くさあ、率先して楽しもうとしてさあ、おかしいでしょ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常笑顔" y="820" />
+  <set_text_font fontType="gothic" />うふっと笑うとケイちゃんは微笑んで何も言わない。<readstop />
+  <br />
+  <hr />ほんとうにひどいよ。<readstop />
+  <br />
+  <hr />はあ……<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_086" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・宿舎・全景" y="0" />
+  <restore_tags id="3">
+    <bgm_play id="BGM_049" xDescription="GGF IV" />
+    <layer_show id="DF_c12_p02_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿（パイロットスーツ）通常" y="820" />
+  </restore_tags>宿舎に戻ると守備隊の隊長から呼び出しがあった。<readstop />
+  <br />
+  <hr />司令室の入口に衛兵に事情を伝えると隊長は会合中なので少し待つように言われた。<readstop />
+  <br />
+  <hr />手前に椅子があるので腰掛けようとしたが衛兵が止めた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・宿舎・全景" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SOLDIER" name="兵士" />「いけない！　それは来客用のものです」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />オレは肩をすくめて通路の端でぼんやりと呼ばれるのを待った。<readstop />
+  <br />
+  <hr />数分して扉が開くと中から一人の男が出てきた。<readstop />
+  <br />
+  <hr />髭を生やし身体もすらっとしていたが埴谷だった。<readstop />
+  <br />
+  <hr />下は無国籍な迷彩服で上はシャツのラフな格好だった。<readstop />
+  <br />
+  <hr />埴谷はオレをちらっと見たが興味なさそうに通り過ぎていった。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_087" layer="1" pos="1" time="1500.0" trans="1" x="0" xDescription="ヴェールリバー・隊舎・司令室" y="0" />衛兵に呼ばれてオレは司令室に入った。<readstop />
+  <br />
+  <hr />バドモアという黒人の隊長がヴェールリバー守備隊の隊長だった。<readstop />
+  <br />
+  <hr />状況説明を求められたのでオレはそれについて答えた。<readstop />
+  <br />
+  <hr />隊長は機体の破損について不満そうではあったが不条理な腕立て伏せや便所掃除を命じられることはなかった。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・隊舎・司令室" y="0" />
+  <layer_hide layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿（パイロットスーツ）通常" y="820" />
+  <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  <layer_show id="SEI_089" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・宿舎・自室" y="0" />オレはシャワーを浴びて汗を流した。<readstop />
+  <br />
+  <hr />オレの身体には身に覚えのない無数の傷がありそれは手足の五、六本は無くなってもおかしくないような創痕だった。<readstop />
+  <br />
+  <hr />見ず知らずの創痕を撫でるとカタルシスのようにその傷痕のストーリーが思い出された。<readstop />
+  <br />
+  <hr />その傷が見ず知らずの誰かのものではなく、まぎれもない自分自身のものでそれが自分自身を維持する上で必要不可欠なものなのだと実感した。<readstop />
+  <br />
+  <hr />自室に戻ると窓辺にたち赤茶けた大地を見つめ続けた。<readstop />
+  <br />
+  <hr />戦闘機の飛行機雲が赤みを帯びた空に無意味な境界線を書き込んでいく。<readstop />
+  <br />
+  <hr />その境界線も幾ばくもしないうちにかすれて消え失せる。<readstop />
+  <br />
+  <hr />オレはミサイルが命中して撃破されることを覚悟した瞬間を思い返していた。<readstop />
+  <br />
+  <hr />レーダーから一つの点が消え、ヘルスモニターの心拍計が計測不能になり、戦況がひとつ動いたことを意味した。<readstop />
+  <br />
+  <hr />オレは机の上の拳銃に目をやる。<readstop />
+  <br />
+  <hr />見たことがない拳銃だ。<readstop />
+  <br />
+  <hr />ベレッタのロゴのようなものがあるがそれではなかったし、ロングバレルはどのメーカーでもあまりみない。<readstop />
+  <br />
+  <hr />拳銃を手に取ると質量を実測する。<readstop />
+  <br />
+  <hr />手の中に収まった拳銃の外見と質量に違和感を感じてオレは戸惑った。<readstop />
+  <br />
+  <hr />何が原因なのかはわからない。<readstop />
+  <br />
+  <hr />それでも自分なりに考えた。<readstop />
+  <br />
+  <hr />答えは簡単だった。<readstop />
+  <br />
+  <hr />オレは人を殺す準備がまだできていない。<readstop />
+  <br />
+  <hr />もっと人を殺す練習を積まなくてはならない。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・宿舎・自室" y="0" />
+  <bgm_play fade="10000.0" id="BGM_052" xDescription="GGFVI" />
+  <layer_show id="SEI_090" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・射撃練習場" y="0" />
+  <restore_tags id="4">
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>拳銃を手に取り射撃場に向かった。<readstop />
+  <br />
+  <hr />グラウンドの一角に地面を一段掘り下げて作った射撃場があった。<readstop />
+  <br />
+  <hr />耳慣れた銃撃音がテンポ良く響いている。<readstop />
+  <br />
+  <hr />射撃場では一人がじっくりと撃ちこんでいた。<readstop />
+  <br />
+  <hr />オレもすぐに手の拳銃の質量を感じるために射撃ゾーンに立ち狙いをさだめた。<readstop />
+  <br />
+  <hr />一発、二発……鋼鉄製の人型デコイに命中するとカツン、カツンと軽い音がした。<readstop />
+  <br />
+  <hr />とても扱いやすく誰でも殺せそうな拳銃だった。<readstop />
+  <br />
+  <hr />マーカーを合わせれば、そこに弾丸が飛んでいくような感覚だ。<readstop />
+  <br />
+  <hr />オレは今自分が手にしている拳銃がただの拳銃であることを確かめるために、４つのデコイにむけてダブルタップで連射した。<readstop />
+  <br />
+  <hr />鋼鉄製のデコイの急所に弾丸は命中し、オレの肩には射撃とは無関係な反動がかかった。<readstop />
+  <br />
+  <hr />オレは射撃場にきて射撃をした。<readstop />
+  <br />
+  <hr />だが、これでは人を殺す練習にはならないようだった。<readstop />
+  <br />
+  <hr />オレが射撃ゾーンを出ると、後ろに男がいた。<readstop />
+  <br />
+  <hr />男は部隊章を見るとオレを睨み付けた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c05_p01_e2" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />「重機兵パイロットのくせにどういうつもりだ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />オレは小さく息を吸い込んだ。<readstop />
+  <br />
+  <hr />髪を短く刈り込んでこれまでに見たことがないような冷淡な表情だったが、それはまぎれもなく斑猫だった。<readstop />
+  <br />
+  <hr />オレは斑猫に言うべきことが喉に押し寄せてきたせいで何も言えなかった。<readstop />
+  <br />
+  <hr />だがそれでよかった。<readstop />
+  <br />
+  <hr />オレは何もかもサボタージュしているべきなのだ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />「それに、どうやら君は重機兵を下りた方が優秀そうだ。機体を潰しても活躍する場所はいくらでもある」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />斑猫はなぜか若く見えた。<readstop />
+  <br />
+  <hr />オレは様式として名前を聞いた。<readstop />
+  <br />
+  <hr />斑猫は答える。<readstop />
+  <br />
+  <hr />「ミラビリス」。<readstop />
+  <br />
+  <hr />こんにちは、ミラビリス。<readstop />
+  <br />
+  <hr />オレは心の中で微笑み返した。<readstop />
+  <br />
+  <hr />そして、仏頂面でこう続けた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ミラビリス、変な名前だ。本名かい？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「まさか、愛称だよ。初対面なのにずいぶんな挨拶だな。こんなところで射撃練習をしてるんだから重機兵を潰したのは君だろう？　名前は？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />なんだっけ？<readstop />
+  <br />
+  <hr />　オレは何もかもが済んだことのように自動的に再生されるような錯覚を感じた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「知ってるだろ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <set_text_font fontType="gothic" />斑猫はほんの少し表情を緩ませた。<readstop />
+  <br />
+  <hr />でも敵意のほとんどは無くなっているように感じた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「はは！　そりゃあな。一日で小国の軍事予算三年分の損害をだしたパイロットの名前だものな。知りたくなくても耳には入ってくる。でも、ぼくは君が自分の口で名乗る声を聞きたかったんだ」<readstop />
+  <br />
+  <hr />「ほら、君だって僕のことは知っていて名前を聞いたんだろう？　そんな顔だった」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは身体の側面から血がひいていくのを感じた。<readstop />
+  <br />
+  <hr />なんとか取り繕おうと下らないジョークでも言おうとしたが死にかけた魚のようにぱくぱくと口を開くことしかできなかった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君、おもしろいね。優秀な重機兵パイロットだとは聞いていたけど、ぼくが思っていたようなヤツではないみたいだ。戦争が終われば飲みに行きたいね、どう？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />わけが分からなかった。<readstop />
+  <br />
+  <hr />一杯の酒を誘うのに『戦争が終わったらな』というのはいまいちぴんとこなかったし、ジョークなのだとしても笑いどころがなかった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「地球にいる限り戦争なんて終わりはしない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <set_text_font fontType="gothic" />オレも自信なさげにジョークで返すと斑猫は意外に気持ちよさそうに笑った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「あはは、そりゃそうだ。パイロットってのは頭がいいのかバカまじめなのか。戦争なんてものは銃担いで、相手を殺そうとしていていりゃ、戦争だってこと」<readstop />
+  <br />
+  <hr />「後になんとか戦争と呼ばれる戦争だから参戦してるわけじゃないし、君もこの戦争が二十年戦争と呼ばれることになるとは思いもよらないだろう？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />斑猫は言い終わったあとも笑いを堪えるように下を向いていた。<readstop />
+  <br />
+  <hr />銃をしまうとこちらに向き直った。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「じゃあ、また」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />斑猫はオレの横を通り過ぎていくときにオレの肩を叩いた。<readstop />
+  <br />
+  <hr />斑猫はなぜか笑っていた。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="15000.0" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・射撃練習場" y="0" />
+  <layer_show id="SEI_091" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地病院・全景" y="0" />
+  <restore_tags id="5">
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>夜になりオレは自室で目を開けて眠り込んでいた。<readstop />
+  <br />
+  <hr />サイレンが聞こえた。<readstop />
+  <br />
+  <hr />空襲？<readstop />
+  <br />
+  <hr />　いや、違う。<readstop />
+  <br />
+  <hr />これは個人レベルの危険度を伝えるサイレン、救急車だ。<readstop />
+  <br />
+  <hr />オレは窓の外を見ると軍用の救急車が基地外に走り去っていくのを見た。<readstop />
+  <br />
+  <hr />オレは時計を見る。<readstop />
+  <br />
+  <hr />夜でもなく朝でもない。<readstop />
+  <br />
+  <hr />もう一度、惰眠をむさぼることもできたが、オレはただ、窓辺に立って外を見ていた。<readstop />
+  <br />
+  <hr />救急車が戻ってくると宿舎から少し離れた基地病院に運び込まれた。<readstop />
+  <br />
+  <hr />窓からははっきり見えなかったが、救急車からストレッチャーで搬入されたのは子どものように見えた。<readstop />
+  <br />
+  <hr />救急車から出てきたのは衛生兵だろうか、砲撃にさらされた戦場のように大声でかけ声をかけあっていた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・全景" y="0" />
+  <layer_show id="SEI_093" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・基地病院・入口" y="0" />オレはふらふらと基地病院に向かって歩いて行った。<readstop />
+  <br />
+  <hr />基地病院の入口には衛兵が……所属不明の部隊章をつけた兵士が立っていた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「さっき、搬送されたのは？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="SOLDIER" name="兵士" />「急患だ。通常の民間からの医療委託で心配はない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />基地ゲートに衛兵を立たせるのは分かる。<readstop />
+  <br />
+  <hr />だがここは基地内の病院だった。<readstop />
+  <br />
+  <hr />武器庫ですら衛兵が居ないのに、なんで病院には衛兵がいるんだ？<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「そう……」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />オレが諦めてそう言うと、病院の中からは子どもの悲鳴が聞こえていた。<readstop />
+  <br />
+  <hr />オレは声が反響してきた空間を逆探知して発生源の声帯まで到達する。<readstop />
+  <br />
+  <hr />いや……そんなことできるはずがない、いま、確かにできた気がするがそれは幻だ。<readstop />
+  <br />
+  <hr />衛兵たちもあまりにも痛々しい悲鳴だったので病院の中を見た。<readstop />
+  <br />
+  <hr />見たことのない部隊章と衛兵。<readstop />
+  <br />
+  <hr />オレは引き下がること以外にできることがなかった。<readstop />
+  <br />
+  <hr />回れ右をするように回転し、宿舎に戻ろうとする。<readstop />
+  <br />
+  <hr />そのとき宿舎のほうから優しいモーター駆動音が聞こえた。<readstop />
+  <br />
+  <hr />そこには車いすの少女がいた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「あ、ミラビリス！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_show easing="31" id="DF_c06_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1055" xDescription="セイヒア車いす通常" y="820" />
+  <set_text_font fontType="gothic" />車いすの少女の表情は前髪で隠れて見えなかったが、声はやたらに嬉しそうだった。<readstop />
+  <br />
+  <hr />車いすは全力でオレのところへ向かってきた。<readstop />
+  <br />
+  <hr />露出している肌は陶器のようにつるつるしていて、髪の毛は抑揚を無くしたような完全な直毛で伸びっぱなしではあったが、なぜかトリックの仕掛けようにオレをどきどきさせた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「だいじょうぶ、これからお見舞いにいくのだから。だから、衛兵さん、だいじょうぶなの。ミラビリスは」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />衛兵たちは顔を見合わせ互いの意志を確認した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SOLDIER" name="兵士" />「どうぞ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />車いすの少女はオレの近くまで来ると言った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「ありがとう、優しい兵隊さん。さあ、行きましょう、ミラビリス」<readstop />
+  <br />
+  <hr />
+  
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・入口" y="0" />
+  <bgm_play fade="10000.0" id="BGM_043" xDescription="物語はすすむ" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <set_text_font fontType="gothic" />車いすの少女は色白で比喩的な表現を越えて透明だった。<readstop />
+  <br />
+  <hr />少女は車いすを走らせると病院の中を迷いなく進んでいった。<readstop />
+  <br />
+  <hr />そしてエレベータの前でカードをかざして扉を開けた。<readstop />
+  <br />
+  <hr />エレベータに乗ると少女が言った。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_095" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・基地病院・エレベータ" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「お願い」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />「ん？　何階？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="GIRL" name="少女" />「もう、４階でしょ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />少女は記号のように上半身をむりやり動かして笑った。<readstop />
+  <br />
+  <hr />オレは４階のボタンを押した。<readstop />
+  <br />
+  <hr />エレベータを入った正面は鏡張りになっていたが、少女はそれを見ている様子はなかった。<readstop />
+  <br />
+  <hr />オレはミラビリスではないし外見的に特に似ているというわけでもない。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「ミラビリスが気にすることじゃあないの。彼らは選ばれたんだから。ミラビリスは優しすぎるんだ。だからみんなが怒ってる」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />オレはミラビリスじゃない。<readstop />
+  <br />
+  <hr />オレは……ミラビリスじゃ…………ないっ！<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・エレベータ" y="0" />
+  <layer_show id="SEI_096" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・基地病院・４階病室" y="0" />オレたちは空き部屋に入る。<readstop />
+  <br />
+  <hr />４つの病床があり、２つはマットレスすらなかった。<readstop />
+  <br />
+  <hr />残りの二つのうち一つは床頭台に簡単な電子端末がありシーツが少ししわになっている。<readstop />
+  <br />
+  <hr />もう一つは幾何学的に描画したような皺一つない状態だった。<readstop />
+  <br />
+  <hr />車いすの少女は誰なのだろう？<readstop />
+  <br />
+  <hr />　オレはゆっくり考えた。<readstop />
+  <br />
+  <hr />だが分からない。<readstop />
+  <br />
+  <hr />ただ、少女がセイヒアなのだろうという確信もあった。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1055" xDescription="セイヒア車いす通常" y="820" />
+  <layer_show easing="31" id="DF_c06_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1055" xDescription="セイヒア車いす緊張" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「ねえ、約束覚えてる？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />少女は車いすを移動させて床頭台の端末をのぞき込んだ。<readstop />
+  <br />
+  <hr />聞かれた以上、何か答えようと思ったがこの時オレは何も答えず黙っていた。<readstop />
+  <br />
+  <hr />お互いに沈黙していると蛍光灯が息をつくように明滅した。<readstop />
+  <br />
+  <hr />窓の外の街灯も呼吸をおかずに一瞬消えた。<readstop />
+  <br />
+  <hr />少女も送れて天井の蛍光灯を見上げた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「あたしはあたし？　約束は本当？ミラビリスは今もミラビリスのまま？　約束はあたしとミラビリスのもの？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1055" xDescription="セイヒア車いす緊張" y="820" />
+  <layer_show easing="31" id="DF_c06_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1055" xDescription="セイヒア車いす微笑み" y="820" />
+  <set_text_font fontType="gothic" />少女はその場で車いすを回転させるとオレを見た。<readstop />
+  <br />
+  <hr />窒息しそうに身体を強ばらせていた。<readstop />
+  <br />
+  <hr />オレはその姿を直視できなかった。<readstop />
+  <br />
+  <hr />誰かが外側から罪悪感を注入しているように胸が詰まり涙が零れそうになった。<readstop />
+  <br />
+  <hr />オレはぐっと歯を食いしばり下を向いた。<readstop />
+  <br />
+  <hr />そして小さく頷いた。<readstop />
+  <br />
+  <hr />少女はすぅっと肩をなで下ろし穏やかな笑みを浮かべた。<readstop />
+  <br />
+  <hr />オレは一度口を開けて言葉を探し挫折した。<readstop />
+  <br />
+  <hr />オレは挫折を噛みしめ、何かを決断してまっすぐに少女を見た。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1055" xDescription="セイヒア車いす微笑み" y="820" />
+  <layer_show easing="31" id="DF_c06_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1055" xDescription="セイヒア車いす緊張" y="820" />オレの背後から女性の声がした。<readstop />
+  <br />
+  <hr />「セイヒアさん、ガイドをお願いします」<readstop />
+  <br />
+  <hr />振り返ると看護士だった。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1055" xDescription="セイヒア車いす緊張" y="820" />
+  <layer_show easing="31" id="DF_c06_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1055" xDescription="セイヒア車いす通常" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />「ええ、すぐいきましょう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />少女は車いすを動かして部屋をでていく前にオレの隣で数秒停止した。<readstop />
+  <br />
+  <hr />声にならない声で何か言った。<readstop />
+  <br />
+  <hr />微かに頬にかかった髪の毛が揺れた。<readstop />
+  <br />
+  <hr />そして看護士について出て行った。<readstop />
+  <br />
+  <hr />オレは誰もいなくなった室内で自分の身体を点検した。<readstop />
+  <br />
+  <hr />指の末端まで熱く火照り、何か少女を傷つけてしまったのではないかと吐き気がするほど気に病んだ。<readstop />
+  <br />
+  <hr />オレは誰も使っていないベッドに腰かけ、理性的に一つ一つ根拠のない不安を潰していき合理的に立ち直って見せた。<readstop />
+  <br />
+  <hr />ベッドから立ち上がると身は紙ほどに軽くなっていた。<readstop />
+  <br />
+  <hr />手首を回して手のひらと甲を交互にみた。<readstop />
+  <br />
+  <hr />大丈夫だ、紙ではない。<readstop />
+  <br />
+  <hr />オレは立体的で時間的にも連続だ。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・４階病室" y="0" />
+  <layer_show id="SEI_119" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地病院の近く" y="0" />
+  <restore_tags id="6">
+    <bgm_play id="BGM_043" xDescription="物語はすすむ" />
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>重機兵を失ったパイロットとしてオレができることはシミュレータと体力トレーニングだった。<readstop />
+  <br />
+  <hr />視覚的にちかちかしたシミュレータをやる気がしなかったからオレは基地のグランドを延々と走り続けた。<readstop />
+  <br />
+  <hr />紙が風に舞うようにひゅるりひゅるりとグランドを巡っていると基地のゲートから喪服に身を包んだ一団がとぼとぼと入場してきた。<readstop />
+  <br />
+  <hr />オレは風に吹かれながらまた兵士が死んだのかなとぼんやり思った。<readstop />
+  <br />
+  <hr />オレはグランドにいくつかの渦を巻いていると一団が病院から出てきた。<readstop />
+  <br />
+  <hr />彼らは小さな棺を担ぎ、止めてあったピックアップトラックの荷台にそれを載せた。<readstop />
+  <br />
+  <hr />トラックがのろのろと出発すると彼らもその車に引きずられているかのように足取りもなく出場していった。<readstop />
+  <br />
+  <hr />ああ、昨日搬入された子どもが、死んでしまったのか……風が止んだように……身体が鉛になったように、オレはその場で立ち尽くした。<readstop />
+  <br />
+  <hr />オレは空を見上げ膝を折り、両手を地面についた。<readstop />
+  <br />
+  <hr />頬を伝って汗がぽたぽたと地面にしたたり落ちる。<readstop />
+  <br />
+  <hr />セイヒアに会わなくては。<readstop />
+  <br />
+  <hr />オレは片膝をたて、地面についた片方の手をその膝にのせ、鉛のように重い上半身を立ち上げる。<readstop />
+  <br />
+  <hr />身体が倒れそうになると言うことを聞かなかった半身がいやいやながら全身を支えた。<readstop />
+  <br />
+  <hr />さあ、いこう。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院の近く" y="0" />
+  <layer_show id="SEI_093" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地病院・入口" y="0" />病院の入口には衛兵がすべての感情を押し殺し、そのせいで逆にあふれ出る個性を漂わせながらそこにいた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SOLDIER" name="兵士" />「用がないなら帰れ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SOLDIER" />
+  <show_message_actor id="GGF" name="GGF" />「セイヒアは？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="SOLDIER" name="兵士" />「知らん。帰れ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />オレが病院に入ろうとすると衛兵はオレの喉元に銃身を押し当てて言った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SOLDIER" name="兵士" />「帰れ」<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="10000.0" />
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />また少女が現れてオレを導いてくれるのではないか。<readstop />
+  <br />
+  <hr />オレが一歩、二歩と押し返され後ずさりしたが、少女はあらわれなかった。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・入口" y="0" />
+  <bgm_play fade="20000.0" id="BGM_052" xDescription="GGFVI" />
+  <layer_show id="SEI_089" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・宿舎・自室" y="0" />
+  <restore_tags id="7">
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>宿舎の自室に戻るとオレはベッドの端に腰掛けて窓の外を見ていた。<readstop />
+  <br />
+  <hr />星空が雲に覆われ、風が強くなり、胸騒ぎのする雨がおとずれた。<readstop />
+  <br />
+  <hr />オレは宿舎を出て射撃場に向かった。<readstop />
+  <br />
+  <hr />雨粒は全身をずぶ濡れにした。<readstop />
+  <br />
+  <hr />微かな閃光を見た気がする、雷だろうかと思ったが、斑猫が射撃練習をしていた。<readstop />
+  <br />
+  <hr />オレも射撃位置につくと視界を遮る雨粒と時折吹きつける突風とやりとりをしながら引き金を引いた。<readstop />
+  <br />
+  <hr />一つ、二つ……っ！　二つ目には思った応えもなく、的は風雨の向こうからオレの眉間を撃ち抜いた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・宿舎・自室" y="0" />
+  <layer_show id="SEI_090" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・射撃練習場" y="0" />
+  <layer_show easing="31" id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />「ははは、ジャムったね」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />いつか見たような男の表情だった。<readstop />
+  <br />
+  <hr />どこで見たかは思い出せなかった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「もう一度聞いていいかい？　パイロットがなんのつもりだ？　こんなときに」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「それはミラビリスもだろ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「戦場が嵐のこともあるだろ？　ぼくは臆病だから、そんな状態でもちゃんと人が殺せるように練習しておきたかっただけさ。それに銃も替えたしね。リコイル強さとかばらつきとかね、最悪の条件のなかで確認しておきたかったんだ。どう？」<readstop />
+  <br />
+  <hr />「それでもおかしい？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />彼はオレを試すように聞いてきた。<readstop />
+  <br />
+  <hr />オレにはそれが鬱陶しく感じてただ首を振って応えた。<readstop />
+  <br />
+  <hr />ミラビリスは嵐の中で目を開けているのも難儀するのにただ笑っていた。<readstop />
+  <br />
+  <hr />ああ、こいつも戦場でどうかしてしまったタイプの人間なんだと思うことにした。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「昨日の夜に救急車で搬入された少年を知ってる？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「ああ、死んだらしいね。よかったよ。苦しまずに済んだんだから」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「え？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e6" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常残念" y="820" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「知らないの？　風土病のこと」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは首を振った。<readstop />
+  <br />
+  <hr />斑猫はわざとらしく、顔をしかめた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常残念" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「いやあ、しまったな。なんていうかな、そいつに感染すると良くないことが起こって死ぬわけだけどね。そんなおぞましいことになる前に死んだほうがいいぐらいのね、そういう意味で言ったんだ。誤解しないでくれよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは頷いた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ところで、前に使っていたのはクーガー？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「え？　そうだけど。良く覚えてるね。だましだまし使っていたＰ２２０がついにダメになったんで、ここに来て支給品のクーガーに替えたんだけどね」<readstop />
+  <br />
+  <hr />「まあ、大げさな言い方に聞こえるかも知れないけど赤茶けた鉄の塊でね、いやあ、使えるところまでもっていくのに手を焼いたよ。鉄の塊から削りだした方がはやいんじゃないかって思ったぐらい。まったくどんな管理をしていたんだか」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは苦笑いを浮かべて頷いた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「間に合わせのクーガーからやっと近代的な拳銃に持ち替えたってわけ。いやあしかし、これはこれでイージーすぎてなんかしっくりこないけどね」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <set_text_font fontType="gothic" />しっくりこない……オレがしっくりこないのはこの風雨のなか全身ずぶ濡れになってニコニコと話す斑猫そのものだった。<readstop />
+  <br />
+  <hr />まるで雨のことなど気づいていないふうだった。<readstop />
+  <br />
+  <hr />オレは顔の雨粒を拭うと同時にいろんな疑問も消し去った。<readstop />
+  <br />
+  <hr />オレはあまり斑猫に関わらないでいるべきだ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「戦争が終われば、どこかで一杯やろう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />斑猫はオレの肩に手をやると微笑みかけた。<readstop />
+  <br />
+  <hr />斑猫は射撃場から出て行った。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・射撃練習場" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_100" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地・グランド１" y="0" />
+  <restore_tags id="8">
+    <bgm_play id="BGM_052" xDescription="GGFVI" />
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>オレは重機兵の整備場に顔をだし失われた右足の修理状況を確認して体力トレーニングと射撃を繰り返した。<readstop />
+  <br />
+  <hr />グランドを走っていると病院の庭にセイヒアの姿が見えた。<readstop />
+  <br />
+  <hr />車いすに座っていて、そこには初めて見る少年が立っていた。<readstop />
+  <br />
+  <hr />少年は大きな身振り手振りでしきりにセイヒアに話しかけているようだった。<readstop />
+  <br />
+  <hr />遠くからはセイヒアがどんな表情なのか分からなかったが少年の話にじっと耳を傾けているように見えた。<readstop />
+  <br />
+  <hr />少年はセイヒアの両手をとり前のめりになる。<readstop />
+  <br />
+  <hr />セイヒアは少年の顔を見上げていたが顔を少し背けて車いすを後退させると背を向けた。<readstop />
+  <br />
+  <hr />セイヒアはそのまま病院に向かうと少年もそばを離れずずっと何かを言っているようだった。<readstop />
+  <br />
+  <hr />二人は病院の中に消えていった。<readstop />
+  <br />
+  <hr />
+  <layer_show easing="31" id="DF_c04_p01_e4" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常ぼんやり" y="820" />グラウンドを見渡すと入口に人かげが見えた。<readstop />
+  <br />
+  <hr />ケイちゃんか。<readstop />
+  <br />
+  <hr />ケイちゃんは顎に手を当てながらぼんやりとしているのか、オレを見ているようにもみえるが、じっとそこに立っていた。<readstop />
+  <br />
+  <hr />オレは敗残兵のようにグラウンドの端を歩いていった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「しばらくすれば出撃になるはずです。ワタナベくんも招集されるはずです」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「でも、重機兵はまだ直ってないし……」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「実際の記録に沿ってクエストはきちんと進行しています。重機兵が直るかどうかはあまり関係ないことです」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「そう……。そっか、そらそうだよな。こんなところで油を売ってる場合じゃないんだものな。ときどきゲームであることを忘れてしまう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />ケイちゃんはぼんやりとした表情で二、三度うなずいた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「まあ、ワタナベくんはそのほうがいいかもね。めちゃくちゃして、クエストの軸を替えてしまいそうだし」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />オレはうなずくと、ケイちゃんに聞いた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常ぼんやり" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常驚き" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「さっき、病院の庭でセイヒアと話している少年がいたけど、知ってる？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />オレがその方向に視線を向ける。<readstop />
+  <br />
+  <hr />ケイちゃんはきょとんとした表情でオレの視線を追った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「いいえ……どんな格好でした？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ通常驚き" y="820" />
+  <layer_show easing="31" id="DF_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常普通" y="820" />
+  <show_message_actor id="GGF" name="GGF" />「寝間着を着ていたから、セイヒアと同じように入院患者なんだと思うけど、短い髪の色白の子どもだったと思う」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「うーん、あたしは知らないですが、蓋然的な人物かも」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />ケイちゃんは顎に手を当てたまま考え込んだ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「蓋然性のぶれ幅は発散しないよう補正されていますので、なんにせよ、最小限に接触はとどめていたほうがいいでしょう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />オレは気のない返事をした。<readstop />
+  <br />
+  <hr />少年がセイヒアに何を言っていたのか妙に気になっていた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="KEI" name="ケイ" />「斑猫さんや埴谷さんには？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <set_text_font fontType="gothic" />釘をさすような強い口調でケイちゃんが言った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「会ったよ。斑猫さんとは何度か射撃場で。埴谷のおっさんは見かけただけ。斑猫さんとは少し……かな、話したよ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="KEI" name="ケイ" />「まあ、あまり干渉しないならどうってことないんだけど、その様子じゃ、また調子にのってべらべらと軽口を叩いたんでしょうね……ワタナベくんは基地の入口に立って、ここはヴェールリバーの基地だと繰り返すキャラクターの練習でもするといいのかもねえ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="KEI" />
+  <show_message_actor id="GGF" name="GGF" />「わかったよ、注意するって」<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="10000.0" />
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />ケイちゃんはもちろんだというように真顔で頷いた。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地・グランド１" y="0" />
+  <bgm_play fade="20000.0" id="BGM_047" xDescription="たかたかたかたたん！" />
+  <layer_show id="SEI_097" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・格納庫（整備場）" y="0" />
+  <restore_tags id="9">
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>月の明るい夜だった。<readstop />
+  <br />
+  <hr />しばらくすれば出撃といったが、その出撃はまだだった。<readstop />
+  <br />
+  <hr />オレは格納庫で実際には一度も触れたことのない重機兵を眺めていた。<readstop />
+  <br />
+  <hr />格納庫には三機の重機兵が並んでいた。<readstop />
+  <br />
+  <hr />オレが操縦していた重機兵は右脚の神経をむき出しにしたままクレーンにつり上げられていた。<readstop />
+  <br />
+  <hr />この重機兵が出撃できるようになるまでにはまだ時間がかかりそうだった。<readstop />
+  <br />
+  <hr />その隣にケイちゃんの機体があり、右端にセイヒアの機体があった。<readstop />
+  <br />
+  <hr />機体を近くで見ると装甲には細かい傷がついていた。<readstop />
+  <br />
+  <hr />オレはそれを手で触れてみようとしたが、奇妙な視線を感じて手を止めた。<readstop />
+  <br />
+  <hr />機体を見上げると無数のカメラセンサーが真っ黒な瞳でオレを捕らえているように感じた。<readstop />
+  <br />
+  <hr />オレたちは自分の生命を一切脅かすことなく重機兵を砲弾が飛び交う戦場に送り込み曲芸まがいの単騎駆けで生身の人間が乗った兵器を粉砕する。<readstop />
+  <br />
+  <hr />オレは重機兵に触れることなく格納庫を出ると月を見上げた。<readstop />
+  <br />
+  <hr />感覚器官から入力されてくる刺激はオレに自主的な思考を思い出させた。<readstop />
+  <br />
+  <hr />月面にオレの本体はいて、そこからオレはこの世界の自分を操作しているに過ぎないのだ。<readstop />
+  <br />
+  <hr />月面のオレがゲームをやめればこの世界のオレはいなくなるのだ。<readstop />
+  <br />
+  <hr />そう気づくと鉛のように重かった身体は紙のように薄っぺらに軽くなった。<readstop />
+  <br />
+  <hr />オレは月面のオレからシグナルを受信しながらこの世界を俯瞰する。<readstop />
+  <br />
+  <hr />斑猫はクーガーをやめ新しい銃に変え、セイヒアは９歳だとしても、マレー系のカラードではなかった。<readstop />
+  <br />
+  <hr />ここは過去のシミュレーションで月面のケイちゃんが入力した世界だ。<readstop />
+  <br />
+  <hr />世界を入力したケイちゃんが予測した出撃もいまだない。<readstop />
+  <br />
+  <hr />これはただの過去のなんの面白みもないパロディだ。<readstop />
+  <br />
+  <hr />身体は軽かったが、全身がとろけて破けそうな疲れを感じた。<readstop />
+  <br />
+  <hr />意味の無い世界で眠りにつく、そして次に目覚めたときオレは月面の現実に戻っているだろうか。<readstop />
+  <br />
+  <hr />オレは手足が破れて飛んでいかないように静かに歩き出した。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_play fade="20000.0" id="BGM_045" xDescription="待機" />どしん、と小刻みな地鳴りがした。<readstop />
+  <br />
+  <hr />そしてワイヤーがテンションに悲鳴を上げる音。<readstop />
+  <br />
+  <hr />オレは格納庫を振り返った。<readstop />
+  <br />
+  <hr />セイヒアの重機兵がロックを強制的に解除し地面に膝をついていた。<readstop />
+  <br />
+  <hr />全身の個眼が全方位をアクティブスキャンした。<readstop />
+  <br />
+  <hr />重機兵は主眼でオレを捉えた。<readstop />
+  <br />
+  <hr />重機兵にとってオレなどゴミくず当然だった。<readstop />
+  <br />
+  <hr />主眼を曠野の向こうに向けると轟音を立てて急進した。<readstop />
+  <br />
+  <hr />グラウンドを横切る重機兵に投光器が向けられたが何ものも重機兵の前進を妨げることはできなかった。<readstop />
+  <br />
+  <hr />重機兵はフェンスの手前でジャンプすると軽々と基地外へ出た。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・格納庫（整備場）" y="0" />
+  <layer_show id="SEI_119" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・基地病院の近く" y="0" />オレは理由が分からなかったが手足が震えていた。<readstop />
+  <br />
+  <hr />オレは病院に向かった。<readstop />
+  <br />
+  <hr />病院の４階の一室だけが明かりがついていてその窓が開いていた。<readstop />
+  <br />
+  <hr />窓に白い手が見えるとセイヒアの姿が見えた。<readstop />
+  <br />
+  <hr />セイヒアは窓から身を乗り出して重機兵を目で追っていた。<readstop />
+  <br />
+  <hr />セイヒアの細い腕が身体を支えきれなくなると男がセイヒアの肩を掴んだ。<readstop />
+  <br />
+  <hr />斑猫だった。<readstop />
+  <br />
+  <hr />オレは風になびいてふるえる手足を強ばらせた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院の近く" y="0" />
+  <layer_show id="SEI_092" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・基地病院・全景（夜）" y="0" />見張り台の兵士は無線で状況を確認していた。<readstop />
+  <br />
+  <hr />警報がなったのはだいぶ経ったあとだった。<readstop />
+  <br />
+  <hr />オレは病院に向いていた足の角度を変えると隊舎に向かう。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地病院・全景（夜）" y="0" />
+  <layer_show id="SEI_097" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・格納庫（整備場）" y="0" />
+  <layer_show easing="31" id="DF_c03_p01_e2" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="285" xDescription="若埴谷通常焦り" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />「お前！　止まれ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />振り返ると埴谷のおっさんがいた。<readstop />
+  <br />
+  <hr />いや、おっさんというよりも若く、そしてその若さに見合うように慌てふためいていた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「何をした！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「オレは何もしていない。オレの重機兵の修理状況を見に来ていただけだ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />埴谷は隊舎を指さすと怒鳴った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「パイロットは全員待機だ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・格納庫（整備場）" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_098" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・隊舎・取調室" y="0" />
+  <set_text_font fontType="gothic" />オレは腑の抜けたような敬礼をしたが埴谷は意にも介せず病院に向かって走って行った。<readstop />
+  <br />
+  <hr />オレは隊舎で身元を確認されると窓のない取調室に押し込められた。<readstop />
+  <br />
+  <hr />なるほど。<readstop />
+  <br />
+  <hr />基地は重機兵の強奪の線でまず動いているってことか。<readstop />
+  <br />
+  <hr />セイヒアは病室にいて、重機兵は基地外へ……<readstop />
+  <br />
+  <hr />
+  <layer_show easing="31" id="DF_c07_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="995" xDescription="パドモア通常通常" y="820" />すぐにバドモア隊長が入ってくると事実確認のためにいくつかの質問をされた。<readstop />
+  <br />
+  <hr />オレは事実をそのまま伝えた。<readstop />
+  <br />
+  <hr />バドモア隊長は頷くとオレにパイロット室に移動するよう命令した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ケイは？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PADMORE" name="パドモア" />「現時点では信頼に値するパイロットしか使わん！　黙って指示に従え！　いつでも出られるように待機せよ！　機体はケイのものを使え！」<readstop />
+  <br />
+  <hr />
+  
+  
+  <hide_message_actor id="PADMORE" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・隊舎・取調室" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_hide easing="31" layer="4" pos="" time="1000.0" trans="1" wait="false" xDescription="-" />
+  <bgm_play fade="15000.0" id="BGM_050" xDescription="GGF V" />
+  <layer_show id="SEI_085" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
+  <set_text_font fontType="gothic" />オレはパイロット室に向かって起動準備を始めた。<readstop />
+  <br />
+  <hr />物騒な連中がオレのコクピットの周りに立っている。<readstop />
+  <br />
+  <hr />まさにＶＩＰ待遇とはこのことだ。<readstop />
+  <br />
+  <hr />オレがリモートウェアで重機兵を操っている間に不審者が入ってきたらそいつをずどんとやってくれるしだろうし、オレが重機兵で不審な動きをみせた場合にはオレをずどんとやるわけだ。<readstop />
+  <br />
+  <hr />オレはヘルメットをかぶった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウ。ＧＧＦ、起動準備に取りかかれ。信頼性の低い情報補完に関する全アシストを停止して起動する。交戦時は注意せよ＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PADMORE" />
+  <set_text_font fontType="gothic" />オレはＨＭＤを下ろす。<readstop />
+  <br />
+  <hr />同時に感覚らしい感覚は失われてオレは受動的な現実と自己を喪失する。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
+  <layer_show id="SEI_116" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="コクピット・ヴェールリバー戦場" y="0" />オレは格納庫から搬出され、体育座りでグランドで待機している。<readstop />
+  <br />
+  <hr />オレは不自由だった。<readstop />
+  <br />
+  <hr />すべてのものはオレのサイズには不釣り合いで役に立たず、兵士たちは小さすぎてオレをからかっているようにすら見えた。<readstop />
+  <br />
+  <hr />夜空を見上げるとそこには月があり、それだけはスケールを変えずにただ圧倒的に浮かんでいる。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウからＧＧＦ。ツニートは敵性戦闘員による強奪と断定。後方で待機せよ。位置を指示する——＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PADMORE" />
+  <set_text_font fontType="gothic" />オレは立ち上がる。<readstop />
+  <br />
+  <hr />オレは目をこらし遠くのものを見、耳を澄まして音を聞いた。<readstop />
+  <br />
+  <hr />見えぬものは見えず、聞こえぬものは聞こえなかった。<readstop />
+  <br />
+  <hr />シキツウからの指示に従い、軽機動車に先導されて基地の外へと移動する。<readstop />
+  <br />
+  <hr />先導車は曠野の中で停止する。<readstop />
+  <br />
+  <hr />先導車とシキツウが通信している。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />＜Ｌ４汚染地域境界。これ以上は追跡不可能です＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PADMORE" name="パドモア" />＜シキツウ了解。ゴリアテは現状待機。先導車は後退せよ。ターゲットは現在ガルーダが追跡中＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PADMORE" />
+  <set_text_font fontType="gothic" />先導車も後退するとオレはその場で体育座りで待機する。<readstop />
+  <br />
+  <hr />オレは視野を後景化させると存在しないコクピットの計器を見た。<readstop />
+  <br />
+  <hr />計器の異常によってアラームが鳴っていた。<readstop />
+  <br />
+  <hr />すべての計器がまともでない数値をたたき出していた。<readstop />
+  <br />
+  <hr />だがオレの身体はなんともない。<readstop />
+  <br />
+  <hr />生身の人間であっても血液異常や胆汁異常があっても当人は気づかないこともあるのだから油断はできない。<readstop />
+  <br />
+  <hr />だが、オレはその異常を無視した。<readstop />
+  <br />
+  <hr />何故だろう？<readstop />
+  <br />
+  <hr />　わからない。<readstop />
+  <br />
+  <hr />言えるのはその夜はあまりにも静かだった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウ。ツニートのパイロットを狙え！＞<readstop />
+  <br />
+  <hr />
+  
+  
+  <hide_message_actor id="PADMORE" />
+  <bgm_play fade="8000.0" id="BGM_046" xDescription="GGF III" />
+  <set_text_font fontType="gothic" />オレはノイズ混じりの通信を聞いた。<readstop />
+  <br />
+  <hr />すべては分からないことだらけだ。<readstop />
+  <br />
+  <hr />ただ、それを聞いてオレは手足が痺れるような感覚になった。<readstop />
+  <br />
+  <hr />そしてオレの前景化した巨体の中でいくつかの電子音がした。<readstop />
+  <br />
+  <hr />オレは月面の自分を直視したように思う。<readstop />
+  <br />
+  <hr />だが何も見えない。<readstop />
+  <br />
+  <hr />すべての感覚は失われ、全身の神経が焼き切れるような激痛を感じた。<readstop />
+  <br />
+  <hr />月が真っ赤に染まった。<readstop />
+  <br />
+  <hr />すべての感覚が後退し、そこに残ったのは、あらゆる高密度の情報の外にいる何ものかだった。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="コクピット・ヴェールリバー戦場" y="0" />
+  <layer_show id="SEI_085" layer="1" pos="1" time="3500.0" trans="1" wait="false" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />オレは誰かに強要されるように自意識を取り戻す。<readstop />
+  <br />
+  <hr />その状況を誰かの目を借りて自分を確かめることができたなら、その状況をもっと印象的に思い出すことができるような気がする。<readstop />
+  <br />
+  <hr />オレは全身汗だくで銃口はオレの身体の要所に向けられていた。<readstop />
+  <br />
+  <hr />オレは肩で息をしていて、嘔吐しそうになっていた。<readstop />
+  <br />
+  <hr />たぶん、オレの身体はそうだった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「ゲームオーバー？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />バッドエンドを楽しむようにオレが言うと兵士はトリガーに指をかけた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SOLDIER" name="兵士" />＜ツニートは沈黙。状況終了。ゴリアテのパイロットは拘束せよ＞<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="1500.0" />
+  <hide_message_actor id="SOLDIER" />
+  <set_text_font fontType="gothic" />オレは吐き気を堪えきれず嘔吐した。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
+  <layer_show id="SEI_098" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・隊舎・取調室" y="0" />
+  <restore_tags id="10" />オレが命令を無視してＬ４汚染地域に突入したこと、ガルーダに対してミサイルを発射したことを取調室で初めて知った。<readstop />
+  <br />
+  <hr />オレはそのことを覚えてない。<readstop />
+  <br />
+  <hr />思い出そうとしても何も思い出せなかった。<readstop />
+  <br />
+  <hr />尋問はマニュアル通りに過酷だった。<readstop />
+  <br />
+  <hr />オレが尋問官だったらもっと手荒くしたいと思うぐらいにマニュアル通りだった。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_play fade="2500.0" id="BGM_052" xDescription="GGFVI" />
+  <layer_show easing="31" id="DF_c03_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="285" xDescription="若埴谷通常通常" y="820" />
+  <layer_show easing="31" id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿通常" y="820" />何日かそうやっていると、埴谷がオレの前に座った。<readstop />
+  <br />
+  <hr />埴谷は眼光だけがぎらぎらとしてあとは疲労しきっているように見えた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「君は命令を無視してＬ４汚染地域に侵入した。覚えているか？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「自分は覚えていません」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="HANIYA" name="埴谷" />「最後に覚えていることは？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「計器を確認し、アラートが上がっていることを確認したところです」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="HANIYA" name="埴谷" />「警告を何故無視した？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「シキツウがすでにそのこと把握していると思っていたからです」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="HANIYA" name="埴谷" />「当時、すべてのオンラインシステムは限定的にしか稼働していなかった。シキツウはゴリアテの異常については把握していなかった。これは君だけの過失じゃないのは確かだ。問題なのはそのあとだ」<readstop />
+  <br />
+  <hr />「君は気を失ったと言っているが、ゴリアテは汚染地域に侵入し味方であるガルーダにミサイルを発射している。正直、何も覚えていないのか？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「はい」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />埴谷は大きくため息を吐いた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「Ｌ４の汚染地域ではそもそもまともな通信はできない。君がそうしようと思ったところでだ。今回の件はただの誤作動にすぎない。君が罪に問われることはないさ。わたしもそう証言するだろう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <set_text_font fontType="gothic" />埴谷はすこし考え込んだ。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「君が気を失っている間、何か変わったことはなかったか？　すべての意識を失っていたか？　何か覚えていることは？　思い出してみてくれ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <set_text_font fontType="gothic" />オレは首をふった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「全身が熱くなると気を失った。それだけです。目覚めたら自分は銃口を向けられていました」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />埴谷はがっかりとしたようだった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「君、宗教は？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <show_message_actor id="GGF" name="GGF" />「は？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="HANIYA" name="埴谷" />「信仰している宗教はある？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANIYA" />
+  <set_text_font fontType="gothic" />オレは首を振った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANIYA" name="埴谷" />「ありがとう」<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="2500.0" />
+  <hide_message_actor id="HANIYA" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />埴谷は部屋を出て行った。<readstop />
+  <br />
+  <hr />即日開廷した軍事法廷で、オレは反逆の罪で死刑を求刑された。<readstop />
+  <br />
+  <hr />軍事法廷では自分で自分の弁護をすることしかできなかった。<readstop />
+  <br />
+  <hr />オレは何も言わずに、自分の死刑を受け入れた。<readstop />
+  <br />
+  <hr />オレは罪によって死刑になったわけではない。<readstop />
+  <br />
+  <hr />オレはそれだけで十分に死ぬに値するように感じていた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・隊舎・取調室" y="0" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show id="SEI_099" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・隊舎・拘置所" y="0" />
+  <restore_tags id="11">
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>虫の音が聞こえそうな空気の澄んだ夜だった。<readstop />
+  <br />
+  <hr />オレは拘束され、遊びのない檻の中にいた。<readstop />
+  <br />
+  <hr />そこに斑猫があらわれた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「少し散歩でもどうだい？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />斑猫はいうと扉を開けた。<readstop />
+  <br />
+  <hr />衛兵は立ちふさがってオレたちを止めたが、斑猫は困った顔で肩をすくめ一言何か言うと衛兵たちは道を空けた。<readstop />
+  <br />
+  <hr />実際はそんな簡単なことではないはずなのだが、オレにはそう見えた。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_play fade="1500.0" id="BGM_049" xDescription="GGF IV" />オレたちは一緒に建物の外に出て、グラウンドを歩く。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・隊舎・拘置所" y="0" />
+  <layer_show id="SEI_102" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地・グランド１（夜）" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「埴谷の提案を断ったんだって？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「提案？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君が本当のことをいえば、重機兵の暴走だと証言するっていったんだろう？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「ああ……そういうことだったのか」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常呆れ" y="820" />
+  <set_text_font fontType="gothic" />斑猫は呆れたように笑った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「真相は墓まで持って行くってか。そんな何かがあったのか？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「そんなものない。ただ、本当に何も覚えてない。嘘なんてつきようもないんだ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常呆れ" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <set_text_font fontType="gothic" />斑猫は頷いた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「それが本当だとして……僕は君に助けられたわけだ。あのとき僕は狙撃手としてガルーダに乗っていて、ツニートのパイロットを殺さなければならなかった。Ｌ４汚染地帯で限界を超えた低空から狙撃する命令だった」<readstop />
+  <br />
+  <hr />「条件的には難しい狙撃だったが不可能ではなかった。でも、正直僕はしたくなかったんだ。君……ゴリアテがミサイルを発射したことでガルーダは戦場を離脱せざるを得なかった。僕は引きたくない引き金を引かずに済んだ」<readstop />
+  <br />
+  <hr />「もし、あのミサイルがなければ僕は引き金を引いていたはずだ。だから、僕は君に助けられた」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「機械の誤作動とオレは関係ない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「それでも君はそこにいたんだ。意識しようとしまいと」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「だから！　それはオレとなんの関係もないって言ってるんだ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「なんでそんなに怒鳴るんだ。嫌なことでも人はそこに居合わせることがある、その程度のことだろう。君は本当は何か知ってるんじゃないのか？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレはなぜか胸部が熱くなる。<readstop />
+  <br />
+  <hr />息が詰まった。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君はこの顛末を知らないだろうから教えておいたほうがいいだろうね。自分とはまったく関係ないことで君は絞首刑になろうとしているとしても、全く関係ないことを知りたいと思うだろ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常苦笑い" y="820" />
+  <set_text_font fontType="gothic" />オレはかぶりをふる力が無かった。<readstop />
+  <br />
+  <hr />それを見て斑猫がバツの悪そうな笑みを浮かべた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「僕は狙撃手としてガルーダに搭乗して重機兵を強奪したパイロットを撃ち殺さなきゃならなかった。ツニートはＬ４の汚染地域に侵入した。生身の人間なら数時間持たないし電子機器もまともに動作しない高レベルの汚染地域だ」<readstop />
+  <br />
+  <hr />「指揮所はゴリアテをそのエリアの手前で待機させ、ガルーダによる上空からの狙撃を命じた。上空とはいえ、生身の僕にとっては気が進まない話さ」<readstop />
+  <br />
+  <hr />「ところが、待機命令を無視したＬ４の汚染地域にゴリアテが急進しガルーダにミサイルを発射したってわけだ。僕の乗ったガルーダは緊急回避さ」<readstop />
+  <br />
+  <hr />「何とか撃墜は免れたが、ゴリアテはレーダー照準でガルーダを狙い続けたために戦域からの離脱を余儀なくされた。知っての通りゴリアテは気を失った君の機体さ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは全身からじっとりと汗が吹き出す。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「ガルーダが戦域から離脱するとゴリアテはその場で停止した。強奪された重機兵ツニートは壊れたように前進を続けた。そして停止した」<readstop />
+  <br />
+  <hr />「ツニートを強奪したパイロットは実際にツニートに搭乗していたのだから、Ｌ４の汚染地域に侵入すればひとたまりも無い。パイロットは気を失いツニートは停止した。そのあと特殊防護の重機兵回収車が向かいツニートを回収した」<readstop />
+  <br />
+  <hr />「強奪したパイロットは瀕死の状態だったが死んではいなかった。でも再起できるような状態でもなかったようだけど」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレはいつか感じた嘔吐を記憶のどこかで蘇らせた。<readstop />
+  <br />
+  <hr />でもそれがオレの記憶のどこかで再現されているようには思えなかった。<readstop />
+  <br />
+  <hr />オレはまた別のところで嘔吐を感じた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常苦笑い" y="820" />
+  <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君はこの状況を望んでいたか？　灰色の魂しかもたない君が、色彩あるセカイを求めたか？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />オレは自分の居場所を確認し、慌てふためいた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「オレは斑猫さんが何を言っているかわからない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「あははは、君は僕が何を言っているかわからないっ！？　あはははは、面白い、おもしろいよ！」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />斑猫は懐から銃を取り出した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「君は自分自身が絞首刑になることをどのぐらい想像できている？　気管や頸動脈を締め付ける縄の軋りまで想像できる？　君はその音を聞きながら、絶命していくわけだけれど、一体どの程度それを理解できてる？」<readstop />
+  <br />
+  <hr />「軋みや息苦しさ、血流停止による気絶の前には無限の滞留があって、死ぬことなく永遠に死に続けるかも知れないという恐怖もあるだろうし、絶命すれば絶命したあとの無限に想像できる責め苦もあるだろう」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />オレは斑猫の取り出した銃口をのぞきこんで言った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「だったら、今死んで死後を確定させたほうがいいかもしれないね。死後の不安はあるけれど、生前の不安はそれで終いだ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
+  <layer_show id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1045" xDescription="ミラビリス通常笑み" y="820" />
+  <set_text_font fontType="gothic" />斑猫はにこりと笑った。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「キミはその覚悟だけは間違いなくあるんだといって自信満々に引き金に手をかけてみせるわけだけど、一度だってその引き金を引いたことはない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「引けばいい」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「だけど、キミは引き金を引いていない。引き金を引いたセカイと引き金を引いていないセカイは完全に相反することを知っていて、そしてキミは引き金を引けないでいるんだ」<readstop />
+  <br />
+  <hr />「いやいやちょっとまってくれ、ボクは引き金が引けないでいることを責めているわけじゃあない。キミが引き金を引けないでいる間、キミやキミたちは確かに生き生きとうごめくわけだからね」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「何をいっているか分からない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />斑猫は本当にうれしそうに笑った。<readstop />
+  <br />
+  <hr />どこかで見たことがある笑みだった。<readstop />
+  <br />
+  <hr />そうだ、一緒に酒を飲んでいたときみた笑みだ。<readstop />
+  <br />
+  <hr />斑猫は銃をオレに手渡した。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「キミは死刑囚だ。いずれにせよ、死ぬ。今すべきことがあるだろ？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・基地・グランド１（夜）" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_hide easing="31" layer="4" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_128" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="セイヒア自殺シーン１" y="0" />
+  <set_text_font fontType="gothic" />オレは月を見上げて、月面から届けられる自分の意志を確かめた。<readstop />
+  <br />
+  <hr />斑猫は手に持った銃をオレに手渡した。<readstop />
+  <br />
+  <hr />オレはそれを手の中でくるくるとまわした。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />「悪いけど、オレにこれは必要ないな」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「どうして？」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「そんなの知らない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君は死ぬか殺すかを、すべきときにしないとすれば、君が存在し続けることは難しくなるかも知れない」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <show_message_actor id="GGF" name="GGF" />「そうだとして、オレには何の関係もないだろ。オレはただの観測者＜プレイヤー＞なのさ。オレに強要するあんたもまた観測者＜プレイヤー＞じゃないのか。オレは選択しない。今、ここにいること、それだけだ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />斑猫は苦笑いをして頭を掻いた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MIRABILIS" name="ミラビリス" />「困ったやつだな」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MIRABILIS" />
+  <set_text_font fontType="gothic" />斑猫も月を見上げた。<readstop />
+  <br />
+  <hr />誤作動だろうか、オレは少し眩暈を感じたかと思うと現実が遠のいたように感じた。<readstop />
+  <br />
+  <hr />目の前の斑猫は少し色褪せ、オレを中心にしてすべての空間が遠ざかったように見えた。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="2500.0" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="セイヒア自殺シーン１" y="0" />
+  <layer_show id="SEI_135" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="セイヒア自殺シーン２" y="0" />それとほぼ同時に病棟から発砲音が聞こえた。<readstop />
+  <br />
+  <hr />斑猫は深くうなだれ、オレは病棟の奥を透視するように目を見張った。<readstop />
+  <br />
+  <hr />病棟の入口から出てきたのは車いすのセイヒアだった。<readstop />
+  <br />
+  <hr />セイヒアは衛兵に静止される。<readstop />
+  <br />
+  <hr />セイヒアの手には拳銃が握られており、衣服に赤いシミが飛び散っていた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" x="0" xDescription="セイヒア自殺シーン２" y="0" />
+  <layer_show id="SEI_136" layer="1" pos="1" x="0" xDescription="セイヒア自殺シーン３" y="0" />セイヒアはこちらにいる斑猫に笑いかけたように見えた。<readstop />
+  <br />
+  <hr />こちらの斑猫もセイヒアに笑いかけたように見えた。<readstop />
+  <br />
+  <hr />セイヒアは拳銃を自分のこめかみに向けると引き金に指をかけた。<readstop />
+  <br />
+  <hr />オレは全身の末端から痺れを感じて現実から遊離するような感覚に襲われた。<readstop />
+  <br />
+  <hr />ここから離脱しつつあるオレの感覚は、これまでのことがすべて幻覚であったと肯定するかのような強い現実感を植え付けた。<readstop />
+  <br />
+  <hr />……逆にいえば、それが現実のことであったのか、そうでなかったのかは、オレには分からない……<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANMYO" name="斑猫" />「ワタナベにはこれが分かるのかなあ」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANMYO" />
+  <set_text_font fontType="gothic" />斑猫は悔しそうに歯がみして、そして目から大粒の涙を流した。<readstop />
+  <br />
+  <hr />その視線の先にはセイヒアがいた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="セイヒア自殺シーン３" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />セイヒアは銃口を自分のこめかみに向けた。<readstop />
+  <br />
+  <hr />セイヒアは斑猫に褒めてもらいたそうな笑み浮かべた。<readstop />
+  <br />
+  <hr />そして口元を動かして何か言った。<readstop />
+  <br />
+  <hr />そして笑みを浮かべるとなんの逡巡もなく引き金を引いた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_128" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="セイヒア自殺シーン１" y="0" />オレはセイヒアが最後に浮かべた笑みを思い返してびくびくと手足が震えた。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="HANMYO" name="斑猫" />「なんど見ても堪える……なあ、ワタナベ……お前は何度も死にたいか？　ぼくはどうもダメだな」<readstop />
+  <br />
+  <hr />「ぼくは守りたい人が何度も死ぬのを……一度だってみたくなかった……なのに、ぼくは何度となくボクの守りたい人が死ぬのを見続けなければならないんだ……もしボクが死ぬならさ……」<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="HANMYO" />
+  <set_text_font fontType="gothic" />斑猫は大きく首を振るとふるえる膝で踏ん張りながら、じっとそこで立ち尽くしている。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="セイヒア自殺シーン１" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />オレの意識はすぅっと遠のき当事者たちの物語に関与できない無限の彼方で立ち尽くす。<readstop />
+  <br />
+  <hr />オレはそこでただ立ち尽くし逃げ出したい衝動にかられる。<readstop />
+  <br />
+  <hr />今すぐに。<readstop />
+  <br />
+  <hr />完全にオレが本来いるべきでない場所から、無限遠の彼方へ逃亡したかった。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="SEI_07" taskid="SCENARIO_MVP" />
+  <readstop />
+  <br />
+  <hr />
+</scenario>

@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  <layer_show id="SEI_127" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="ワタナベ自殺未遂(EQC)" y="0" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />　　这时，一阵如针刺般的疼痛袭击了我的眼睛。我发出尖叫，眨了眨眼。我紧闭双眼，留下了世界的残影，只是瞬间天就黑了下来。当我再次睁开眼睛时，眼前出现了小凯。小凯用鬼一样的表情盯着我，我不禁发出一声小小的惊呼。<readstop />
+  <br />　　“你在做什么？”<readstop />
+  <br />　　“啊，只是……”<readstop />
+  <br />　　“只是什么？”<readstop />
+  <br />
+  
+  <bgm_play fade="15000.0" id="BGM_036" volume="100.0" xDescription="現実 II" />　　我明白这就是我平常所感到的自己。而这稀松平常间却莫名生出一丝新鲜感。我自问自己为什么会这样,与此同时,我的空间感也在瞬间恢复过来,就像从浅眠中醒来时那种短暂的身体感知的恢复一样。既怀念又疲惫,于是放下了枪。……这是怎么回事？<readstop />
+  <br />　　我舔舐干燥的嘴唇时，看到了手中指着我脑袋的东西。是美洲狮。<readstop />
+  <br />
+  <hr />　　“啊……不，我只是……”<readstop />
+  <br />　　“不，我不是责怪你。这只是意味着《死域》又多了一个受害者。”<readstop />
+  <br />　　我亲眼看到了小凯的脸。小凯异常闷闷不乐。<readstop />
+  <br />　　“你看到了塞西亚的回放？对自己的无能感到失望，想死，这是可以理解的，对吗？”<readstop />
+  <br />　　“不不，不是这样的……”<readstop />
+  <br />　　我笑着回答，小凯点了点头，面无表情，然后露出淡淡的微笑。<readstop />
+  <br />　　“EQC的门半开着。如果不是我及时发现并关上了它，恐怕会很危险。”<readstop />
+  <br />　　“这什么意思？”<readstop />
+  <br />
+  <hr />　　“人一旦长大，就会患上名为人类的疾病，这种病即便只有一种症状，也会引发极其严重的后果。并且啊，人类常常复发这种疾病，层层叠加，便会夺走人的生命。就像从半开着的EQC门中溜出来的病症一样，它最终杀死了渡边君。”<readstop />
+  <br />　　“不够劲儿的恐怖故事呢。”<readstop />
+  <br />　　小凯坚定地肯定：“确实啊。”然后，她似乎若有所思。<readstop />
+  <br />　　“你怎么了，我从小凯那儿拿到豆沙包的时候就这么精神抖擞？”<readstop />
+  <br />　　“该做的一切我都已经做了，只剩下疲惫的身躯。我感到精疲力尽……好吧，这说起来也挺好笑的就是了。”<readstop />
+  <br />　　小凯友好地微笑了一下，结束了谈话。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ワタナベ自殺未遂(EQC)" y="0" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <restore_tags id="2">
+    <bgm_play id="BGM_036" xDescription="現実 II" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　“诶这个从哪里讲起好呢。首先是关于法尔河，正如之前所说，这个城市是依靠铀矿发展起来的。人口只有五千人左右，倒是蛮有活力，尽管在南非的偏远地区，但电子化程度非常高，而且守备队还设置了家用发电站，为整个城市提供家用电力，因此居住者们从未遇到过停电。城市里有一家为守备队娱乐而设立的游戏中心，由于非常少见，吸引了很多孩子前来玩游戏。其中最受欢迎的就是体感型街机游戏《死域》。尽管《死域》已经有很多用户，但体感型街机版在全世界只有90台，非常珍贵。当然呀，因为这台设备是由miu生物技术公司的附属公司提供的，设计图几乎伪装成了美国军工复合体的手笔，但溯源一下就可得知基本设计来自美国陆军实验部队。当这个关键词出现时，我认为大概是个巧合。不这么想的话这就是没有依据的定论。<readstop />
+  <br />
+  <hr />　　不管怎么说，那种期待着不被辜负的安心感呢，或者说失落感呢，这样那样的感觉总是挥之不去的。<readstop />几年前货币危机那时候，美国国会在预算问题上争执不休，以往大手大脚的军事预算计划未能通过。人形兵器尽管在技术上已经成型，但很难拿到资金来周转。战斗车辆和飞机收益可观而稳定，军工复合体也能以改装业务来持续盈利，自然，军队与军工复合体各方会就人形兵器开发的实用性引发剧烈论战。<readstop />人形兵器的开发费用，即使把新型坦克和新型战斗机的开发费用加起来还不够。<readstop />在这个时候，军事预算又被削减了。尽管如此，美国陆军实验部队仍执意继续开发。他们对正独立开发着人形兵器的日本施压，强推他们与美国进行共同开发。日本这个好好先生不仅提供开发资金，还承诺在完成后以高于市场价的价格购买。估计有些国会议员的腰包因此鼓了不少。<readstop />
+  <br />
+  <hr />　　为获得预算支持，他们试图通过模拟来证明人形兵器的实用性。人形兵器机舱——即《死域》街机版就由此而生。<readstop />他们就以此为伪装，秘密进行着这场为兵器开发所服务的模拟实验，对利用民间人士做测试的风险心知肚明。物理运算和性能信息皆由基于超级计算机的在线服务器来计算，确保绝对无痕。<readstop />军工复合体和美国陆军实验部队只需要寻找可以落实计划的地方。恰巧，对南非持宽容态度的美国突然翻脸。美国以恫吓外交的方式，逼南非签订了实质上的不平等条约。当然，一切的发展都如美国所料，内战也只是计划的一部分。<readstop />由此，他们让稚嫩的实验体拿起真实的武器，年轻的脑细胞为了数据消散。”<readstop />
+  <br />　　“法尔河也是用来实验的战场？”<readstop />
+  <br />
+  <hr />　　“正是如此。在完成计算机端的攻防模拟后，下一步就是收集真人的战斗数据，特别是年轻人对这种操作的熟练度。在这种想法驱使下，他们在法尔河畔建立了特殊的游戏中心。街机版《死域》能够使用纳米机器进行生物认证和控制，这些纳米机器是由米乌生物技术公司制造的。作为前米乌生物技术公司的工程师，埴谷为何会转入舍密部，并在法尔河附近活动呢？”<readstop />
+  <br />　　“就是说美国陆军部队不希望这件事公开，想委托神龙见首不见尾的情报机构来进行评估？”<readstop />
+  <br />
+  <hr />　　“哇哦，你的洞察力还是一如既往的出色啊。刚才还迷迷糊糊的呢。对，我也有这想法。要玩街机版《死域》，需要将控制用的纳米机器注入体内。管理这件事的是埴谷。他让当地孩子免费享受游戏，唯一的条件就是注射纳米机器。这些纳米机器的型号是XNC28B系列。”<readstop />
+  <br />　　“好像在哪听过？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e20" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑み・光無し" y="820" />　　含糊其辞的我，刚好撞上小凯脸上刻意的微笑。<readstop />
+  <br />
+  <hr />　　“哈哈哈，那是因为渡边君也注射的是这款！XNC是miu生物技术公司的内部开发类别之一，意为‘实验性神经计算机’（Experimental Nerve/Neuron Computer）。其中为人型兵器开发的是28B，下面的数字是最小单位的开发批次编号。孩子们当时都沉迷于游戏，塞西亚的得分特别高。即使从我们救出来的数据来看，她的得分也异常高，足足比其他人高出两倍以上。这意味着纳米机器更看重天赋而非熟练度。之后实验继续进行，模拟结果聚沙成塔，实用性得到了某种程度的肯定，一台试作机被制作出来，并带到了法尔河前线。毫无疑问，塞西亚被选为测试飞行员。塞西亚对此一无所知，只是像往常一样坐在游戏中心的舱内打着游戏，实际操作的却不再是虚拟设备，而是真正的战争兵器。<readstop />
+  <br />
+  <hr />　　XNC和硬件的连接存在较大延迟，必须以软件端强行补偿，与虚拟设备相比相当难以操作。即便如此，塞西亚却也安然无恙，战果反而可以说是硕果累累。随着试作机不断的迭代，控制精度逐渐提高，击破率也迅速上升。令人难以置信这一切战果都只拜这一台重型机甲所赐。美国甚至要通过第三国向敌人提供现代武器以收集实验数据。看到这些战果，美国对重型机甲也寄予厚望。然而，在收集XNC的实验数据时，问题也就此袭来——疑似XNC副作用的症状开始在孩子们身上出现。”<readstop />
+  <br />　　我的胸口满是强压般的不适感。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑み・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e19" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />　　“他们只会死盯着那些明明空荡荡的地方，或是自言自语，仿佛在与看不见的人对话。最初时不注意便看不出任何异常，但症状会随着时间逐渐加重。最终，他们失去了维持人格的能力，重复着毫无意义的话语和动作，愈加迟缓的行动化为静止，只剩下死路一条。埴谷和其他工程师称这种现象为‘黑障’，并着手调查其原因。当地年轻人本就病死率高，居民只以为这是日常的不幸，没有引起大问题。当地的宗教观念认为幼年死亡的人不会再出生，是一种极乐净土的观念。在这种情况下，工程师们和当局非常慌乱，短期内发布了好几个XNC28B的改良版本。<readstop />
+  <br />
+  <hr />　　这些改良有一定效果，但对接种过初期版本的孩子只能说是聊胜于无，很多孩子因此死亡。塞西亚接种的是较后期的XNC，一开始并没有症状，不久之后，症状逐渐显现。”<readstop />
+  <br />　　“是死了吗？”<readstop />
+  <br />　　“当然了，也不能说是板上钉钉，恢复出来的信息中可从未出现过‘死亡’之类的字眼。那些死去的孩子们总是有一种趋势，在游戏世界中得分越高，现实世界中的精神状况也就越糟。得分总是在击破率指数级上升之后中断。塞西亚自然也未能免俗。”<readstop />
+  <br />　　“其他孩子的记录里有死亡的记述，为什么没有塞西亚的？”<readstop />
+  <br />
+  <hr />　　“一切与塞西亚有关的个人信息都被删除了，除了《死域》的游戏数据。看来对塞西亚信息的抹除非常彻底。塞西亚的游戏数据被改名保存到了美国陆军实验部队的数据库中。如果是NSA删掉了塞西亚的信息，我们又怎么可能会知道塞西亚的存在呢。塞西亚就像朵早就消散的雨云，我们也不可能知晓她的存在。大概是为了避免《死域》的优秀测试飞行员被敌人追踪。我能找到的唯一信息只说她是个9岁的马来裔混血少女。”<readstop />
+  <br />　　“9岁？！这不是游戏里角色资料写的吗。而且游戏里塞西亚也是这么说。”<readstop />
+  <br />　　“根据我的调查，她实际上就是9岁……所以在游戏是9岁也没问题。其他孩子几乎都是十几岁，好像还有比她小的。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“这怎么能饶得了它们。所以说，才因此在法尔河这种特殊地带进行吗。怎么还有这么离谱的事……”<readstop />
+  <br />　　我愤然起身，突如其来的眩晕让我不得不扶住桌子来支撑身体，胸中的怒火喷涌而出。视野也在怒火中豁然开朗。<readstop />
+  <br />　　“斑猫先生知道这事，杀了埴谷大叔，再接着是舍密部里知情的那帮人。是这样的话，斑猫先生的行为可以被厘清了。”<readstop />
+  <br />　　在重村曝尸的房间里，斑猫看着死域流露出的那份不悦的情结，此时正缠绕在我的心头。之后，被扔进那调查工作的斑猫，只用了句“过于真实以致玩家死亡”就草草收场。实际上斑猫早就知晓真相。恰恰是知晓真相才要以那荒唐化作事件的终结。斑猫杀了局长逃走后，我桌上出现的那瓶药也无疑是斑猫放的。难道他在向我传达着，那里才有事情的真相……？<readstop />
+  <br />　　“渡、渡边君，你没事吧？”<readstop />
+  <br />
+  <hr />　　“我怎么可能没事啊……斑猫早就到达了根底，而我姗姗来迟。我无能，我生气啊。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e20" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑み・光無し" y="820" />　　“都怪我没有足够的时间调查，这不是渡边君的错……”<readstop />
+  <br />　　“但斑猫先生也是靠自己调查到这里的啊！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑み・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“啊、啊……”<readstop />
+  <br />　　小凯的嘴慌张地张成O字，一开一合的声音像是鱼在吐泡泡。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“我记不住了。我想这不是吉住前辈调查过的吗。渡边君曾经委托过我重置过密码对吧？还记得吗？”<readstop />
+  <br />　　“嗯？”<readstop />
+  <br />
+  <hr />　　“捜査课那终端的密码找不到了，所以你让我重置。可实际上。那个那个。那账号是被盗用了啊。那个账号的操作日志被彻底删除掉，什么也没留下，由此我花了好长时间去追踪通信日志，发现了来自吉住前辈终端的访问痕迹。”<readstop />
+  <br />　　“什么？我那时什么都没干，账号ID是吉住告诉我的……”<readstop />
+  <br />　　我大叫一声，抱头蹲防。完全被设计了。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“吉住前辈是个优秀的特工，她本不该在装备课打酱油的。那是特别类型的停用账号，我也没注意到。败了败了。”<readstop />
+  <br />
+  <hr />　　啊啊，小凯在安慰我啊……也对，吉住小姐很优秀，但这并无助于为我这被她摆了一道的家伙辩护。正因为她优秀，才要对她多加提防。吉住知道我需要重新发放账号密码，于是给了我一个冒充用的账号ID。当小凯不知情地激活了那个账号，她便窃取了重置的密码，劫持了账号。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e19" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />　　“如果斑猫的目的是制裁这场卑劣的人体实验，杀了局长和埴谷大叔，就大功告成。如此，该死的人死了，不就功德圆满了吗。”<readstop />
+  <br />　　“真辛辣呢。”<readstop />
+  <br />　　“什么？还不够明显吗？他们明明知道风险却还是把孩子们杀了。想想就能明白吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　　“嗯，与私情无关……而是哪怕多不可原谅的事，发生了就是发生过了。考虑这些就是我的工作。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　“我可能不能像你那样。”<readstop />
+  <br />　　小凯怒视着我，扬起眉毛。<readstop />
+  <br />　　“为什么生气？我做了什么？”<readstop />
+  <br />　　“你到底为什么不生气啊？！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　　我喊叫的声音大到连自己也吓了一跳。小凯呻吟了一声，身体抽搐了一下。<readstop />
+  <br />　　我怎么如此易怒，还要对小凯大喊大叫？反应过来后我低下头，像猫一样持续低鸣。<readstop />
+  <br />　　“实话说渡边君，我现在不是很懂你。我一直觉得你是那种无论发生什么事都要当一天和尚撞一天钟的人。所以说，即便是重村君的事件啊，局长啊埴谷大叔的被害，这些事你都能淡然应对来着。”<readstop />
+  <br />　　“不，这些和对孩子们做人体实验完全不在一个级别吧？”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　　“是这样吗？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e19" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />　　“哇哈哈哈，不管怎么想小凯都很奇怪呀。问谁也不会说我说错了。小凯你的脑回路如机器一样哟。”<readstop />
+  <br />　　小凯的眼中神色消失，用手抚着下巴。<readstop />
+  <br />　　“嗯……为了得到合理结论，如机械般思考大概也不可避免吧……但渡边君你以前也是这样的。现在你却说‘人的生命比地球重’，实际上只是放弃了判断。我觉得这不对……”<readstop />
+  <br />　　“那是你误会了。完全误会。我一直是这么有爱心的人，只是你没发现。”<readstop />
+  <br />　　小凯缓缓眨眼，看着我的眼睛。<readstop />
+  <br />　　“这样。这样的话，那我误解了哦。那么，接下来该做什么？”<readstop />
+  <br />
+  <hr />　　“你知道我那个组织都做了什么。消极地帮助斑猫先生逃跑。”<readstop />
+  <br />　　“意思是，什么也不做吗？”<readstop />
+  <br />　　“并不是啊。明明很累的。就好像所谓完美的啤酒，就是平衡在冰冷和温热的狭小边缘，于奇迹般的温度管理中，自玻璃杯灌进喉咙里来咕噜作响呀。”<readstop />
+  <br />　　“是逃工呢～”<readstop />
+  <br />　　“小凯也一起怎么样？”<readstop />
+  <br />　　“容我谢绝。我可从没喝过酒。啊，并且呀，我可是有更好的理由。就这理由对我来说可一点也没有合理性啊！”<readstop />
+  <br />
+  <hr />　　我以为自己早就习惯了这种嘲讽，但熊熊燃烧的肉体内里迸出的每一颗火星，天灵盖旁妄想出的锤子每一次敲击的梆梆声，都一一次地令我愤怒不已。此刻，仿佛有股冲击力自体内迸射向身体的每处边缘。我不是已经粉身碎骨、灰飞烟灭了吗。肉体炸裂为极端细小的微尘，精神也与那一块块微小的血肉随风消散。<readstop />
+  <br />　　在散落的血肉缝隙中，我看到了几幅幻影。斑猫站在射击靶道上，屏息凝神地瞄准着模型靶。我即是那靶子，被斑猫射穿全身。子弹射穿身体时，我凝视斑猫的枪口。子弹在膛线中摩擦，被削下的金属屑与火焰一同喷出枪口。一眨眼，弹头将穿透我薄薄的脑髓。但只要我没有自己被射穿的意识，那颗子弹就将继续飞行，丢下我完好的脑髓。<readstop />
+  <br />　　我眨了一次眼，对眼前的小凯说。<readstop />
+  <br />　　“所谓合理性就是在任何情况下都合理，不会被颠覆的哦。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　小凯低下了头。<readstop />
+  <br />　　“一种世界系下的合理性常常与另一次元的世界系合理性相悖但难舍难分。这结论，是计算机世界史的方法论，也是其他学界所称的伪科学。这种推导自稚嫩计算程序而又哗众取宠的结论是被学者们一众批判着没错啦……。只是这样粗劣的程序所推导出的结论，对我来说就是能直观地快速理解。不是说什么这程序很可靠，而是我从根上就很懂这些机械啦。”<readstop />
+  <br />　　我缓缓闭上了眼睛。要是把眼睛闭上就能消失该多好。但事与愿违。我再次睁开眼睛。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e19" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />　　“我和小凯、斑猫先生、吉住小姐位于同一个维度，做着同一个梦。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　無表示・光無し" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“唔噗噗噗。”<readstop />
+  <br />　　小凯突然笑出来。<readstop />
+  <br />
+  <hr />　　“渡边君太浪漫了呀。唔呼呼呼，哈哈哈。真傻。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e17" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />　　“那是，那当然了。像我这样有人情味的人，从机器的角度就当然是个笑话。机器要是真能理解笑话的话。HAHA！”<readstop />
+  <br />　　小凯脸上浮起苦笑，说。<readstop />
+  <br />　　“每个人身边都有一个别人完全无法理解的别样的世界呢，就算他就坐在邻座。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　小凯没有笑，而是抬头望向天。笑完后，她调整呼吸，吐了口气，轻声说道。<readstop />
+  <br />　　“对了，忘了说。斑猫也在那地方玩过《死域》。我记得，名字是，<readstop />‘米拉比利斯’。”<readstop />
+  <br />
+  
+  <bgm_stop fade="10000.0" />　　我点点头，想象着醇美啤酒的梦幻泡影。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="EQC" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_117" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="舎密部仮眠室" y="0" />
+  <restore_tags id="3">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我从休息室里醒来。美梦是没有一个。身体倒是轻若羽翼。简直如从零开始了一样。我应该在游戏里好好睡上了一觉，但那大概率就是个错觉，实际并没有真的睡着吧。这不过是意味着我打了一晚上死域。<readstop />
+  <br />　　看了一眼时钟，指针大约指向4点58分。是上午还是下午？又是星期几呢？<readstop />
+  <br />　　看起来已经旷了一周的课了，对于我这个觊觎全勤奖的人来说，相当遗憾。我一直装扮着一个嘴笨脑笨却异常有耐心的学生，连续无故旷课的话，学校方面大概会怀疑发生了什么事件。要是那样，就会隔绝警察的介入，而是轮到舍密部出马。我听说学校的一般职员都不知道舍密部的存在，知道的只有少数高层人员，比如理事长、教务主任，还有公认会计师。他们似乎会在那些可能造成信息泄露的关键位置安插舍密部的才干们。<readstop />
+  <br />
+  <hr />　　待在个没有窗户的深地下室里，墙上的时钟秒针在眼前转动不停。我终于找出了脱离这循环的那句咒语。<readstop />
+  <br />　　“唉，现在让我自己决定现在是上午还是下午也无所谓了。不过我还是要勇敢地说，我认为现在是上午。”<readstop />
+  <br />　　我立起身，伸了个大大的懒腰。胸中那份从全勤奖束缚中解脱的快意，终于是铺展在了真心里。这真是一个美妙的早晨。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部仮眠室" y="0" />
+  <bgm_play fade="10000.0" id="BGM_027" xDescription="アム、アイ？" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />　　我回了一趟搜查课，给终端充上电。就让我看看现在真正的时间吧。我屏息凝神。<readstop />星期一的上午五点零三分，<readstop />并且就在刚刚，新的一周徒然伊始。我不过是从周五夜里开始通宵，熬到星期一的早晨醒来而已啊。原来如此、原来如此。好啊、好啊。这达成条件可一点都没变啊。来吧，全勤奖的续篇从现在开始了！哇哈哈哈！<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_008" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="膨雀高校教室" y="0" />　　这老师的讲课内容随着自己的兴趣爱好来回跳跃，主线勉强地悬在中间，逼那些割裂的话题平行排好。虽然没搞明白这老师想要解释什么，但他对所谓“原爆文学”这文学流派的形成过程讲的越深，他所展示的那文学也就越显得苍白无力。或许，这是对语言的多样性和易误读性的委婉暗示。当国语老师真麻烦啊，我这样想。<readstop />
+  <br />　　上课途中传来广播铃声。因为还在上课，不免有些想象力丰富的人误以为是什么空袭警报而叫喊出声，大部分学生的心中躁动不已，想知道这突发事件有多么严重。<readstop />
+  <br />　　“日本政府宣布全国进入紧急状态。请全体学生立即离校返家。重复一遍。日本政府宣布全国进入紧急状态。请全体学生立即离校返家。”<readstop />
+  <br />　　自己开着人形机甲战斗的身影不由得闪出来。这也是游戏的续集吗？嘛算了。我不再仰望天空，合上桌子上的教科书和笔记本，返回值班室。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="膨雀高校教室" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <restore_tags id="4">
+    <bgm_play id="BGM_027" xDescription="アム、アイ？" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我回到办公室后，坐在斑猫的椅子上一圈圈地转起来。值班室空无一人，不需要顾虑谁。<readstop />
+  <br />　　嘟嘟嘟嘟，电话铃闹个不停。<readstop />
+  <br />　　“这里是渡边。”<readstop />
+  <br />　　“找到斑猫的下落了吗！”<readstop />
+  <br />　　这声音好像有点耳熟。嗯……是谁来着？啊，对了！就是那个人。<readstop />
+  <br />　　“啊，是指挥系统里不知为何权限那么高的秘书长unclear吗？啊啊、好久不见啦。幸会幸会。”<readstop />
+  <br />　　“别给我来这一套！”<readstop />
+  <br />　　“诶？您这话又在说什么？”<readstop />
+  <br />　　“别装傻子！你是不是已经掌握了斑猫的下落？！那家伙明明就是要击落卫星！”<readstop />
+  <br />　　听到这番话，我只是淡淡地想：啊啊，就这点事啊，并没有放在心上。<readstop />
+  <br />　　“斑猫先生正在参与让卫星坠落的恐怖袭击吗？”<readstop />
+  <br />
+  <hr />　　“所以说才要阻止他啊！我不想把话说得很难听，但要是真发生了的话，到时候你也会被当作共犯的！”<readstop />
+  <br />　　看来他真的是逼到绝境了。虽然这种威胁毫不讲理，但就是如此，才更让人不知道他究竟要做什么。<readstop />
+  <br />　　我将秘书官的悲壮吼声抛在脑后，开始思考。斑猫为何要做出让卫星落下这样愚蠢的事？是因为愤怒到失去理智，要毁灭人类了吗？但我不认为那个斑猫会做出这种毫无意义的事情<readstop />
+  <br />　　“我觉得斑猫先生应该不会落下必要之外的东西。敬请放心。”<readstop />
+  <br />　　我挂断了电话。斑猫的所作所为皆有缘由。这次也肯定不例外。<readstop />
+  <br />
+  
+  <bgm_stop fade="3000.0" />　　我朝着小凯走去。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <bgm_play fade="2000.0" id="BGM_018" xDescription="お？" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　小凯全身汗津津的，不停歇地舞着。<readstop />
+  <br />　　“小凯，辛苦了！”<readstop />
+  <br />　　“啊—，渡边君，今天也好天气哦！”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />　　小凯纤腰招展着，一边回应着我。<readstop />
+  <br />　　“我猜你大概也对这事知晓一二了，相应的对策也有方向了吧，斑猫先生是要击落卫星吧？现在怎么样了？”<readstop />
+  <br />　　“正·在·全·力·追·踪·中！您好！吾乃射电观测卫星！通讯模块已经被关闭，被完全完全的夺取完了哦！”<readstop />
+  <br />　　小凯对现实与虚拟不加区分，信口胡说着。<readstop />
+  <br />　　“距离坠落还有不到一小时。抓紧恢复通讯！姿态控制协议有漏洞吧？那就从那里突破并恢复通讯吧！试试以调试频率进行连接，让我包揽一切计算！包括备份服务器！从散列加密密钥中修改高位字节！或者就直接删掉得了！预测落点在哪里啊？！”<readstop />
+  <br />　　啊哇哇哇，小凯来真的了。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　“OK──OK──，卫星状态接收恢复。上行链路也拜托你了。坠落地点预测怎么样了？上行链路连接情况怎么样？要是需要的话，中止权限也确认过了。让它坠落吧！OK 了，来看看坐标啊。啥？这个是实时数据？燃料的重量考虑进去了吗？哦哦，是在太平洋上啊。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e11" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　安心" y="820" />　　看着小凯那颇有难度又有节奏感的电脑舞蹈技术，我眨巴着眼睛，倒也没错过小凯高难度的计算机舞蹈技巧。小凯深吸了一口气，摘下了头戴显示器。<readstop />
+  <br />　　“诶呀，感觉挺有收获呀。真好呀真好呀。”<readstop />
+  <br />　　“诶——，我看看，结果不错呢。太好了。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　安心" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e21" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />　　“你怎么看起来一点也不高兴？”<readstop />
+  <br />　　“啊，我都不知道发生了什么啊……”<readstop />
+  <br />
+  <hr />　　“私人安保公司的无线监视卫星失控了，幸好我们改变了轨道，这个问题暂时告一段落了，难道真的是斑猫先生所为吗？我已经查了这么久，但我对斑猫现在在哪根本没有头绪，对吧？即便是内部消息，我觉得也不能完全当真。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　小凯看到呜呜呻吟又无力反驳的我，哧哧地笑出来。<readstop />
+  <br />　　“卫星坠落这种事我可从来没听说过，难道实际上操作很简单？”<readstop />
+  <br />　　“唔——，常理来说，如果拿渡边君所提的‘简单’来击落卫星的话，那就太不妙了呢。所以说，对于你的提问，我将会用NO来回答。怎么样？我是不是很聪明呀？尼嘿嘿。”<readstop />
+  <br />　　小凯大概是累了吧，我怎么也从中读不出喜怒哀乐。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“一般来说，会使用一种名为 CCSDS 的协议来与卫星进行通信。一些军用卫星会使用专用频段，并使用非公开的专有协议来加密通信，例外也不是没有。如果是民用卫星，也会使用 CCSDS 进行通信。当然，为了操作它，拥有密钥的管理员必须要用该密钥来发送命令。这种钥匙就容易有着世界上独一无二的精密物品的印象呢。再加上结实地足以承受核爆炸的门，渡边君，如果我试图打开被那样的钥匙所锁住的这样的门，该怎么做呢？<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“抢来钥匙就好了呀。”<readstop />
+  <br />　　当我立即回答时，小凯发出一声略带阴暗的笑声，说道：“嗯嗯。”<readstop />
+  <br />
+  <hr />　　“是这样呐。唔呼呼。强行突破是不可能的，复制也几乎不可能，没关系，这实际上不是什么大事。虽然没有钥匙的话几乎不可能解锁，但访问还是有很大可能性的。因此，夺取卫星究竟是不是简单的呢，这问题或许也能用YES来回答。Yeah～”<readstop />
+  <br />　　“又在说瞎话了呢。”<readstop />
+  <br />　　“实际上，获取最高强度的密钥，还需要另一个同样强度的密钥，但这仅仅是为了拖延时间，并非为了防止被黑客突破。黑客一步一步地骇进卫星本部，小心翼翼地以防他人觉察。最终，他们夺取了民用卫星的控制权。控制权一到手，就会用新的密钥替换所有已获取的密钥。这样，控制权就完完全全到手了，这次的事件大概也是如此。”<readstop />
+  <br />　　我懂了。我还以为黑客更像更加神秘和超验的东西，原来这么通俗的啊。<readstop />
+  <br />
+  <hr />　　“所以这次你是不是要重新，去追查那些被替换的密钥？”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show id="SEI_c04_p01_e22" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　誇らしげ" y="820" />　　小凯似乎一直在等待这句话，脸上带着微笑开始说道。<readstop />
+  <br />　　“举个例子，有五扇门，五个钥匙。门被钥匙打开后可以进入，可是将门关闭时钥匙也会被毁坏，结果会怎么样呢？就没有人可以进去了。变成那样的话，就只能举双手投降了。接着下达最终命令，卫星应声而坠，没有人能阻止得了了。这一次就是这种情况了。卫星朝地面坠落后所有的密钥都被禁用了。如果最坚固的门打不开，就必须寻找另一扇。该卫星上的配置的通信模块有调试模式。虽然测试期过后逐步被禁用了，但如果打开它，则无需验证即可在特定频率上进行通信。我们将目标变为攻破这里。怎样？怎样？是不是很有趣？”<readstop />
+  <br />　　唔哇，有点麻烦啊。<readstop />
+  <br />　　“唔嗯，继续说吧。”<readstop />
+  <br />
+  <hr />　　“嗯嗯，我想你已经明白了吧。我现在陷入了即使打开调试模式也无法通信的困境。那么，就应该有一台不用连线，也可以从外部输入变量的设备。那，下一阶段我们该从何处开始好呢？太阳能发电机、广域探测碎片雷达、辐射测量设备、卫星时钟同步、紧急预警发射接收设备……应该还有很多数不清的其他装置。以此为入口，向目标的通讯模块开始调试模式。每个设备都经过了安全测试，但很可能会发现根源于表面设计的安全漏洞。进入制造商的网站并搜索每个模块，看看是否可以使用该漏洞。发送命令，打开调试模式！”<readstop />
+  <br />　　听起来她并没有向我解释的意图，只是在自吹自擂。<readstop />
+  <br />
+  <hr />　　“这次我们用的是卫星时钟同步器哦，这同步器的模块和程序问题很大，有很多安全漏洞。对时间信息写入的审查相当弱诶。这对我们来说很有利。毕竟那可是很容易蒙混过关啊。接下来读取一个不以实际时间为形式的数据。这里可以读取超乎想象多的数据，并强制覆盖掉内存，当然，也会在重写的内存中写入打开通信模块调试模式的命令。唔嘻嘻嘻嘻。有人没有意识到它被重写了就执行啦。噫嘻嘻嘻嘻嘻嘻嘻！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　誇らしげ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　　小凯，你笑起来可真丑陋啊。我也有没法理解小凯的时候。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e23" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />　　“不过厂家也提供了图纸。”<readstop />
+  <br />
+  <hr />　　“不不，他们只是让我看了一眼。毕竟目的只是找到一个安全漏洞，所以没有人会让我把它出去，这事关某些家伙的责任问题。”<readstop />
+  <br />　　“如果一颗卫星坠落，损害肯定是忽视不掉的，但话也不能说的太过。我想知道他们是否认为卫星不会落在他们头上。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e22" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　誇らしげ" y="820" />　　“不会落在自己头上，这就是你的想法吧。当你思虑着下一刻会不会突然死掉的时候，尽管这种情况发生的可能性并不为零，但不知怎的，你却认为一切都会相安没事。”<readstop />
+  <br />　　“什么？我下一秒就有可能死了是吧？！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　誇らしげ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“渡边君怎么这么兴奋啊？！”<readstop />
+  <br />　　“因为，就算你这么说……可以否认这种可能性的材料太少，眼看着我要因不安焦虑死了啦。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e23" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />　　「啊哈哈哈。渡边君，你别再逗我笑了，啊哈哈哈。」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　其实，我可是很认真的在焦虑啊。<readstop />
+  <br />
+  <hr />　　“嗯，就是这样。故事是，安全漏洞被利用，调试开关被打开，并使用特定频率发送命令来阻止坠落。”<readstop />
+  <br />　　小凯的心情相当好，所以我想这个结果是令人满意的。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“坠落的问题消失了很好，但还有很多事情我们不明白。夺取一颗民用卫星并试图用来攻击，这可以理解，但为什么小凯要来处理这件事？我不知道，但如果一家公司的卫星失控，直接向国家有关当局通报不好吗？”<readstop />
+  <br />
+  <hr />　　“在调查重新夺取密钥的时候，顺便也调查了这颗卫星的所属，看来是一家与舍密部关系密切的公司。它承包了通信局的大部分卫星通信网络服务，就是它的卫星。”通信局接到第一份报告后，向电网研进行了紧急汇报，发现情况不妙后，应该向航天局报告了，我还使用了舍密部里的密钥。闯入那家公司，如果从舍密部内部偷走卫星的话，或许没那么困难。”<readstop />
+  <br />　　“所以说，到底是不是斑猫先生干的呢。卫星什么的掉下来不都会燃烧殆尽吗？”<readstop />
+  <br />
+  <hr />　　“这次的卫星很重，所使用的部件都是由高耐热材料制成的。如果控制得当，让它进入大气层，就有可能在下落到地面时仍可以保留相当的质量。如果它落在市区，死者可能会达到数百人。伤者只会更多。这无疑更像是种威胁，但心理层面的恐惧有可能比卫星自由降落更加有效。”<readstop />
+  <br />　　“这次的攻击目标在哪里？”<readstop />
+  <br />
+  
+  <bgm_stop fade="500.0" />　　“你不是说了吗？就在这里。”<readstop />
+  <br />　　“这里？是说这里吗？！”<readstop />
+  <br />　　“是的。”<readstop />
+  <br />　　“这太明显了，太明显了。这是圈套啊。有什么东西试图让斑猫先生成为罪魁祸首……”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　　小凯一脸苦恼地苦笑。<readstop />
+  <br />
+  <hr />　　“难道斑猫先生真的想抹掉这里吗？这个组织一直在进行着无法容忍的非人道实验。所以渡边君才会攻击一切他能拿到手的东西。都是一样的事情。即使她不在乎一些无关的人受伤或死亡。斑猫先生也是人（𰐼）对吧！”<readstop />
+  <br />　　小凯这句“也是个人吧”听起来温柔极了。<readstop />
+  <br />　　“我好像从来没有把斑猫先生当人来看待过……”<readstop />
+  <br />
+  
+  <bgm_play fade="15000.0" id="BGM_022" xDescription="謎 I" />　　我感到相当奇异，仿佛渗入如梦似幻的过去。虫笼里一只名为斑猫的昆虫，反复抽动着触角，似乎在思忖着什么。颀长的腿又是抽搐又是颤抖，大约是受了什么刺激。然而它并不显露什么表情，只是悄然立于那里，阴森地调整身姿。啊啊，就是这种感觉。令人悚然。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“我认为斑猫先生有可能参与了这起案件。如果这事情发源自舍密部内部，议会官员仓促逃跑就很奇怪，那些看起来无关的家伙，大到警保局次长，小到看守现场的指挥人员，全都已经一溜烟跑掉了。因此这若是舍密部和斑猫先生之间的冲突，自然会认为是斑猫先生的阴谋。”<readstop />
+  <br />　　“如果这不是某人的阴谋，情况就太复杂了。”<readstop />
+  <br />　　“复杂吗？斑猫先生杀死了人体实验的负责人，并试图破坏密室。手法看起来是很复杂，但我认为他所做的事情一点也不复杂。渡边君。或者说你有其他的思路吗？”<readstop />
+  <br />　　“并不是有什么理由或者那样复杂的事情……要是真有理由的话，我更想问问斑猫先生本人。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　小凯翻了个白眼。<readstop />
+  <br />
+  <hr />　　“渡边君，你是不是太在意这件事了？看来是这样。那么，就这样吧。按照渡边君的建议，去问问斑猫先生吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“这怎么可能做到——”<readstop />
+  <br />
+  <hr />　　“《死域》有一个里模式，被称为active·quest·edit（AQE），打一个违法补丁就可以让它开始运行。可以自己编辑、设定任务及玩家，也可以随意地将死域的线上用户拉出来充当角色登场。这意味着可以将米拉比利斯设为自建任务中的角色。拉进这任务里的角色将反映其原型在过去的行为。战斗水平基于每次游玩的数据，由人工智能进行模拟。时间轴可以自由设置在未来或过去。以米拉比利斯为例，斑猫先生已经作为米拉比利斯游玩了100个小时。将米拉比利斯作为角色设置在AQE中，在任务里你会看到，人工智能参考米拉比利斯过去积累的在线数据，按情况选择并表现出贴切的言行。你甚至可以增减那里的时间。<readstop />
+  <br />
+  <hr />　　人工智能利用积累的信息尽可能准确地模拟过去和未来的人物，并确定出这人物最具可能性的行为和言语。我将使用AQE 来创建一个模仿现实的任务。请渡边君在那面对斑猫先生吧。”<readstop />
+  <br />　　“由机器计算穷举出的斑猫先生？嗯，玩这个有什么意义吗？”<readstop />
+  <br />　　“有没有我不确定。但我有一定要请你做这件事的理由。”<readstop />
+  <br />　　“是什么？”<readstop />
+  <br />
+  <hr />　　“就算在核心而愿意铤而走险的用户中，这个功能也因为邪门而被有意回避。正如我刚才所说，时间回到过去或未来都可以，如果有人在现实中死去，也可以将那人的死域账号用AQE来模拟复活，就像他没死一样继续在游戏里和他作战。特别是那种特别沉浸在《死域》里的玩家，游戏时长比待在现实生活还多的，配置到AQE里就能还原得很真实，到了让人想吐的程度。我会制作一个在铀矿山背后的那个法尔河作战的任务。实际上已经死去的孩子们、米拉比利斯、塞西亚，还有大家，都像没有死去一样于此登场。在那时渡边君将作为主力降临，恭喜你啊。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　认准了小凯凝视我的目光，吸了一口气，继续说道。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“你这种无根无据的意气用事，还有出了点事就激动得不成样子种种，我是真的一点办法都没。可能性穷举出的斑猫先生你不喜欢也没关系，那种情况下来设身处地考虑斑猫先生究竟有何感受，对帮助你想清楚他的所思所想应该是有好处的吧。不论如何，从他的逃离中是否能寻到意义，对渡边君来说都不会是负面的吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　小凯的表情看起来像是一匹肚子里塞了一块大石头的狼。<readstop />
+  <br />　　“你一定会做的对吧？”<readstop />
+  <br />　　我正想起个反调，却什么话也说不出来，我意识到我只是觉得反驳一下会更好。对于小凯的建议，我只是微微点头。<readstop />
+  <br />
+  
+  <bgm_stop fade="15000.0" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“好的，我现在就开始准备，很快就好，请稍等。”<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <bgm_play fade="10000.0" id="BGM_034" xDescription="ブレーキングブレイクキング" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show id="SEI_118" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="舎密部休憩室" y="0" />
+  <restore_tags id="5">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　小凯戴上头戴显示器，电子舞蹈也炫酷而熟练重演起来。我不知道这是否也是程序的一部分，但她每次伸腿转身时，腿都会磕到桌子上，一遍一遍地喊着：“哎哟！”。我正悠闲地欣赏这画面，突然一阵饥饿感袭来，于是我自小凯的身体回旋过去，绕到书桌抽屉前，从上到下一一打开，从我要找的抽屉里找到莺饼面包撕开袋子。吃着吃着就到了那层薄薄的豆沙色鸡肉馅。虽说肉味清淡，但浓郁的甜辣果味酱汁和驻留于口的粗姜末酱汁深深交织在一起。我一遍又一遍地咀嚼，但无论分泌出多少口水都无法滋润我的喉咙，在我嘴里已成食糜的鸡肉仿佛正吸收着水分，以回到最初的状态，变成结实的固块阻塞我的喉咙。我边嚼，边向自动贩卖机走着，水、橙汁和其他疑似有毒的流行饮料，我面对着它们，思考着自己应该喝什么。<readstop />
+  <br />
+  <hr />　　期间有几个员工路过，眼中带着诧异看着我，但我并没有在意。总之我必须考虑现在真正想喝的是什么，我必须得喝什么。我在所有毒性成疑的流行饮料中，选择了离莺饼最不相称的绿色饮料。然后把鸡肉和面团倒进胃里，往里面揉搓第二个宇宙。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我坐在休息室的椅子上思考宇宙。宇宙边缘发生了什么？我想知道在非宇宙的地方，没有所谓空间、时间的地方会是什么样子。连虚无都没有的地方会是什么呢？但若仅依靠这个，可什么都感受不到。我搓了搓肚子，把饱腹感留在牙间品味。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部休憩室" y="0" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show easing="31" id="SEI_c04_p08_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイへたりこむげんなり" y="820" />　　当我回到小凯身边时，小凯像个踉踉跄跄的贵妇一样端坐在那里，双手扶在地板上。肩膀一起一伏地大喘粗气。我小跑到小凯面前，浮夸的抓住小凯的肩膀，说道：“你还好吗？”。小凯漏出一口气，头上冒起蒸汽，张开嘴，就像一条被拍到岸上的鱼。她调整呼吸直到能说出话为止后，用手擦了擦额头的汗水。<readstop />
+  <br />　　“哈哈，终于成功了。这活比我想象的麻烦多了。再加上编辑功能不管用了，根本就玩不尽兴。哈。但玩的时候一定很有趣哦。做的时候，光是想象它运行起来的时候心中就汹涌澎湃呢。嗯……所以，我想请你帮我个忙……”<readstop />
+  <br />　　小凯抬头看着我说道。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイへたりこむげんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p08_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイへたりこむキラキラ" y="820" />　　“人家也想玩，可以吗？”<readstop />
+  <br />　　“你想开个号自己玩吗？”<readstop />
+  <br />
+  <hr />　　“AQE中的所有角色都是实时动态的，所以即使是作者也看不到最终的故事。正是因为看不到，所以身为作者才想要去见证啊。多有意思啊。这多好啊啊啊。”<readstop />
+  <br />　　感觉小凯似乎玩死域上瘾了……<readstop />
+  <br />　　“诶呀不是，没关系的，小凯同意的话……因为我很有空啊……哎，小凯没关系的话我也没关系……”<readstop />
+  <br />　　小凯用闪闪发光的眼睛看着我，我却什么也说不出来，我想我还有很多其他的事情要做。<readstop />
+  <br />　　“呼呼呼，那我们就动手吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイへたりこむキラキラ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　小凯甩开我的手，迅速站了起来。她一阵趔趄，但还是迅速取出了办公桌抽屉里的一瓶药。<readstop />
+  <br />　　“小凯，你这是干什么？”<readstop />
+  <br />　　“因为我也想玩……渡边君不也没有死嘛，所以应该没事的。”<readstop />
+  <br />
+  <hr />　　我这说话方式听起来会去下毒，但是……嘛……好吧。<readstop />
+  <br />　　“那一枪定胜负哦。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我拿着注射器走了。话说回来为什么要用注射器……<readstop />
+  <br />　　小凯哼了一声，很快就迈着轻快的脚步回来了。<readstop />
+  <br />
+  <layer_show easing="31" id="SEI_c04_p01_e23" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />　　“现在，我们走吧！这个世界，才刚刚开始呀！”<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC" y="0" />　　EQC 中添加了小凯的界面。<readstop />
+  <br />　　“哼哼哼，还好我用心准备了一番，不枉我从海外地下渠道搞到手啊。”<readstop />
+  <br />　　“小凯，药物的影响能受住吗？即使你在游戏中快要死了，也一定要回想起现实的事情呀。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“啊哈哈哈，没关系。”<readstop />
+  <br />　　真令人担心。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e23" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />　　“那么，我们走吧。登录后请进入限定AQ，在线的只有我们两个。”<readstop />
+  <br />
+  
+  <bgm_stop fade="5000.0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我卸下头戴显示器准备进行游戏。显示屏上出现了标题菜单，还添加了以前从未见过的AQ。我从中选择那唯一的任务。视野瞬间收缩，身体的所有感觉一下子消退。仿佛濒临死亡。接着意识迅速恢复，回过神来自己已然身处战场。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="DF_05" taskid="SCENARIO_MVP" viewType="adv" />
+</scenario>

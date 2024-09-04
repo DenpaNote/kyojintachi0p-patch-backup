@@ -1,0 +1,1623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  <layer_show id="SEI_013" layer="1" pos="1" time="5000.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  <task method="call" taskid="EYE_CATCHE_CHAPTER02" />
+  
+  <bgm_play fade="15000.0" id="BGM_026" volume="100.0" xDescription="仰げば昏し" />　　我坐在堆满散乱文件的桌前抱头苦恼着。与其说是思路难以聚合，倒不如说思维被抽离地一干二净，这就是我抱头苦恼的原因吧。脑海中不断闪过一段段完全无关也从未见过的杂乱画面。我正迷乱着吗？不，并非如此。如果真是如此，我大概连自己是否在异常状态都无从得知。总觉得……若是用空间来类比的话，那思维空间的边缘大概尚且完好，可空间内部，一切思绪都躁动得彻骨。我仅作为这容器般空间的本体，向内部下达停止时间流动的命令。＜停止器官！稳定状况！＞被赋予容器性的我振臂高声呐喊，容器内的骚动却垂死挣扎地愈演愈烈，超意识的物象加以恐吓的闪烁并划出噪音……这骚动宛若不舍地伸向意义的触手状末梢，但作为容器的我却将这一切无情地停止、排除。<readstop />
+  <br />
+  <hr />　　＜我的一切要由我自己控制！＞<readstop />
+  <br />　　在某人的轻声呢喃中，我苏醒过来。我的呼吸正在停止……为了呼吸，我张开嘴巴。众所周知，呼吸是通过向肺部输送新鲜空气来为体内提供氧气,并排出不需要的二氧化碳的过程。对啊，是我的血红蛋白，我的肺泡。对，我要控制自己的一切……<readstop />
+  <br />　　从张开的嘴巴中溢出了像临死的青蛙那样阴沉的声音。我咬紧了颤抖的嘴唇。<readstop />
+  <br />　　＜这种超理性根本无法忍受！＞<readstop />
+  <br />　　我咬紧牙关，空气自牙缝吸入，在由此带来的成就感中，我大概已然超脱了自己作为容器的存在了吧。就算我没有横隔膜或肺脏来呼吸，这份意义也不会改变吧。<readstop />
+  <br />
+  <hr />　　此时我的全身已浸满汗水。杂乱的文件如地层般堆积着，直到令人烦躁的高度。我就这样伏在桌上，呼吸循环艰难地重启着。<readstop />
+  <br />　　在自己容器意义破碎后的几分钟里，我被现实蹂躏了一通。在从头到脚检查了一遍身体后，我发出声音。<readstop />
+  <br />　　“来吧，从还未破碎的地方，开始吧。”<readstop />
+  <br />　　过了几秒，声音才传进我的耳朵。<readstop />
+  <br />　　从那里站起来以后，数滴不可知的汗水沿我的指尖滑落下来。我感觉不到的东西正悠然离开我之所属，不论这是否为我之所愿。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_016" layer="1" pos="1" x="0" xDescription="舎密部トイレの鏡" y="0" />　　反复地用力眨眼，转脖子，挠头。之后自嘲地笑了笑。随后，我异常沉重的身体乘着一左一右的腿前往厕所，尿出浓度很高的小便。在洗手台的镜子前凝视完自己的脸后，洗了脸。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" x="0" xDescription="舎密部トイレの鏡" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" x="0" xDescription="舎密部捜査一課・詰所" y="0" />　　我回到桌前，从权威般端坐着的文件堆的最上端取出一页。这不过是种重复数十、数百次的简单工作。容器的内部已经焕然一新了。<readstop />
+  <br />
+  <hr />　　当容器被必要的记录填满时，时间已接近22点。脑海中呈上被24等分切开的蛋糕中的第22片。之后我慎重地呼吸起来。若是我好好思考一下23点到底象征着什么的话，大概就能理解了吧。这是个人人都想从自己脸上缝着的假面下挣脱的时间。可若连想挣脱的假面都不存在，就必须像疯了一样保持理智。或许，这正是我变疯的原因吧。<readstop />
+  <br />
+  <hr />　　我读完报告书后便零散地将其摊在桌上，从抽屉中取出了一瓶药。那是在骚乱事件发生时，被放在我桌子上的那瓶，瓶身上写着“XNC28B039”。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_001" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="舎密部廊下１" y="0" />
+  <restore_tags id="2">
+    <bgm_play id="BGM_026" xDescription="仰げば昏し" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我前往电网研。立牌正躺在走廊的角落里。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部廊下１" y="0" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　在电网研，小凯满怀倦意地跳着舞。这种时候还要不停跳着工作之舞，真可怜。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />　　“呀，小凯。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />　　好像被啪的一下拍回现实一样，小凯环顾起四周。然后她把头戴式显示器抬起，浑浊的双眼凝视着我。<readstop />
+  <br />　　“哦——，<readstop />渡边君，好久不见了呢！”<readstop />
+  <br />　　就小凯的精神状态来看，连续熬夜所特有的疲惫，在她身上已十分明显。<readstop />
+  <br />　　“小凯，<readstop />你，<readstop />你还好吗？”<readstop />
+  <br />　　“啊哈哈……”<readstop />
+  <br />　　小凯只是笑了笑。笑着笑着，却突然低下了头，双眼紧闭。她大概是睡着了吧。这想法只在我脑中驻留了几秒，她就突然睁开眼睛，紧盯着我。<readstop />
+  <br />　　“渡边君，你来干嘛！”<readstop />
+  <br />
+  <hr />　　“渡边君是，叫我？”<readstop />
+  <br />　　“是渡边君吧！”<readstop />
+  <br />　　“啊，不，是我没错……”<readstop />
+  <br />　　“确确实实，<readstop />资料上都写着的！<readstop />不会有错的！<readstop />咕……”<readstop />
+  <br />　　“你嘴边流着口水哦。”<readstop />
+  <br />　　“啊哈哈！”<readstop />
+  <br />　　小凯笑着，口水仍无束地垂在嘴边。这样看来不像是单纯的熬夜，估计是在药物作用中迷离吧。估计是被药物作用所迷离吧<readstop />
+  <br />　　“其实呢，我是来求你办事的。而且是件相当重要的事。”<readstop />
+  <br />　　小凯划出了副破绽百出的笑容。一切正如所料的兴奋中，我继续说道。<readstop />
+  <br />　　“之前我拜托你关于重村附近的监控摄像头的筛选情况怎么样了？”<readstop />
+  <br />　　“啊，已经完成了。没有及时联系你实在是对不起。可以在线上查看哦。我发给你。”<readstop />
+  <br />
+  <hr />　　嗯——，与其说是迷离于药物，她更像是泥醉于酒精。<readstop />
+  <br />　　“谢谢。我会去确认的。除此之外，还有一件事想要拜托你。”<readstop />
+  <br />　　我拿出一张便签纸，递到桌子上。<readstop />
+  <br />　　＜XNC28B039＞<readstop />
+  <br />　　“应该是某种试剂或药品的型号。可以帮我查一下吗？”<readstop />
+  <br />　　“是药品的话，你试着送到科研部那里看看？”<readstop />
+  <br />　　“啊，嗯。当然是那样没错。”<readstop />
+  <br />　　送到科研部门是不行的。<readstop />
+  <br />　　“但是，无论如何，这次我真的都很想请小凯你帮忙。并且，我希望你能在这件事上保密，为了我。”<readstop />
+  <br />　　“诶？”<readstop />
+  <br />　　“有各种各样的原因呢。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />　　“那是，那个……<readstop />就是那个意思吗？”<readstop />
+  <br />　　小凯显得有些扭扭捏捏。这是怎么回事呢？大概是发生了某种超乎寻常的事情。<readstop />
+  <br />　　“对对对，就是那个意思哦。我会补偿你的。”<readstop />
+  <br />　　“那，就这一次哦！”<readstop />
+  <br />　　“嗯嗯，O——K——OK——。”<readstop />
+  <br />　　什么又是“就这一次”啊？嘛，事已至此，也就算了。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“话说，小凯你这么晚还在做什么工作呢？”<readstop />
+  <br />　　“数据恢复和强化监控摄像头的工作。”<readstop />
+  <br />　　“跟斑猫先生有关吗？”<readstop />
+  <br />　　“是的。”<readstop />
+  <br />　　“谁指示的？”<readstop />
+  <br />　　“是上面的指示。”<readstop />
+  <br />　　“上面是？”<readstop />
+  <br />
+  <hr />　　“我不太清楚……请稍等一下哦。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　小凯再次戴上头戴式显示器，跳起了那怪异的舞蹈。<readstop />
+  <br />　　“嗯，看起来是警保局的任务呢。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　小凯将头戴式显示器抬起。警保局应该被无限期禁止活动了才对。<readstop />
+  <br />　　“那是秘密吗？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“诶？”<readstop />
+  <br />　　小凯呆住了，脑袋上仿佛浮现一个空白的对话框，几秒后她在对话框中写下了一个感叹号。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“没错，这件事通常情况下应该不为人知。”<readstop />
+  <br />　　“那你现在，是怎么知道的？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“稍微<readstop />深入调查了一下。”<readstop />
+  <br />
+  <hr />　　小凯竖起食指，骄傲地说道。她好像完全不明白自己正在做的事有多危险，这样真的没问题吗？<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“啊，还有一件事，关于重村的个人终端的报告书有着落了吗？”<readstop />
+  <br />　　“你可以向搜查课问问看？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　　小凯一脸不可思议地歪了歪头。<readstop />
+  <br />　　“我是来问其他的报告书的，毕竟搜查课已对重村一事做结案处理了。”<readstop />
+  <br />　　小凯似乎不太明白，发出了一声“嗯”，摇晃着头。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“那<readstop />来搜搜看吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　小凯戴上头戴式显示器，脑袋伴着节奏四下摇晃，身体如工厂中的多脚机械臂一样运转。同样的动作循环往复着。随后，嘴巴半开，舒了一口气。最后，她抬起了头戴式显示器。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“什么也没有呢。”<readstop />
+  <br />　　“啊，要不，你再深入点找找？”<readstop />
+  <br />　　小凯像拨浪鼓似的左右摇着头。<readstop />
+  <br />　　“什么也没有。”<readstop />
+  <br />　　“和重村相关的？”<readstop />
+  <br />　　“对。”<readstop />
+  <br />　　“就算不是与搜查相关的，至少应该有基本的学生名册之类的资料吧，找不到一点也太奇怪了？”<readstop />
+  <br />　　“因被当作转学处理，所以有关重村的信息已被从索引中删除，在线上的文件已被标记为垃圾数据，应该马上就会被删除。”<readstop />
+  <br />　　“以前的数据呢？”<readstop />
+  <br />　　“嗯，会被归档。归档的位置是这里。”<readstop />
+  <br />
+  <hr />　　小凯将显示器转向我，并指向上面的一长串字符。<readstop />
+  <br />　　“这是备份ID。它被写入SDAT，应该在舍密部的地下仓库中。”<readstop />
+  <br />　　我思考着为什么有关重村的文件会突然被删除。或许是因为搜查已经正式结束了，问题都解决了吧。但这样的处理速度似乎过于匆忙。<readstop />
+  <br />　　“删除关于转学的线上文档是常规流程吗？”<readstop />
+  <br />　　“对的呐，这是每隔一周就自动运行的定时处理，没什么特别的。这个定期处理恰好是在今天凌晨，所以一被处理为转学，那文档就自动被删除了。”<readstop />
+  <br />　　这真的只是巧合吗。<readstop />
+  <br />　　“文档现在还在删除中吗？”<readstop />
+  <br />
+  <hr />　　“因为我们用的是那种会嘎吱嘎吱的计算器，所以删除过程应该还没有完成吧。”<readstop />
+  <br />　　“能找到还没被删掉的文件吗？就是关于重村的那些。”<readstop />
+  <br />　　“诶诶，因为没有索引导航，只能顺着日志翻，虽然也不是办不到，但是很麻烦哦。”<readstop />
+  <br />　　我对着小凯双手合十。<readstop />
+  <br />　　“呐，可以吗？就一回，就一回。真的，真的，就一点点，就一点点。”<readstop />
+  <br />　　我双手合十埋着头，一边睁开一只眼睛瞄了一眼小凯，她抿起嘴巴左右摇着头。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　　“都这样说了那就这一回啊。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />　　小凯戴上头戴式显示器，如同在游泳时推水一般挥动着手臂。她肯定正潜心遨游于数据之海中，或者说她已全然忘记了工作，只顾着在幻想出的南海中随波起伏。看起来令人可怜，但我也不是不能理解这种心情。<readstop />
+  <br />　　“哈！我知道了！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　小凯像完成了一项大工作，一身轻松地揉着右肩，答道。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />　　“虽然不知道内容，但似乎有一些属于官房局的文档。其他的要么已经被删除，要么一开始就不存在……呼啊，呼啊，呼啊……”<readstop />
+  <br />　　小凯打了个哈欠。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“谍报课、攻究局、通信局的怎么样？”<readstop />
+  <br />
+  <hr />　　“嗯，从谍报课处理的情报量来看，理应是有的，不过现在应该已经被删除了，攻究局通常不处理学生信息，所以这里说不准。通信局或许有监听记录，被删除了也大有可能。”<readstop />
+  <br />　　嘛，即使谍报课没有公开，他们也应该持有相关信息。关键是他们对这事件查到了什么程度，但我却无从得知。通信局的监听记录被大量删除是不正常的，不论是因为退学，还是组织的要求，都不应该让这些信息如此轻易地被删除，至少应该保留几个月。<readstop />
+  <br />　　“知道是谁删除的索引吗？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　　“唔，请别打扰我工作啦！”<readstop />
+  <br />　　“哇，对不起对不起，这是最后一次了，真的最后一次。而且不恐怖的！不会痛的！”<readstop />
+  <br />　　“唔咕——！”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />　　虽然她像只河豚般鼓起脸颊，看起来她仍会老实地去调查……真是不辞辛苦啊。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“是管理员。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　小凯接连重重地点头。<readstop />
+  <br />　　“管理员？”<readstop />
+  <br />　　“对！”<readstop />
+  <br />　　“舍密部的管理员是谁？”<readstop />
+  <br />　　“那就是所谓的‘大用户（great user）’，一个传说中的账户！我也在偷偷使这个呢！”<readstop />
+  <br />　　“诶？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　　“嗯？”<readstop />
+  <br />　　我们对视了几秒钟，就像彼此已坠入爱河。总有一种既视感啊，前世的我们说不准是恋人吧。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“那，那个‘大用户’，任何人都可以使用吗？”<readstop />
+  <br />
+  <hr />　　“需要一点窍门，但一旦明白了就能使用哦。”<readstop />
+  <br />　　我想那个窍门可能不是那么容易就能弄懂的。<readstop />
+  <br />　　“小凯，你删了吗？”<readstop />
+  <br />　　“没删哦。”<readstop />
+  <br />　　她颤颤悠悠地轻摇着头。<readstop />
+  <br />　　“有没有可能是小凯你使用的ID被盗用了？”<readstop />
+  <br />　　小凯把食指放在下巴上，陷入沉思。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　　“可能性不是零。毕竟没有什么是绝对的。不过，相比盗用我的ID，盗用大用户的ID要容易得多。”<readstop />
+  <br />　　“那删除索引时的访问源可以查到吗？”<readstop />
+  <br />　　“嗯，如果用大用户的话，可能什么痕迹都不会留下的。<readstop />唔——”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />　　小凯像施法一样咕噜咕噜转动着手臂。<readstop />
+  <br />　　“哦，找到了，哦哦哦！”<readstop />
+  <br />
+  <hr />　　“怎，怎么了？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　“呀，太厉害了这个！快看快看！”<readstop />
+  <br />　　小凯兴高采烈地前后摇着头。<readstop />
+  <br />　　“只是为了弄断线就上电锯这事真是好荒唐啊！<readstop />简直是疯了！<readstop />太棒了！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　小凯的身体摇摇晃晃地颤抖着，看起来就像正迎接绝顶。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“这痕迹是主密钥分析程序吧。有啊，果然。”<readstop />
+  <br />　　“我不太懂……”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e24" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　狂笑" y="820" />　　“简单来说，就是用暴力破解法成功入侵的！像个傻瓜！咕哈哈哈。恐怕是费尽心思用高成本的量子计算机来计算的！简直笨蛋！咕哈哈哈！”<readstop />
+  <br />　　这简直是，问世间小凯为何物的程度了。<readstop />
+  <br />
+  <hr />　　“那种算法根本不存在，至少从数学上来说！就是这么回事——”<readstop />
+  <br />　　“啊，啊，那个话题先放一放吧……”<readstop />
+  <br />　　“什么！！”<readstop />
+  <br />　　“不是，我的意思是，不是小凯你，是有人成了大用户然后删除了索引，也就是说彻底删除了重村的信息。”<readstop />
+  <br />　　“唔，<readstop />唔，<readstop />是这样。虽然是这样，这听起来很无聊。请听听这过程有多寒碜。b用电锯来割这么细的线——”<readstop />
+  <br />　　“啊——<readstop />小凯，小凯，这么忙还打扰你，抱歉呀。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　狂笑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　“哈……！”<readstop />
+  <br />　　小凯微张着嘴僵硬地站着，脸色逐渐发灰。之后长叹一声，表情萎靡不振。<readstop />
+  <br />　　“那个，小凯。今天的事能不作记录吗？”<readstop />
+  <br />
+  <hr />　　小凯无力地点了点头，看起来只像是无力地低下了头。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我向小凯告别，回到了值班室。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <bgm_play fade="15000.0" id="BGM_027" xDescription="アム、アイ？" />
+  <layer_show id="SEI_028" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />
+  <restore_tags id="3">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我查看了重村附近监控摄像头的筛选结果。视频长度超过150小时，剪辑出与重村或相似人物出现的前后各一小时的镜头。我按时间顺序观看视频，手中的控制器不断进行快进和倒带，眼睛紧盯着显示屏。<readstop />
+  <br />　　这种被平凡日常和超常规视角所歪曲的记录，总是有种力量，令我失去平静的力量。当我意识到这是因为试图理解一切所产生的问题时，工作才略有进展。<readstop />
+  <br />　　在反复观看月见山口站的监控视频时，我感觉自己仿佛成了山神的一部分。其次学校内的视频则一丝不苟地记录了不相关学生们的猥琐事件。重村则轻松越过这些猥琐的一切，和被赋予了深意的场景一样恰到好处，毫无浪费地映入镜头。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />　　我看了看时钟。7点。<readstop />
+  <br />　　我想象自己从被分成24等分的蛋糕中取出第七块。分割的蛋糕和时间是不同的。今天的第八个时间段我将前往教室，第九个时间段开始上课。<readstop />
+  <br />　　“真是的，高中至少得毕业。”<readstop />
+  <br />　　我站起身来，伸了个懒腰，闻了闻衣服的袖口。有汗臭。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_008" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="膨雀高校教室" y="0" />　　秋雨也差不多该结束了吧。我像往常一样望向教室外。<readstop />
+  <br />
+  <hr />
+  
+  <restore_tags id="4">
+    <bgm_play id="BGM_027" xDescription="アム、アイ？" />
+    <layer_show id="SEI_008" layer="1" pos="1" x="0" xDescription="膨雀高校教室" y="0" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　客观上来讲，我是一个技术高超的特工，执行着极其特殊的任务，另一边却又参加着这堆令我理解不能的课程。不管是对是错，但我应该早就从这个次元飞脱出去了。就我来看，好像除我以外的所有人都通晓着这个世界的一切，只剩我一个人，空凭着自己的判断而四处徘徊。<readstop />
+  <br />　　为了洞悉这我不能望其项背的世界，我必须去上这堆课。<readstop />
+  <br />　　＜嘭嘭嘭嘭嘭——＞<readstop />
+  <br />　　斑猫说着“去结束这一切”时的表情在我脑海中反复回荡。<readstop />
+  <br />　　那是内疚的表情。<readstop />
+  <br />　　那是担心隐瞒的事情被我发现的表情。<readstop />
+  <br />　　不，那是同情的表情。<readstop />
+  <br />　　那是斑猫把一切事实剖析得一清二楚、唾手可得，我却没能将这些整理好时，他从天上降下的同情目光。<readstop />
+  <br />　　不，那是享受恶作剧的表情。<readstop />
+  <br />
+  <hr />　　是斑猫期待着自己的恶作剧能够奏效，让我大吃一惊时，强忍着笑意的表情。<readstop />
+  <br />　　不，那是享受战场的表情，没错。就是。就是这个表情。虽然没有理由……但确实是这样。在哪里见过吧……<readstop />
+  <br />
+  
+  <bgm_play fade="15000.0" id="BGM_025" xDescription="俯瞰" />　　“……请立即到会科准备室。”<readstop />
+  <br />　　窗外的景色、斑猫的表情，现实的景象和幻想的过去被同时切断，广播的内容成为前景。我被叫了出来。这样啊，我是山岳部的部员，在社会科准备室怀疑着全体人类的那个是山岳部的顾问。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="膨雀高校教室" y="0" />
+  <layer_show id="SEI_027" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="膨雀高校社会科準備室" y="0" />　　“打扰了。”<readstop />
+  <br />　　我的紧张感已经完全消失了。以前我跨过这扇门时，明明紧张得就像是将要受到地狱门前守卫的审讯一样来着。<readstop />
+  <br />　　“啊啊，渡边君啊。”<readstop />
+  <br />　　社会科的老师显得有些忧郁，但也没有试图隐藏自己的情绪，招呼着我进来。<readstop />
+  <br />　　“重村君的事，听说了吗？”<readstop />
+  <br />　　我摇了摇头。<readstop />
+  <br />　　“这样啊。他要转学，因此要退出山岳部。这样一来，像我们的山岳部这种传统社团也眼看着要被废止了。渡边君打算怎么办？”<readstop />
+  <br />　　社会科准备室的窗户因被世界地图遮住而看不到窗外。我望向世界地图，凝视着乞力马扎罗。<readstop />
+  <br />　　“不会变的。”<readstop />
+  <br />　　老师看起来有些烦躁地说。<readstop />
+  <br />　　“那我就正式让你入部，并任命你为部长……”<readstop />
+  <br />
+  <hr />　　“谢谢您。”<readstop />
+  <br />　　老师绝望地沉默了数十秒。他大概是在期待着我就这么沉默下去，省得让我当部长吧。<readstop />
+  <br />　　“每月初的星期一开部会，记得来啊。”<readstop />
+  <br />　　老师小声叹息着说。<readstop />
+  <br />　　“老师，是重村学长告诉您他要转学的吗？”<readstop />
+  <br />　　“不是。”<readstop />
+  <br />　　“那您是什么时候、从谁那里听说的？”<readstop />
+  <br />　　老师诧异地看着我。<readstop />
+  <br />　　“时间，就是几天前。从教务处那里啊。”<readstop />
+  <br />　　那样的话就没问题了，我大力点头。<readstop />
+  <br />　　“部长我来当。乞力马扎罗我来去。”<readstop />
+  <br />　　老师似乎无视了我说的话，他不愿意为我提供任何像是忠告或建议的东西，大抵是对我没有任何兴趣。<readstop />
+  <br />
+  <hr />　　老师轻轻地抬起手，表示知道了，做出了一个勉强的笑容，点了点头。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="膨雀高校社会科準備室" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />　　我以迷离的碎步走在社会科准备室到值班室的路上。<readstop />
+  <br />　　我绞尽脑汁地夸张化社会学为人类带来的不信任和恶意，甚至将其延伸至关于世界、地球乃至宇宙末日的层面。但在这些荒谬的妄想中，我却窥见了与妄想无关的真实世界的终结。这是一个非常矛盾，却又极其现实的幻想。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <restore_tags id="5">
+    <bgm_play id="BGM_025" xDescription="俯瞰" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　回到值班室，我开启了终端，凝视着杂耍般高叠的文件。<readstop />
+  <br />　　这几天，我感觉自己只是在兜圈子。斑猫令人费解的搜查结束宣言、被谋杀的警保局长、埴谷的死亡、组织内的对立、神秘的药物……<readstop />
+  <br />
+  <hr />　　快进、倒带，我继续专心地检查重村的监视影像。当大脑功能几乎要被面前快速变化的影像所麻痹的时候，电话响起。我按下暂停，闭上眼睛接起电话。<readstop />
+  <br />　　“渡边君，进展如何？”<readstop />
+  <br />　　显然，这通电话是从那个秘书官那里打来的。<readstop />
+  <br />　　“……您打电话就是为了这个吗？”<readstop />
+  <br />　　“这非常重要。在初次——”<readstop />
+  <br />　　“您打电话就是为了催人吗？”<readstop />
+  <br />　　我打断他，对方沉默了。几秒后，我似乎得到一声轻笑。<readstop />
+  <br />　　“对重村房间的清除工作将于明天进行。14点开始。这个信息对你来说不重要吗？”<readstop />
+  <br />　　“我明白了。”<readstop />
+  <br />　　“你有没有任何误解？”<readstop />
+  <br />
+  <hr />　　“谁知道呢。反正我认为没有。”<readstop />
+  <br />　　我感觉自己像是被剥去了自由意志而游离于世界之外……不，是种如雾般空洞消极的非世界内存在……<readstop />
+  <br />　　“归根到底，这反而是件好事。就同水自高处往低处流一样……你这手理论只针对于你自己，因为我是理解不了的啊。”<readstop />
+  <br />　　人们总以为双唇紧闭着便不会发出声音，事实却并非如此。他们会紧咬牙关，收紧下巴，脸颊的肌肉微微抽搐。重量堆叠的振动会在那里沉寂，跟说话前的踯躅一样。而电话听筒将这种模棱两可的振动除去，并转化为电信号，此般过程便不言而喻。<readstop />
+  <br />　　“就这些吗？”<readstop />
+  <br />　　“是的。”<readstop />
+  <br />　　“啊，<readstop />就这样吧，<readstop />别背叛我。”<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="20000.0" />　　对方挂断了电话。我也不输气势地挂断了电话。即便被挂断的对方不在场也不是问题。我已经在这之前做出了必要的表态。<readstop />
+  <br />　　如监控录像里那种对于时间的反复延展与压缩，简直也正在我的世界里发生着。我以认知极限的恒定速度运行着，而世界则自由地加速和减速着吧。被压缩的我和被扩展的我的形状甚至不甚相同。而只是跨越多个维度地相互扭曲着。<readstop />
+  <br />　　我轻轻地把电话推到桌子一角，闭上眼睛，尝试重置脑中几个区域的活动。真能做到这种事的话，说不定已经是不正常的家伙了。确实是这样。但我认为这是一种象征性、仪式性的行为。我才不是机器，不可能那么方便地进行重置。重置吧、重置吧，我这样想着，明白大概只有依托巫术的力量才能实现这份期待吧。<readstop />
+  <br />　　我闭上了眼睛。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <bgm_play fade="1500.0" id="BGM_016" xDescription="横に伸びた時間" />
+  <layer_show id="SEI_008" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="膨雀高校教室" y="0" />
+  <restore_tags id="6">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我心不在焉地坐在窗边的座位上，用手托着脸颊。班长在早会上提出了关于换座位的方法。想来，我能这样坐在窗边眺望外面，本身就是个不可思议的事情。理论上，座位应该尽可能地随机分配。讨论迟迟未出结果，第一节课就这样开始了。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="膨雀高校教室" y="0" />
+  <layer_show id="SEI_029" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="寮棟・入口" y="0" />　　到了午休，我回到值班室换上了工作服。压低帽檐，这几乎可以隐匿身份。<readstop />
+  <br />　　我去了重村的宿舍楼，告知管理员重村家具的搬运工作由我来执行。随后我说因前面的工作提前完成，搬运工作提前开始，管理员便未表怀疑带我进了房间。<readstop />
+  <br />　　“之前有其他工人来过吗？”<readstop />
+  <br />　　“嗯？没有，应该没有吧。”<readstop />
+  <br />　　“这里有几个管理员？”<readstop />
+  <br />　　“三个来着，怎么了？”<readstop />
+  <br />　　“我们不是搬运工嘛，未来应该还有很多如处置、变卖家中物品这样，要与负责人杂糅起来的事。”<readstop />
+  <br />　　“啊，是吗。不过我没听说过。”<readstop />
+  <br />　　“那就好。”<readstop />
+  <br />　　管理员打开了上锁的门。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="寮棟・入口" y="0" />
+  <layer_show id="SEI_030" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />　　重村的房间给人一种寂寥感。可能是因并不凌乱……而是缺乏生活气息。不，与其说是没有生活气息，其实是屋内没有放什么东西。<readstop />
+  <br />　　我向管理员说明了工作计划后，管理员说着“好，好，随便你们。”便离开了。<readstop />
+  <br />　　教科书和笔记本散开在桌上，咖啡喝了一半、书在书架上随意躺着，床上的被子团成一团，衣柜半开着，衣服随地乱丢着……桌下有台通信终端，不断地滴滴闪烁如心跳一般。<readstop />
+  <br />　　我从口袋里拿出手套戴上。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />
+  <layer_show id="SEI_031" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="重村・パソコン画面" y="0" />　　我坐进椅子里，按下键盘上的Enter键。显示器打开后，没有密码，直接显示着消息服务对话框。<readstop />
+  <br />　　＜所有消息已删除＞<readstop />
+  <br />　　当我进行重新加载后，从前天的日期开始出现了一条新消息。所有消息的删除是在前天……重村已经死了。在线状态吗。我钻到桌子底下，想把通讯电缆拔下来，但我发现它已经被拔下来了。然而，终端仍显示为在线状态。无线模块虽然已经被禁用，大概是从外部打入了楔子才保持着在线状态的吧。<readstop />
+  <br />　　我尝试在存储空间内批量搜索，但没有找到任何个人资料。这里似乎什么也找不到了。但资料被删除这一事实本身就非常重要。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="重村・パソコン画面" y="0" />
+  <layer_show id="SEI_030" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />　　我打开书桌上的抽屉。文具和测验的卷子塞满其间。橱柜右下角的抽屉没法顺利打开。但我也找不到上面有可称为锁的东西。我使劲拉开它。随着木板咯吱咯吱作响的声音，抽屉缓缓地被拉了出来。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />
+  <layer_show id="SEI_032" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="重村・机引き出し" y="0" />　　抽屉里面有一个暗色的箱子。我小心地摸了摸那个箱子，发觉外围是厚铅板。箱子似乎是由一层层长方形的铅板堆叠而成。<readstop />
+  <br />　　我把上面的铅板层一块块揭开，箱子里有一台小型笔记本电脑，看起来像是几十年前的老古董。接上电源后，风扇高速旋转的嗡嗡声响起，随着硬盘驱动器发出悦耳的咔嚓声音，操作系统开始启动。我稍作思考，决定关机。<readstop />
+  <br />　　我先后把铅板和抽屉恢复原位。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="重村・机引き出し" y="0" />
+  <layer_show id="SEI_030" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />　　我看向书架。有教科书、参考书，下面还有几本时尚杂志和游戏攻略书。<readstop />
+  <br />　　桌上摊开着的物理问题集中，夹着一支圆珠笔。笔记本的开头写着一些公式，其他几乎都是空白。翻回前一页，左边那页满是莫名其妙的数学公式，右页则画以图形用于表示。不，比起图更像是一些乱七八糟的圆弧集合，而在圆的中心，写着“sayhere”。<readstop />
+  <br />　　我哗啦哗啦翻着笔记，别的页上画着地形图和指示行进方向的箭头。这是《死域》的攻略笔记，他显然非常投入。<readstop />
+  <br />　　我快速翻阅着他各科的笔记本，并在衣柜里物色东西。<readstop />
+  <br />
+  <hr />　　衣柜里装着一整套登山工具。每件都有着很深的使用痕迹，印证着其确实有着登山的实绩。衣柜的边缘立着一幅暗淡的油画。大概是月见山的风景画吧。我无法判断这是否是一幅好的艺术作品。对于已经死了作者的画，观者可以自由地通过名为作者已死的过滤器来放任自私的妄想。但是，这幅画，看来是连这种矫揉造作的想象都不允许存在的无聊的画。<readstop />
+  <br />　　休息时间快结束了。差不多该撤了。我将笔记本和笔记本电脑拿在手上，出门前，我想了想，决定也带走那幅月见山的画。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="寮棟・重村自室" y="0" />
+  <layer_show id="SEI_008" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="膨雀高校教室" y="0" />
+  <restore_tags id="7">
+    <bgm_play id="BGM_016" xDescription="横に伸びた時間" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　在下午的课堂上，我一边翻阅重村的攻略笔记，一边与睡魔抗衡。数学公式列像是在进化般地排列成相似的模样，曼陀罗图般规则的圆圈和直线……<readstop />
+  <br />　　重村的作战代号是“GGF”，对手则是“sayhere”。这本笔记记录了GGF与sayhere的战斗历史。这是从早期的电子辅助战斗，到全手操战斗的各种试错成果和模拟。可以想象，重村在《死域》中相当具有实力。但他始终无法战胜sayhere。这本笔记似乎试图证明sayhere使用了作弊机体。问着诸如自己的机体能复现sayhere的动作吗，这属于游戏机制吗，符合物理规律吗之类的问题……恐怕，到了这一步啊想到了这种程度吧。重村确认了这在物理上的合理性，并在游戏中复现了sayhere的动作。<readstop />
+  <br />
+  <hr />　　GGF在EMP所致的无电子辅助的场地中与sayhere对峙。在失去各种姿态辅助装置的手动操作中，通常很难保持直立，为维持平衡而高速移动是常理。然而，sayhere却平稳地进行着二足步行。有鉴于此，重村在草图中粗略描绘，却未能完全推导出二足直立行走的力学方程。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="膨雀高校教室" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />　　课后，我回到了值班室。行动休止着的搜查课员们或许正在享受偶尔的连休吧。按理说我也应该像个笨蛋似地享受着假期啊。为什么只有我还在做着这愚蠢的搜查呢？更不用说我还是个无知的高中生。还有这么荒唐的事吗。<readstop />
+  <br />
+  
+  <bgm_stop fade="8000.0" />　　我抓起重村的笔记本电脑，向电网研走去。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show easing="31" id="SEI_c04_p09_e5" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />　　在电网研的接待处，小凯正在打盹。<readstop />
+  <br />　　“你好啊，小凯。”<readstop />
+  <br />　　小凯发出了一声仿佛地狱亡魂拧绞般的呻吟。我吓得浑身一颤。小凯持续着像地狱看门犬式的低吼。<readstop />
+  <br />　　“小凯，该吃饭了哦——”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />　　“啊……！<readstop />咕噜。”<readstop />
+  <br />　　喂。<readstop />
+  <br />
+  
+  <bgm_play fade="50.0" id="BGM_018" xDescription="お？" />　　“噢，<readstop />是饭吗。”<readstop />
+  <br />　　可怜的小凯啊，人格正不断地崩坏着。过度劳动……惨烈的工作安排，真是不要脸的组织。<readstop />
+  <br />　　“呀，小凯，好久不见。”<readstop />
+  <br />　　“啊——<readstop />啊，渡边君。吃饭哦。”<readstop />
+  <br />　　“哦，哦。”<readstop />
+  <br />
+  <hr />　　“吃饭啦吃饭啦。”<readstop />
+  <br />　　“哦，好的。呃……小凯，我有件事想请你帮忙。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />　　“又加班吗……唔……洗澡……吃饭……”<readstop />
+  <br />　　不行不行，会死的，这样绝对会死的，小凯会死的。嘛，不过她现在这状态对我来说没准也正好。<readstop />
+  <br />　　“小凯，一起去吃饭吧？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊1" y="820" />　　“饭～♪！<readstop />饭～♪！”<readstop />
+  <br />　　小凯的语言能力似乎已经退行到原始人的水平了。<readstop />
+  <br />　　我像遛狗散步一样带着小凯出去了。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="CMN_002" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="白ベタ" y="0" />　　小凯沐浴在夕阳下，看起来像个从凄惨战场逃出来的残兵。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="白ベタ" y="0" />
+  <layer_show children="houkai1" id="SEI_034" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="中華屋・テーブル" y="0" />　　我们在常去的奇怪中餐馆桌前相对而坐。周围的客人对这位格格不入的金发美少女颇感兴趣，不时偷瞄这边。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　另一边，小凯则伴着烤肉的味道口水垂下，打起了盹。<readstop />
+  <br />　　“小凯吃什么？”<readstop />
+  <br />　　“肉。肉吧。大概，是肉吧。”<readstop />
+  <br />　　我不经意地愣住了，可毕竟恶其罪而不恶其人。也就是说，肉。哦哦，我在想什么？<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="houkai2" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　因此我给小凯点了大份的蔬菜炒肉。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯依然昏昏欲睡。我盯着小凯的脸，觉得有趣，就捏了捏她的脸颊。<readstop />
+  <br />　　“唔啊！……<readstop />哈，咕噜。啾噜噜噜。”<readstop />
+  <br />
+  <hr />　　这就像某场复杂多细胞生物们以命相赌的斗争……大概吧。<readstop />
+  <br />　　“小凯你在做什么工作呢？”<readstop />
+  <br />　　“看监控视频什么的。”<readstop />
+  <br />　　“谁的？”<readstop />
+  <br />　　“斑猫先生的哦。还有死域的访问分析呢。真是无聊又让人想睡觉的工作。”<readstop />
+  <br />　　“谁让你做的？”<readstop />
+  <br />　　“是上面。”<readstop />
+  <br />　　“啊，又是上面大人啊。”<readstop />
+  <br />　　“看起来真像是无聊的工作啊。”<readstop />
+  <br />　　“真的呢。”<readstop />
+  <br />　　“呐，小凯，我这有个笔记本电脑。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="kirakira" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　我从包里拿出重村的笔记本电脑，放在桌子上。<readstop />
+  <br />
+  <hr />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“哇—，旧物耶。看起来真不错啊。”<readstop />
+  <br />　　小凯瞪大的双眼中闪光熠熠。<readstop />
+  <br />　　“其实这个设备，一直在被铅板保护着，你觉得是为什么？你有什么想法吗？”<readstop />
+  <br />　　“可能是为了防电磁波吧。物理上阻断通信时会用到。如果设备是这种用途的话，我觉得你这样拿着它可是不行的哦。”<readstop />
+  <br />　　“个人设备有这么做的必要吗？”<readstop />
+  <br />　　“里面可能含有需要这么做的重要情报吧？”<readstop />
+  <br />　　原来如此。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="futuu" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“小凯有这样的东西吗？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“当然！有的！”<readstop />
+  <br />　　“那你是怎么做的？放在铅箱子里吗？”<readstop />
+  <br />　　小凯摇摇头，手放在自己饱满的胸前。<readstop />
+  <br />　　“我把它收进这里。就没人能够访问哦。这里可比铅箱要安全的多呀。”<readstop />
+  <br />
+  <hr />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="kouchou" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“但是，想访问那里才是人的本性吧。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“啊，渡边君，你个色狼！”<readstop />
+  <br />　　……这样啊。<readstop />
+  <br />　　“不过，小凯你真的没想过尝试访问那些秘密吗？”<readstop />
+  <br />　　我把手放在笔记本电脑上。<readstop />
+  <br />　　“唔……<readstop />嗯！”<readstop />
+  <br />　　小凯的双眼熠熠生辉。<readstop />
+  <br />　　“话是这么说，可这个设备是从重村的房间里找到的，被铅板严格地和外界的隔离开来。”<readstop />
+  <br />　　“嗯，听起来很有趣。”<readstop />
+  <br />　　“你能帮我调查一下吗？这也要保密哦。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="fumann" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“诶诶诶——”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯像え字一样撅起了嘴。<readstop />
+  <br />　　“这儿的肉炒菜很好吃的哦。”<readstop />
+  <br />
+  <hr />　　“哈！”<readstop />
+  <br />　　小凯嗅了嗅。我能清楚地听到她咽着口水的声音。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“今天我请客哈。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“唔，<readstop />我做！”<readstop />
+  <br />　　我环顾四周，凑近小凯的脸颊轻声说道。而小凯盈盈笑着。<readstop />
+  <br />　　“小凯，说真的，这次的事情可能很危险。与其说是事小，不如说是牵扯太多了。可能是某个巨大漩涡的一部分。如果感觉到危险，就要全都撒手，装作什么都不知道。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="komari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯歪了歪头。我再次严肃地说。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“这不是开玩笑。”<readstop />
+  <br />　　“渡边君，你还没找到这次事件的突破口吗？”<readstop />
+  <br />
+  <hr />　　我转移了视线说。<readstop />
+  <br />　　“嗯，虽然确实是这样。”<readstop />
+  <br />　　“呼——<readstop />嗯。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="pika" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　当服务员端上了一大盘盛着满满当当的菜炒肉之后，小凯便死死地盯住了那盘菜，舌头也伸到了几乎要把口水滴到菜上面的程度<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“这顿饭你请客，对吧！”<readstop />
+  <br />　　“嗯。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="kouchou" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“哈——唔。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hoobari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯拿起筷子，嘴巴里塞满了肉，脸颊也鼓了起来。小凯因愉悦而展露出笑靥来，可把肉咽下去后，她的表情又恢复了认真，说道。<readstop />
+  <br />
+  <hr />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“渡边君，你要不要考虑退出这次的事件呢。如果你没头绪的话，就这么放下吧。这件事太不寻常了。就算国家研究机构在本世纪初提出过用电锯切断丝线的理论……但能实际使用这种方法，其所持有的经济力量必不寻常。不寻常的事会使其展露出的寻常也变得不寻常。又会死的哦？”<readstop />
+  <br />
+  <moveto children="egao" layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯微笑着说。<readstop />
+  <br />　　“就算是牛顿，如果被发现在做炼金术，也是死路一条。但他还是做了。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="majime" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“哦，是这样啊。怪人什么时候都有啊……但渡边君，你为什么要做这么危险的事？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“是工作啊。”<readstop />
+  <br />　　“……请听好了，渡边君。这件事不仅‘可能很危险’，而是‘绝对很危险’，至少我是这么想的哦。若只是为了工作，那就这么退出不是更好吗？”<readstop />
+  <br />
+  <hr />　　服务员端来了我点的铁板汉堡肉。当服务员问“所有订单都上齐了吗？”时，我点了点头。<readstop />
+  <br />　　“我做这事可不是为了工作。是为了对斑猫先生的情义。”<readstop />
+  <br />　　“刚才你还说是为了工作呢？”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hoobari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯又大口吃起了肉，脸颊鼓起，非常开心地嚼着。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“小凯不参与也可以的。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“我可还没听到你的答案呢？虽然总感觉你是有谱的，渡边君，如果你一直这样闪烁其辞，最后可会没人理你的哦。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="houkai1" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯智慧之光消散的双眼里，一种几乎充满慈爱的目光向我投来，像是种反射全光谱的矿石一般，反射出迷离而绚丽的光辉。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“如果我不去追踪斑猫先生，又该做什么好呢。总感觉什么事都特别麻烦。那还不如继续去追踪斑猫先生。就我来言，这个理由还蛮合理的。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　我说这话的时候听起来感觉非常不安。<readstop />
+  <br />
+  <hr />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hikituriwarai" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯像是从某处向我进了一步，又向别处退了两步一般，苦笑着摇了摇头。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“十分抱歉。我大概是犯迷糊了，总问些奇怪的问题。这台笔记本，我会调查的哦。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯一边把肉塞进嘴里，一边拿起笔记本电脑，说道。<readstop />
+  <br />　　“上次药品的事也算在一起。不过，渡边君能告诉我接下来打算做什么吗？”<readstop />
+  <br />　　“当然。目前我想进一步调查一下月见山的事情。看起来重村确实在那里画过画，但我打算找出他在哪里画的以及画的是什么。”<readstop />
+  <br />　　“但是，你看过筛选后的监控视频了吧？有什么发现吗？”<readstop />
+  <br />　　“只是重村重复的冒出来罢了，他每次都穿着同样的衣服、做着同样的动作，跟录像没什么两样。”<readstop />
+  <br />　　“这样啊，看来没什么作用呢。”<readstop />
+  <br />
+  <hr />　　“不，我还想再看看监控视频，不过是没有经过筛选的那种。”<readstop />
+  <br />　　“给你看看倒不是不可以啦，但那可有好几百个小时……你说的想看，是想看什么呢？如果你让我知道下的话，我可以帮你设置过滤器哦。”<readstop />
+  <br />　　“正因为我不知道要找什么，才需要未经过滤的视频。”<readstop />
+  <br />　　小凯看起来有些困惑，沉默了几秒钟。<readstop />
+  <br />　　“好的，我会给你原始数据。我也会附上标准的人物过滤日志。说不定它会帮你找到想知道的事情哦。”<readstop />
+  <br />　　“嗯，<readstop />谢谢你。”<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="" time="6750.0" trans="2" wait="false" xDescription="中華屋・テーブル" />
+  <bgm_play fade="10000.0" id="BGM_030" xDescription="現実 I" />
+  <layer_show id="SEI_028" layer="1" pos="1" time="4500.0" trans="1" wait="true" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />
+  <restore_tags id="8">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我在值班室观看着月见山口车站未经筛选的监控录像。过去的一个月，留下了超过六百个小时的影像。我仿佛成了神明一般，巍然地静视着来往的人群。时间在我眼前加速、停止、凝滞，又重新流动起来。我已经重复了好几个小时，或许只有几秒钟，又或许是几个月。如聚光灯般层层叠压下来的阳光，还有不断扭曲的月亮……如同在计时一样，我深深地吐息。人群跟刻印出的皮影画没有区别，延既定方向一成不变的流动，只是在最后被涂上不同的颜色罢了。我感觉到的一切已超越了我的精神承受能力，我尝试看到一切，也确实看到了一切。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="750.0" trans="2" wait="false" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />　　停止。<readstop />
+  <br />　　我心跳一停。影像停了下来，投射出廉价特效般的一瞬。放松了一分，心跳了一拍，画面就在眼前如残影似地闪了半瞬而消失不见，所有人的视线都射向我。无数责备的目光交织缝合在身上，令我动弹不得。尽管根本没有人在看我，我却被所有人嫌弃着。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="4500.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="CMN_002" layer="1" pos="1" time="3000.0" trans="1" wait="false" x="0" xDescription="白ベタ" y="0" />　　我颤抖着看向自己的手。自在于无垠之外的狙击手，正向那里投射着用于瞄准的激光。我把手举起来，那手就如颗在阳光下闪烁的宝石，我举起了手，让它在激光下燃烧。而那束激光又受惊似地在我的手上缠绕。<readstop />
+  <br />　　“若是无法射穿……”<readstop />
+  <br />　　我仿佛听见了视神经被烧断时的响声。我闭上眼睛，眩目的闪光袭来。待它消退后，我睁开了失明的眼眸。一个无深度而扁平、虚假的空间浮现在眼前。<readstop />
+  <br />　　我大口地喘起了气。这就是我一直所在的世界。确认着自己的心跳，下意识地反复呼吸，推开急剧翻涌来的现实，保护起自己的空间。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="白ベタ" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />　　我站起来，举起枪，向射击场走去。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="1000.0" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_009" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部射撃練習場" y="0" />
+  <restore_tags id="9">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我独自坐在静悄悄的射击场上，望着靶心发呆。我要向那图形射去多少发子弹呢。我在脑海中逐个标记射击位置。被击中的人将死去。<readstop />
+  <br />　　手中的枪像是在对我叹气而低垂着头，令我倍感沉重。不论自物理还是精神的层面，现实都早已从我的外皮渗蚀到内部。头如枪管一样低垂的那几秒钟，我全身就如同传送带上被捆好的行李，动弹不得。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="舎密部射撃練習場" y="0" />
+  <layer_show id="SEI_123" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="射射撃場での埴谷との会話（銃口）1" y="0" />　　在感到所有的空气都不再流动时，我从椅子上站起来。走进靶道，我聚精会神地瞄准前方，扣动扳机。子弹却没有击中任何地方。我似乎意识到了什么，用力点了点头。我脑海中开始反复起那句话。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="射射撃場での埴谷との会話（銃口）1" y="0" />
+  <layer_show id="SEI_137" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="射射撃場での埴谷との会話（銃口）２" y="0" />　　＜无论如何都不要窥探枪口。＞<readstop />
+  <br />
+  <hr />　　也许根本没有必要窥探枪口。持枪意味着枪口前便是目标。举枪瞄准就意味着自己也会被别人举枪瞄准。我怎么射中目标，就怎么射中自己。<readstop />
+  <br />　　我唰地收回右脚，一挥手枪，直指着我的眉心。然后我扣动了扳机。在屏住呼吸的那一瞬，我闭上双眼。下一刻，靶子的眉心部分出现了一个洞。我摸着额头看了眼掌心。除了湿润的感觉之外什么也没有。我为了确认掌心的感觉而握紧了手。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="射射撃場での埴谷との会話（銃口）２" y="0" />
+  <layer_show id="SEI_009" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部射撃練習場" y="0" />　　射击结束后，我回到了值班室。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部射撃練習場" y="0" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <restore_tags id="10">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我旋转着监控摄像头的控制器，仿佛正操纵着整个世界。之后，我自物理层面上验证了放在桌上的美洲狮。尽管屏幕中的世界光怪陆离，美洲狮却在事实层面里静静躺在桌上。这究竟是什么意思，我真的很苦恼。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_028" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />　　我收起美洲狮，面向着那个颠倒的世界。屏幕中的人们都凝视于我这一点，看起来像在怨恨我或我身后的某些东西。我一时无法忍受，转开目光，闭上了眼睛。即便闭上眼睛，所有的视线似乎还在尝试焚烧着我的视网膜，进一步锐利地扎进去。在那些视线中，我找到了一个显得内疚、虚弱的视线。我坚定地睁开眼睛，凝视着屏幕。<readstop />
+  <br />　　在人群的间隙中，我看到一位女性似乎在关注着监控摄像头。我觉得她看起来很眼熟。数段空拍排列而过，我倒吸一口冷气。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ワタナベ・パソコン画面・監視カメラ" y="0" />
+  <bgm_play id="BGM_022" xDescription="謎 I" />
+  <layer_show id="SEI_035" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="監視カメラ映像・お月見山口駅・吉住" y="0" />　　“吉住小姐？”<readstop />
+  <br />
+  <hr />　　虽然被深深的登山帽檐遮住，没有戴眼镜，但她看起来仍像是吉住小姐。10月7日上午8时47分55秒，她就像预料到我的视线一般，躲着我通过月见山口车站的检票口。<readstop />
+  <br />　　吉住小姐去登山也不奇怪……只是，就在重村被杀害前大约两周，吉住小姐去月见山登山……<readstop />
+  <br />　　基于报告书，我开始追踪残存于舍密部档案的吉住小姐的行动记录，在那个时间段里，吉住小姐不当班。<readstop />
+  <br />　　我尝试用吉住小姐的终端ID进行全面扫描，积累舍密部内外的通信历史记录，但是10月7日的日志并未保留。更确切地说，没有迹象显示吉住小姐在那时使用过配发的移动终端。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="監視カメラ映像・お月見山口駅・吉住" y="0" />
+  <layer_show id="SEI_006" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部装備課受付" y="0" />　　我走向装备科的接待处。尽管那里谁也没有，我却总感觉吉住小姐在那里留了抹狡猾的笑容。我打开抽屉检查起来。抽屉里被文件塞得满满当当，我无法逐一确认。抓起那些文件，让它们在地上散落。处理和拒绝的文件散布一地，覆盖了整个地面。我将抽屉清空，也没有找到吉住小姐的移动终端。<readstop />
+  <br />　　如果是斑猫绑架了她，为了逃避追踪，估计吉住小姐的移动终端早就被销毁了。移动终端没有留下任何日志又是另一个问题。她在工作中肯定会用到这台终端，如果终端无法使用，她大概会换的。换句话说，如果在通信历史记录中找不到吉住小姐的任何终端信息，就应该考虑到被什么人删除的可能。<readstop />
+  <br />　　吉住小姐和这个事件有关。<readstop />
+  <br />
+  <hr />　　一定要把这事翻个底朝天。为此，我打算麻烦小凯去调查通信记录的删除历史。这样想着，我紧握拳头猛击了一下桌子。<readstop />
+  <br />　　敌人已经走在前面好几步，而在我们核实信息的同时，他们可能会进一步采取行动。我不能只是坐在这里，需要尽快缩小与对方的距离。我必须追上吉住小姐的步伐，尽可能地靠近她。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部装備課受付" y="0" />
+  <bgm_play fade="10000.0" id="BGM_025" xDescription="俯瞰" />
+  <layer_show id="SEI_036" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="電車車内" y="0" />
+  <restore_tags id="11">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　清晨，我坐在开往月见山口车站的电车上，零星可见带着登山装备的乘客。就像是为这次旅行而特别准备的一般，车厢内充满了没有任何杂质的纯净空气。或许是因为睡眠不足，我感觉到自己和其他乘客的存在正在渐渐污染着这清新的空气……半梦半醒之间，阳光穿透薄雾明晃晃地照在我的皮肤上，几乎要穿透我的肉体，与此同时，乘客和司机围着我笑，他们紧绷的食指挥向我，所有人都不约而同地指着我的眉间，说道。<readstop />
+  <br />　　“是高中生，是高中生！”<readstop />
+  <br />　　这样地指着高中生，到底有什么意义。但作为高中生的自己，烦恼这些大抵没什么意义，于是继续打着瞌睡。<readstop />
+  <br />　　我乘着不规则的波浪，徘徊于梦境与现实之间，以周遭厚重的寂静确认了自己的呼吸。在一口差点直接抵达雪国尽头的吸气后。我看到司机提着阴沉的黑色手提包，正狞笑着观察我。<readstop />
+  <br />
+  <hr />
+  <layer_show easing="31" id="SEI_c10_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="車掌通常通常" y="820" />　　“终点站，或起点站，您觉得是哪个？”<readstop />
+  <br />　　列车员带着要葬送整个人生的笑容说。我此时仍分不清梦与现实，却还是回答他道。<readstop />
+  <br />　　“没有开始，也没有结束。你也有身为高中生的时候吧？那么，你不知道‘高中生’意味着什么吗？就算我还不知道，但你应该是知道的吧？我就是个普通高中生，疲惫不堪，没有什么可失去的，没有什么可追寻的，就是这样地存在于此。不会去思考什么代价或回报，就这样无谓地迈向筋疲力竭。你是知道高中生的前方有什么的吧。别再谜语了，请直截了当地让我听到回答。”<readstop />
+  <br />　　“呵呵呵，高中生可不会这样想哦。你是不是出了什么问题？如果你是为了寻求答案而选择登山，我觉得你应该在这里下车。”<readstop />
+  <br />　　“你高中没毕业吗？”<readstop />
+  <br />　　“高中？高中能当饭吃吗？”<readstop />
+  <br />
+  <hr />　　“……我正好就是想问你这件事。”<readstop />
+  <br />　　“嗯——。”<readstop />
+  <br />　　列车员咧嘴笑着，仿佛他盯着的车门上集聚着人生的一切。<readstop />
+  <br />　　“谢谢你。我又了解到了一种统治世界的方法哦。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我站起身来。感觉不到脚掌。我用脚趾紧紧抓住地板。<readstop />
+  <br />　　“可真谢谢你啊。”<readstop />
+  <br />　　我对列车员微笑着说。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="電車車内" y="0" />
+  <layer_show id="SEI_037" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="お月見山口駅ホーム" y="0" />　　我交替着左脚右脚向前走，从电车上下来，吞下了数亿自纳米层面切碎的纯净空气。这真有一种纯粹的感觉……在我的感知之中，我被无法区分的纯粹所安抚了。<readstop />
+  <br />　　发车铃响起后，列车员望向我，眼里带着些许哀伤……却又强打精神般的对我笑起来……接着又看向车窗外，仿佛在透过云雾寻找着阳光。<readstop />
+  <br />　　“不论是什么都可以信……换句话说，就是什么都不可信。也就是回到了你们所说的高中生的原点吧。”<readstop />
+  <br />
+  <hr />
+  
+  <restore_tags id="12">
+    <bgm_play id="BGM_025" xDescription="俯瞰" />
+    <layer_show id="SEI_037" layer="1" pos="1" x="0" xDescription="お月見山口駅ホーム" y="0" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我目送着列车逐渐远离山口站，沿着空无一人的站台，我向检票口走去。随着远处的流水声与渐狭的视野，以及无距离感而沉闷的脚步声……一阵轻微的眩晕袭来。一个巨大的手写看板立在检票口前。<readstop />
+  <br />　　＜事故频发！请勿偏离登山路线＞<readstop />
+  <br />　　上面还附有一行写着注意事项的小字。<readstop />
+  <br />　　＜在月见山，电子设备可能会失灵。依赖电子设备的登山十分危险。请绝对不要偏离登山路线＞<readstop />
+  <br />　　我拿出移动终端，确认了自己的位置，没有偏差。<readstop />
+  <br />　　自检票口出来时，我也从那无形的电子束缚中被解放了出来，停在吉住小姐被监控摄像头所捕捉到的地方。那时吉住小姐就在这里，脑中藏着要让自己避开监控摄像头的理由。我向监控摄像头理应所在的方向看去，但那里什么也没有。感觉有点不可思议，但也确实有不去宣扬自己存在的监控摄像头。这种隐藏并不是坏事，它们一直沉默着，有多少也无妨。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="お月見山口駅ホーム" y="0" />
+  <layer_show id="SEI_038" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="登山道（上り）" y="0" />　　我沿着登山道朝山顶前进。虽说雾气自日出始便徐徐散开，可云层仍沉重地压在天际。寒风吹来，给人以风雨欲来的预感。直到我爬到山路中途，四周才豁然开朗起来。然而，周围的景观与重村所绘的风景并不相同。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="登山道（上り）" y="0" />
+  <layer_show id="SEI_039" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山頂" y="0" />　　我前进得愈加急促，未曾间歇地爬到山顶，自那里一望而下。取出移动终端对比着重村的画作。至少从这一路上看，没有任何相似的风景。我根据山的特征，尽可能地缩小出了几个候选位置，但它们都不在正常登山路线上。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山頂" y="0" />
+  <layer_show id="SEI_040" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="登山道（下り）１" y="0" />　　我抬头望向天空，然后确认了下山的路线。脑海里浮现出山的地形和到达目标点的方式。这让我回想起在杀人岛上的有趣经历。嘛，至少这可没有陷阱。<readstop />
+  <br />
+  <hr />　　当我正迅速下山时，雨纷纷落下。我把雨衣披在身上，拿塑料袋包裹起移动终端。我用终端探测着当前位置。先往下行进1公里，之后再逆流而上。<readstop />
+  <br />　　虽然目前雨势尚未加剧，而愈渐沉闷的云层下，雪花渗入了雨水，夹杂着一并坠落。打开终端，如它所示，我已经到达了预定的位置。<readstop />
+  <br />
+  <hr />
+  
+  <restore_tags id="13">
+    <bgm_play id="BGM_025" xDescription="俯瞰" />
+    <layer_show id="SEI_040" layer="1" pos="1" x="0" xDescription="登山道（下り）１" y="0" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　刚要坐向路旁的岩石，我发现有个男人也坐在那里，他仰面淋着雨，漫不经心地抽着烟。<readstop />
+  <br />　　当我准备脱离登山路线，向河沟走下去时，男人开口说：<readstop />
+  <br />　　“电子设备在这山里没用喔。”<readstop />
+  <br />　　我默默转过身。<readstop />
+  <br />
+  <layer_show easing="31" id="SEI_c11_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="救難隊の男通常通常" y="820" />　　“听说这座山里有大量干扰电子设备工作的矿物。今年已经失踪了12个人，其中4个都是搜索队的。呐，算了吧，你要出了事可没人会帮你的。”<readstop />
+  <br />　　“我只是去看一眼河。你在这儿做什么呢？”<readstop />
+  <br />　　“我是民间搜索队的。毕竟月见山可是有好活的啊。最近遇难者少了，生活就有些困难了。我们10个人里，4个死了，5个辞职了哦。”<readstop />
+  <br />
+  <hr />　　男人吸了口烟，闭上了眼睛，然后慢慢吐出烟雾。雨夹雪碰到烟蒂，发出滋滋响声后烟头随之熄灭。男人歪着脸，掏出zippo打火机重新点燃了烟。<readstop />
+  <br />　　“去河沟里可以。但把你找回来的话，300万。怎么样？你会如数支付的，对吧？”<readstop />
+  <br />　　“我不需要什么帮助。我只是去那里看看。况且，未经请求就擅自提供帮助然后索要钱财什么的，我认为这不合理。”<readstop />
+  <br />　　男人笑了，来回摸了摸自己的胡须。<readstop />
+  <br />　　“救人命也要被骂。随便你活着或是去死都是你的自由啊。我也没法指望你什么。只是感觉这有点矛盾。你不是真的想死吧？”<readstop />
+  <br />　　我好像摊上麻烦了。不过，他作为救援队的一员，可能知道一些事情。我盯着他。<readstop />
+  <br />　　“这附近有山间小屋吗？”<readstop />
+  <br />
+  <hr />　　“为什么问这个？”<readstop />
+  <br />　　“我在山岳部的前辈用过那间小屋，但前辈转学了，我没法从他那了解到更多。”<readstop />
+  <br />　　男人猛地抽了一口烟，好像要把烟嘴也烧了似的。然后大口呼出烟雾。<readstop />
+  <br />　　“只有一个。不过已经很久没有人用了。以前有一条沿河沟的路线。我也只去过一次。”<readstop />
+  <br />　　男人掏出一个袋子，把烟蒂捻灭扔了进去。<readstop />
+  <br />　　我走向他，然后拿出移动终端，向他展示了重村的画。<readstop />
+  <br />　　“你见过这个景色吗？”<readstop />
+  <br />　　男人沉默地看了一会儿画，然后说道。<readstop />
+  <br />　　“别提那300万了。老实说，我也想再去看看那，可有段时间没去了。”<readstop />
+  <br />　　我综合考量了一下，然后回答。<readstop />
+  <br />
+  <hr />　　“请一定带我去，拜托了。”<readstop />
+  <br />　　男人吸了吸鼻子，点了点头。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="登山道（下り）１" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <bgm_play fade="20000.0" id="BGM_011" xDescription="ルート" />
+  <layer_show id="SEI_042" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />　　我们两个人沿着一直使用到现在的河沟路线前进。行走的痕迹……已经消失了。这样想来，不是看不见路，而是原本不存在的路变得随处可见。<readstop />
+  <br />　　“救援队的四个人怎么了？”<readstop />
+  <br />
+  <hr />　　“有一对老夫妇来采山菜后失踪了，我们是去搜救的。我们以为他们不会走到很深的山里，所以缩小了搜救范围……但最后找到这对夫妇时，发现他们是被刺死的。是我发现的啊。我们是分成两队，每队五人，A队和B队。每队中四个人参与搜索，一个人负责后勤支援。我是B队中负责搜索的一员。我们在上山大约三十分钟的地方找到了那对老夫妇。但是在现场根本无法通讯，而且设备显示的位置和实际位置完全不符。这就是所谓的电子遭难。我们和腐烂的尸体共度了几天，之后我们四个人决定沿河沟下山。但那根本算不上下山呐。”<readstop />
+  <br />　　“那是怎么回事？”<readstop />
+  <br />　　“低温症诱发的精神异常。至少我作证词时是这么说的。这是唯一合理的说法了。”<readstop />
+  <br />　　“其他的队员不是这么说的吗？”<readstop />
+  <br />
+  <hr />　　“就像在扭曲的空间里不停回旋打转——一个人这样说。这很常见啊。不过对于计划外的遭遇，即便是老手也会陷入恐慌啊。”<readstop />
+  <br />　　我拍掉了堆积在披风上的雨雪。<readstop />
+  <br />　　“从这里到山间小屋近吗？”<readstop />
+  <br />　　男人停下脚步回头看着我，我回以十分轻松的微笑。<readstop />
+  <br />　　“沿着这条路走不用一个小时就能到。但考虑到这天气啊。而且这个季节下雪真是罕见。今年真的太冷了……”<readstop />
+  <br />　　我们途中停下来歇了一歇。这停留与其说是为了休息，更像是一种仪式。男人用手捧起冰冷的河水，颤抖地送进嘴里，漱了漱口。<readstop />
+  <br />　　“你相信山神吗？”<readstop />
+  <br />　　男人小声地问。我觉得这问题很无聊，所以不假思索地回答：<readstop />
+  <br />
+  <hr />　　“我可没见到山神，而寓于山外的各路神明，我估计已经见过许多。所以说啊，即使山里没有神也没什么关系，那么多的神，只会让我呼吸困难。”<readstop />
+  <br />　　男人像是在忍着什么似地，紧闭起眼睛。<readstop />
+  <br />　　“哎，现在的高中生真莫名其妙啊。”<readstop />
+  <br />　　“还真是。”<readstop />
+  <br />　　男人转过身，脸上浮起笑容。然后用力踏出步伐，爬上河沟的高地。<readstop />
+  <br />　　我们默默地在无路之路上前进。前方，那座山间小屋终于显露出轮廓。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />
+  <layer_show id="SEI_043" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山小屋外観" y="0" />
+  <layer_show easing="31" id="SEI_c11_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="救難隊の男通常通常" y="820" />
+  <restore_tags id="14">
+    <bgm_play id="BGM_011" xDescription="ルート" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　“是这里了。”<readstop />
+  <br />
+  
+  <bgm_stop fade="10000.0" />　　山中小屋看上去还很新，至少看起来有人在打理。小屋旁边有一个小型储物棚，里面存放了足够多的柴火。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山小屋外観" y="0" />
+  <layer_show id="SEI_044" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山小屋内部" y="0" />　　我们进入山中小屋，放下了背包。环顾小屋内部时，我感到有些不可思议。<readstop />
+  <br />　　“这里整理得很干净呢。”<readstop />
+  <br />　　“可能还有人在使用吧。”<readstop />
+  <br />　　我点了点头，但保持沉默。<readstop />
+  <br />　　“我稍微去外面转转。”<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="山小屋内部" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_043" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="山小屋外観" y="0" />　　我走到外面，检查了地面的脚印。要是重村或吉住小姐来过这里的话，或许还留有迹象也说不准。检查脚印后，我倍感困惑。这根本没有很多人来过的样子。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="山小屋外観" y="0" />
+  <layer_show id="SEI_042" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />　　稍微沿着河沟上游走了一段路后，视野开阔了。天空暗淡浑浊，布满了从雨雪滋生的水雾。隐约可以看到山的脊线。我忽地回想起重村的画，感觉这里和他画的景象相符。我就在这里停下脚步，期待云开雾散，可雨雪不停，云雾像在刻意隐瞒什么似地不断再生。云雾不断翻涌再生，像是在刻意隐瞒着什么。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />
+  <bgm_play fade="10000.0" id="BGM_019" xDescription="おさーん２" />
+  <layer_show id="SEI_044" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山小屋内部" y="0" />　　我放弃等待，回到了山中小屋，发现那男人坐在靠窗的椅子上看着外面。<readstop />
+  <br />
+  <layer_show easing="31" id="SEI_c11_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="救難隊の男通常通常" y="820" />　　“今天看起来是暴风雨（会很糟）。”（荒れ 暴风雨、事物激变，双关）<readstop />
+  <br />　　桌子上放着一个连接着强力天线的设备，柴炉里燃着火。<readstop />
+  <br />　　我进去放下行李后，盯着设备的屏幕。屏幕里的地图上显示着我们的当前位置，还有天气状况和今后的预测。<readstop />
+  <br />　　“你把设备关了，就不会白白浪费电了吧。”<readstop />
+  <br />　　男人用一种嘲讽的表情看着我。<readstop />
+  <br />　　“位置这种东西，可是连贯的哦。”<readstop />
+  <br />
+  <hr />　　我注视着设备的屏幕。<readstop />
+  <br />　　“我不清楚，但我觉得最好不要浪费电。”<readstop />
+  <br />　　我这么说后，男人好似无法理解我，看向窗外。<readstop />
+  <br />　　我虽然觉得这人多少有点怪，但首先该确认的，还是这个小屋里是否还残留着重村留下的痕迹。<readstop />
+  <br />　　“这里有储藏室吗？”<readstop />
+  <br />　　“储藏室？小屋里没有那种东西。地板下的储物空间里可能有些巧克力。”<readstop />
+  <br />　　男人指着的桌子下，有一扇门可供出入。<readstop />
+  <br />　　“嘛，算了。总之，今天能下山吗？”<readstop />
+  <br />　　“你又要下山干什么？如果是不下山就会死的事，那你在下山路上也难逃一死。如果没有那样的事，还是别下山了。”<readstop />
+  <br />
+  <hr />　　“那也太夸张了吧。这高度和距离明明都小菜一碟。”<readstop />
+  <br />　　“我不知道你对山有多少了解，不过是个高中生山岳部部员对吧？你要是真知道雪山有多残酷就好了。明明还没有失去过任何人。”<readstop />
+  <br />　　我沉默。我被激烈地质问……不，不是……自事实与理智错综复杂地交汇中，真相烟消云散。似乎有什么东西在思维的薄膜下挣扎，但我无法抓取出片语。<readstop />
+  <br />　　“在月见山到底发生了什么？你到底失去什么了？”<readstop />
+  <br />　　男人低着头，没有起伏地说。<readstop />
+  <br />　　“噩梦啊……那个时候就是噩梦。那对老夫妇死了，我们的人也被杀掉大半。如被扔进巨大迷宫的背包客与杀人魔纠缠的故事一般。”<readstop />
+  <br />　　“……杀人魔？”<readstop />
+  <br />　　男人轻颤着站起来，从背包里拿出扁酒壶和杯子，倒了些威士忌。<readstop />
+  <br />
+  <hr />　　他将威士忌含在嘴里，眉间一皱，小口顺下去。<readstop />
+  <br />　　“来点吗？”<readstop />
+  <br />　　“那就来一点点。”<readstop />
+  <br />　　我接过男人的杯子，轻轻含了一口后咽下。沸腾的热气从食道直冲向胃。燃烧的威士忌伴着橡木的丰富香气在胃里来回跳动。令人愉悦的酒精汩汩流入我的大脑。可能是因那高浓度的威士忌，我不由得回想起和斑猫在Fabliau喝威士忌的场景。回味着那酒的味道，强忍住泪水。<readstop />
+  <br />　　“你不是高中生吗？喝酒怎么这么老练。”<readstop />
+  <br />　　我摇了摇头，试图将斑猫从我的思绪中驱散，说。<readstop />
+  <br />　　“这座山里住着杀人魔吗？”<readstop />
+  <br />
+  <hr />　　“杀人魔？要是那东西的话，刺死对采蘑菇的老夫妇不就够了吗？还要杀我的几个兄弟？这种事不存在的。这全都是因为白色恶魔。人的不幸，都是恶魔的所作所为。未尝体会的愤怒、怨恨、杀意……这全都是恶魔的错。”<readstop />
+  <br />　　男人用指甲挠着玻璃窗，仿佛在对雨凝为雪的过程竭力下着诅咒。<readstop />
+  <br />　　“所以杀害老夫妇的凶手是谁？”<readstop />
+  <br />　　“还没抓到。是时候未到啊。你看好了，这雪终将融化消逝。”<readstop />
+  <br />　　原来如此。是这样啊。为了确认自身的存在，我一度紧紧闭上眼睛。<readstop />
+  <br />　　“……但这雪又为何下个不停？”<readstop />
+  <br />　　男人从扁酒壶直接灌了一口威士忌，喊出了如被火刑折磨般的嘶吼。<readstop />
+  <br />
+  <hr />　　在那之后，直到夜幕降临，男人都盯着外面。雪仍毫不停歇的落下，反常地堆积在现在的季节。他往杯子倒了点威士忌，走向屋外，又冲杯子里扔进了些新雪。<readstop />
+  <br />　　他一边小口喝着，说：<readstop />
+  <br />　　“你带睡袋来了吗？”<readstop />
+  <br />　　“我本来打算当天回去的。”<readstop />
+  <br />　　“这样啊。那，我的借你。你先睡吧。”<readstop />
+  <br />　　“你呢？”<readstop />
+  <br />　　“密室杀人魔总是在落雪的山间小屋里跳出来。果然还是有人守夜比较好啊。哈哈哈！”<readstop />
+  <br />　　男人显然有点醉了。<readstop />
+  <br />　　“这样的话，我就不客气了。明天一早能下山吗？”<readstop />
+  <br />　　男人稍作思考后笑着说。<readstop />
+  <br />　　“总会有办法的。放心吧。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　男人从背包里拿出睡袋，递给了我。接着又重新凝视起窗外倾落的雪。<readstop />
+  <br />
+  
+  <bgm_stop fade="5000.0" />　　钻进睡袋的我闭上了眼睛。闭上双眼，回想着发生的种种事情。今天还有很多事没做完。不能睡觉。这样翻来覆去的想着，还是在不知不觉中坠入梦乡。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山小屋内部" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="黒ベタ" y="0" />
+  <restore_tags id="15">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　忽地睁开眼。四周被黑暗吞没，窗外淅淅沥沥的雨声，随雨点坠入冰冷冲刷着的河水。我从睡袋中爬出。那男人的气息已然消散。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_045" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="山小屋壁面" y="0" />　　我从怀中掏出手电筒，照亮房间。<readstop />
+  <br />
+  
+  <bgm_play fade="10000.0" id="BGM_022" xDescription="謎 I" />　　屋内的墙壁上涂着《魔法少女爱☆丽☆丝》的魔法阵。我分别照亮侧墙、天花板和地板，发现全都密密麻麻地画满了魔法阵。我站起身，走近墙壁试图擦拭。这不是普通的油漆。当我移远手电筒时，原木本来的质感清晰可见。这涂料只能屏蔽特定的频率……？<readstop />
+  <br />　　我环顾四周，试图找到那个男人的踪迹，但哪里也没有。只是，他的登山包还留在这。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="山小屋壁面" y="0" />
+  <layer_show id="SEI_046" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="山小屋外観（夜）" y="0" />　　我轻轻一下，打开了小屋的门，但被雨水冻得硬邦邦的新雪上留不下任何足迹。<readstop />
+  <br />　　强风的呼啸宛若怪物在怒吼……那大概是风吹动树木所致的吧，在月光无法抵达的黑暗中，我别无选择，只能这样想。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="山小屋外観（夜）" y="0" />
+  <layer_show id="SEI_047" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="山小屋内部（夜）" y="0" />　　回到山中小屋后，我将那里又仔细的翻了一遍。既然那个男人没有出去，小屋里大概藏着什么，就变成了目前活动的基本原则。<readstop />
+  <br />　　先从天花板开始……然后是地面……<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山小屋内部（夜）" y="0" />
+  <layer_show id="SEI_048" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山小屋地下階段" y="0" />　　桌子下有一个储藏室的把手。我打开它后，风从里面直灌上来。混凝土墙上嵌有一把梯子。我用手电筒向下照去，洞相当深，洞底隐约反射着光芒。<readstop />
+  <br />　　一次深呼吸后，我评估了下目前的状况。重村曾来过这里。这里有完全无法以山中小屋来解释的异常设施。然后，与我同行的那个男人消失了。小屋的墙面画着在阳光照不出来，但在特定频率的光下能显现的魔法阵。这地方可真不妙啊。<readstop />
+  <br />
+  <hr />　　我从自己的登山包中拿出备用弹匣并装备在身上。我真希望自己当初能带上手枪下挂战术手电，谁知道会遇到这种技术性的状况呢。我把手电筒咬在嘴里，顺着地板储藏室的梯子降下去。<readstop />
+  <br />
+  
+  <bgm_stop fade="500.0" />　　下梯子时嘎吱嘎吱的声音在空中回荡。我降到长长的梯子底端。那里是一个自然形成的钟乳石洞穴，里面却满是人工挖掘的痕迹。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山小屋地下階段" y="0" />
+  <layer_show id="SEI_049" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="鍾乳洞" y="0" />　　如刀片般锋利的澄澈空气，和将它研磨光滑的闪烁水滴坠落所发出的声音，正紧紧的包围着我。仿佛下一个瞬间，我就将被这空间刺出的数道刀刃贯穿。<readstop />
+  <br />
+  
+  <bgm_play id="BGM_030" xDescription="現実 I" />　　我迅速地将背靠在岩石上，审视着周遭。地面覆盖着细沙。钟乳石在洞穴的顶部高悬着。在梯子下面，有堆看似那个男人脚印的东西……不，是比那更多以至于多不可数的脚印。<readstop />
+  <br />
+  <hr />　　我持着手电筒和美洲狮，警惕地跟随着脚印向前移动。<readstop />
+  <br />　　自钟乳石滴落的水滴，在这空间内，发出了好似人类悲鸣般的回响。每次滴落，都会让我去怀疑那是不是我的尖叫。远处地下水流的声音清楚可闻。越向深处走，这声音就越发响亮。洞穴前方的路径愈加分岐，自地面隆起的岩石可作天然的掩体，这是个理想的伏击地点。<readstop />
+  <br />　　我暂时关闭了手电筒，隐藏起自己的身形。四周是彻底的黑暗。我不断地在脑海里进行模拟。在记忆重构中的洞穴空间，让自己在那里射击、换弹。接着，我与那个模拟的自己同步着进行着射中目标……，或者说射中自己的动作……<readstop />
+  <br />　　啪嗒一声，水滴掠过我的耳边击中地面。脑中的画面就此消散。我的视野和对周围空间的感知，都蒙上了一层黑暗。我确保自己的脚紧紧落在地面，迫切地确认周围的声音。花了几秒钟，才意识到我还藏在能见度为零的环境中。<readstop />
+  <br />
+  <hr />　　我要是自我刨析一下的话，应该能意识到情况的异常，反之，如果没能刨析出异常，我大概也只会觉得这是已经无法冷静判断的异常状况。所以我打消了刨析的念头。不管怎样，只是单纯知道有问题，也不过是白费力气。我竟然能理解到这点，真不错。好的好的，我是正常哒。<readstop />
+  <br />　　我靠着岩石竖起耳朵继续向前走。<readstop />
+  <br />
+  
+  <bgm_stop fade="200.0" />　　就在这时，水花飞溅的声音从水边传来。声音在洞穴中回响，难以精确定位。做好了暴露自己位置的觉悟，我举起手电筒向那水边照去。结果看到那个救援队的男人正坐在岩石上。<readstop />
+  <br />
+  <hr />　　当我向他喊话时，那个男人不耐烦地转过头，诡异的笑容浮上脸庞。在这黑暗中，被手电筒照到应该会感到相当刺眼。之后，他嘴里嘟囔了些什么，但被水声淹没了。当我试图靠近他时，他像是筋疲力尽地歪了歪头，身体颤抖着咯咯发笑。诡异的是，我一点儿都没听到那笑声。<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="鍾乳洞" y="0" />
+  <bgm_play fade="8000.0" id="BGM_028" xDescription="謎 III" />
+  <layer_show id="SEI_050" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="鍾乳洞・地底川" y="0" />　　他站起身，蹚着哗啦啦的流水，顺着声音走入地下河。<readstop />
+  <br />　　“我刚被杀了，哈哈哈！<readstop />被他们杀了啊——哈哈！荒谬，真是荒谬透顶啊！哈哈哈！呵呵呵！说有多少人被杀了。其中又有几个是真正死了呢？唔哈哈！”<readstop />
+  <br />　　我无法完全消化这一情况，但这感觉，他是想去死吧。当我准备冲上去时，那男人警告道。<readstop />
+  <br />　　“别再靠近了！”<readstop />
+  <br />　　那声音像是机械合成的，混杂了很多个人的声音在里面。可能是洞穴的效果吧。<readstop />
+  <br />
+  <hr />　　“我们得救了。没死成啊。对啊，没死成。明明就没有人想活下去啊。”<readstop />
+  <br />　　我浑身起了鸡皮疙瘩。在洞穴里听着那些莫名其妙的故事，身处诡异的环境中，总会让人感到有些毛骨悚然……毫无疑问，这绝对是原因之一。<readstop />
+  <br />　　“已经，<readstop />没有必要活下去了。已经，<readstop />没有必要再战斗了。我们不要再见了！”<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="鍾乳洞・地底川" y="0" />
+  <layer_show id="SEI_121" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="救難隊員自殺" y="0" />　　不知何时，在那个男人外又跳出四个人影。他们一并向地下河的深处走去。他们稳健地跨过深不见底的河水，仿佛能安全地渡过对岸一般，但水一旦没至腰部，他们就会被冲走。他们没有对流水的抵抗，也没有挣扎或呼救，就像漂木般平淡地被冲去。然而，这意料外的流逝的事实似乎给他们带来了不快感，他们双臂交叉抱在胸前，紧皱的眉头在水下时隐时现。<readstop />
+  <br />
+  <hr />　　他……在他们于黑暗的流水洞中弥留的几十秒内，我竭力梳理着这一切的情况。如果我都不能理解我的状况，那么除了我之外，肯定再也没有人能理解这些。如果发生了不寻常的事情后却无法将它说明，那么它就只能是一个无法共享的超认知事件。<readstop />
+  <br />
+  
+  <bgm_stop fade="15000.0" />　　我缓慢地走向地下河，然后在水边照亮周围。没有人。也没有呼救。我捧起一把水，感觉它冰冷刺骨，像是能夺走我身上所有热量的凶器一样。<readstop />
+  <br />　　这地下河中段，曾有几个人影，但都被这水流吞噬了这地下河中段，曾有几个人影，现在只有吞人的水流。<readstop />
+  <br />　　那个引导我来这里的男人我尚且能懂，但其他的人影算什么呢？男人也说了些我搞不懂的话。我能理解为他想自杀吗？<readstop />
+  <br />　　我凝视着下游的黑暗。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_play fade="5000.0" id="BGM_027" xDescription="アム、アイ？" />　　眼前，人们接连死去，仅存我独自站在深黑的洞穴中。我看着众人所奔赴的死之河水，想着用脚去接触它时，它摇身变为致命的陷阱，长出无数条手紧紧扣住我的脚，把动弹不得的我向河里拖去。啊，我也会像浮木般死去吗？原来如此，原来如此。我懂了。<readstop />
+  <br />　　我这样想时，脸上大概绽着笑容。随着脚被释放，我得以从河里爬出来。我解放了……不，比起这个，我现在正盯着刚才确被扼住的脚腕，欲求不满。我压抑着那莫名的焦躁，站起身来。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="救難隊員自殺" y="0" />
+  <layer_show id="SEI_050" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="鍾乳洞・地底川" y="0" />　　若我有童话式的怪力，我就会搬起石头，让它塞住奔腾的河流。我的愤怒就是如此。<readstop />
+  <br />
+  <hr />　　我不想就这么回到这拟真的现实，而是像那个男人一样，静静地站在黑暗之中。在那里，我感觉自己并不存在。时间已经停滞，死亡却仿佛一直在我的内部不断增殖……至少也应有着层薄障壁，将我包裹在死亡之外的感觉中，不老不死。<readstop />
+  <br />　　我就这样保持着半死不活的状态，直至我对这感觉感到腻了，就返回了山间小屋。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="鍾乳洞・地底川" y="0" />
+  <layer_show id="SEI_047" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="山小屋内部（夜）" y="0" />　　暖炉炙烤起的火光吞没了比洞穴更安静的小屋。充盈的事物挤占在我眼前，我的听觉像是被携走了，是错觉吗。这里也太安静了。<readstop />
+  <br />　　男人在桌上散落的陌生文件已经有些破损。部分内容难以辨认。<readstop />
+  <br />
+  <hr />　　我已经难忍笑意了，这能笑不出来吗。让我们一五一十地说出刚刚过去的数十分钟间发生的故事吧。带我来的男人在这地下洞窟说了些莫名其妙的话之后就蹦进水里。我因为想要救他而也被牵连进水，好在被什么给救了。我回到山中小屋时，连接天线的设备正在反复发出通知音。仔细一看，那个男人的行李已经彻底消失了。然后，我认定自己没有异常。这就说明，异常的是除我之外的其他所有人。<readstop />
+  <br />　　“哇哈哈哈哈哈哈哈！！！”<readstop />
+  <br />　　怎么可能不笑呢？除我之外的家伙都不正常啊。如果我是异常的，那么我接受这一切该是多么轻松啊。正是因为站在“我并非异常”的前提下，我才平添如此繁多的混乱。我为自己身处这样可耻的世界中而感到可耻。<readstop />
+  <br />
+  <hr />　　我盯着发出通知音的设备屏幕。屏幕上填满了密密麻麻的浮动框，都是报错信息的窗口。尝试查看这个设备正在操作的目标文件时，显示器上出现了闪烁的图案。我眯起眼睛，看看能否辨认出什么，但什么也看不清。只是，一份被加密的二维压缩文档。<readstop />
+  <br />　　将报错窗口隐藏后，我确认了设备的使用历史。在那些记录的浏览中，我找到了“死域”。<readstop />
+  <br />　　我启动它后，屏幕上显示＜从上次中断的数据中恢复＞。显示的屏幕一片漆黑，战场的声音激荡。这表示死域处于GAMEOVER界面。这些声音……ATM、重机关炮的声音。甚至炮弹飞行的声音也能听到。前线……而且还有可能是丘陵地带？？我不由得注意起来。<readstop />
+  <br />
+  <hr />　　我想找到重村可能会留下的控制器，但没有找到。然后，我坐在椅子上向外凝视，像那个男人一样。无论我怎么朝那边注视，眼前也仅有一片黑暗，还有些如幻般闪烁的光，就像一个不停旋转的万花筒。<readstop />
+  <br />　　我的感知是正常的。但是，仅凭我的感知无法做出任何判断。接下来只剩下山了。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="山小屋内部（夜）" y="0" />
+  <layer_show id="SEI_053" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="沢ルート（下り）" y="0" />　　当天空泛起鱼肚白时，我立即下山。我原以为覆雪是不会融化的，但如今地面上连一点雪迹也看不见，只有泥泞潮湿的地面。莫非那雪也只是一层我臆想的假象。说来雪通常作为象征包含着种种各不相同的印象……我也感觉到了这点。只是，那时与那些漠然的人一同寂静地向既定的结果前进，说什么也……难道落雪并非现实，而是我脑海中回旋的印象……<readstop />
+  <br />　　“噗噗噗。”<readstop />
+  <br />
+  <hr />　　我忍住了即将喷涌而出的笑声。如果那场雪是幻觉的话，那大概这一切就都是幻觉了。但即使如此也没什么好担心的。一切都有可能是幻觉，也就是说一切都有可能不是。更何况，根本不存在判断现实还是幻觉的标准。有的只是我坚信这是现实的强烈感觉……同时被无依无靠的漂浮之感所胁迫。<readstop />
+  <br />　　我领悟了这些事，紧握拳头。相握的拳头在视线中如残影般摇晃起来。我用手指压住眼角，努力将图像统合起来。<readstop />
+  <br />
+  
+  <bgm_stop fade="8000.0" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="沢ルート（下り）" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="黒ベタ" y="0" />　　出发七个小时后，我返回了值班室。在学校的课程开始之前，先去电网研拜托解密文件吧。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="750.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_001" layer="1" pos="1" time="500.0" trans="1" wait="false" x="0" xDescription="舎密部廊下１" y="0" />
+  <restore_tags id="16">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　我像老样子走在去电网研的走廊上。走在那里，就像是走在山中小径，只是穿过的不是繁茂草木，而是无数尸体。我真是历经千辛万苦才抵达电网研。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部廊下１" y="0" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />　　在电网研接待处，小凯一边跳舞一边甩头，兴致勃勃的样子。<readstop />
+  <br />　　我走过去时，她指着我，得意洋洋的姿势几乎让人不悦。<readstop />
+  <br />
+  
+  <bgm_play id="BGM_018" xDescription="お？" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　“呼嚯嚯嚯嚯嚯嚯！渡边君！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　简直发疯了。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　“小凯，我想拜托你解密被压缩的文件。”<readstop />
+  <br />　　“吼！哈哈哈哈哈！不行不行。”<readstop />
+  <br />　　我不知该做何表情，呆愣在原地。摆着pose的小凯像是被拔掉电源一样泄了气。随着肚子咕噜噜地响起，她就像是重装电池般起死回生，又高声大笑起来。<readstop />
+  <br />
+  <hr />　　这家伙，看来是真的疯了。<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show id="SEI_c04_p09_e5" layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />　　“我，<readstop />我请你吃饭啊。”<readstop />
+  <br />　　“吼！哈哈哈哈！交给我吧！哈哈哈哈！”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />
+  <layer_show id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　小凯竖起的大拇指跳着小碎步舞。她还清醒吗。交给她真的好吗。<readstop />
+  <br />　　“请照例保密。另外，能离线调查吗？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　我拿出从山间小屋带来的终端交给小凯，她把它拿在手里像扇子一样在空中舞动。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p10_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />　　“马上就能好哟。多亏了人格持久化和伪装问题啊。因此，制作能充分解释信息熵的机器时，并不需要从头开发，而是将它视为有机电脑系统的一部分。优雅！系统性！嗨呀——！”<readstop />
+  <br />　　小凯头发直竖。电学现象带来的炫酷啊。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイヘッドバンキング専用" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　“我，<readstop />我知道啊。那，<readstop />之后我再来。拜托啦！”<readstop />
+  <br />
+  <moveto layer="2" pos="9" rate="1.0" x="1100" xDescription="ケイ踊りHMD有" y="820" />　　小凯又开始跳起舞。本来是娱乐用的动态识别控制器，却用在专业任务上用以提高精度……感觉好像发现了什么别的作用。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="3000.0" />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <restore_tags id="17">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　上午的课结束后，我回到了值班室。<readstop />
+  <br />　　我在空无一人的值班室发着呆。或许是为半天前的离奇事件与日常课程的对比中失衡了吧。我想，在异常中我尚且有存在的理由，但在一成不变的日常中，这样的理由我却感知不到丝毫。<readstop />
+  <br />　　终端显示收到信息。发件人是小凯。<readstop />
+  <br />　　“有想确认的事情。”<readstop />
+  <br />　　这段话无情地揭示了结果。我想，文字就是种能从字里行间发挥想象力的东西啊。不知为何我想起了那时像是掉线一样，口水垂在嘴角的小凯。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />　　快速地在尸骸曾翻涌的走廊中前进，我来到了电网研。接待处空无一人……这样想着，就看见带着头戴显示器，趴在桌子上睡着的小凯。<readstop />
+  <br />
+  <hr />
+  <layer_show easing="31" id="SEI_c04_p09_e5" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />　　看到她发出微鼾的香甜睡眠，我感到有点抱歉，但还是拍了拍她的肩膀想将她叫醒。<readstop />
+  <br />　　“呜哇，那边的bug不能修。那个bug也不行。不行啊啊。”<readstop />
+  <br />　　因为怎么都叫不醒她，我只好使劲一拍，她突然受惊坐起来，双目圆瞪。<readstop />
+  <br />
+  
+  <bgm_play id="BGM_018" xDescription="お？" />　　“啊啊，明明说了让你别修了呀！”<readstop />
+  <br />　　我本来想从就这么溜走，但是突然想到还有事情要办，只好停下了脚步。我假装没听到她刚刚说的话，继续说道。<readstop />
+  <br />　　“对不起，小凯，之前你说有什么事情要确认。”<readstop />
+  <br />　　小凯睁开眼用有点跑调的声音喊道。<readstop />
+  <br />　　“哇哇哇，这是梦。就算是从梦里醒来也是梦。这就是梦。到处都是密密麻麻的密码啊哈哈哈。”<readstop />
+  <br />
+  <hr />　　小凯像投降一样举起双手站在椅子上，像失衡的陀螺一样不稳地打转。我急忙上前扶住她，摘下头戴式显示器。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊3" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　表情崩壊1" y="820" />　　“小凯，这里是现实哦。”<readstop />
+  <br />　　小凯双眼略凹，脸颊也耷拉着。<readstop />
+  <br />　　“啊啊<readstop />，渡边君……我做了一个梦。”<readstop />
+  <br />　　“说来你想确认的事情是什么？”<readstop />
+  <br />　　“啊，那个事吗……”<readstop />
+  <br />　　我搀扶着的小凯闭上眼睛，像是正陷入思考。几秒后她却又发出轻鼾，我猛地掐了下她的脸颊。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　表情崩壊1" y="820" />
+  <layer_show easing="31" id="SEI_c04_p09_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊2" y="820" />　　“呀，<readstop />疼疼疼！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ座位放心表情崩壊2" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　小凯一惊，睁开眼，清醒了。<readstop />
+  <br />　　“啊啊，那可是很重要的事。你还有其他事吗？”<readstop />
+  <br />　　“其他的？”<readstop />
+  <br />
+  <hr />　　“菜单啊菜单。你推荐的好吃的那个。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　难道她还在梦里吗？我歪了歪脑袋，小凯却抬起眼睛瞪着我。<readstop />
+  <br />　　“哈！<readstop />哈哈！<readstop />难不成是我睡迷糊忘了！！<readstop />哈！<readstop />吃饭的事！”<readstop />
+  <br />　　“啊？”<readstop />
+  <br />　　“你不是说了要请客吗！”<readstop />
+  <br />　　我把手放在脑后，想起来确实说过这事。<readstop />
+  <br />　　“对，<readstop />对哦。嗯嗯，<readstop />请，我请客哦。所所所，<readstop />以以以。想确认的事是。”<readstop />
+  <br />　　“所，<readstop />以，<readstop />说，<readstop />你推荐的其他好吃的<readstop />是什么。”<readstop />
+  <br />　　我唰地朝小凯退远了一步，说。<readstop />
+  <br />　　“大概，像汉堡肉那种抽象料理吧……说是挺好吃的……这种感觉。”<readstop />
+  <br />
+  <hr />　　“啊，你是不是把我当外人。明明自己先答应的，啊，<readstop />啊啊，<readstop />啊—，不行啊！<readstop />这<readstop />样<readstop />可<readstop />不<readstop />行<readstop />啊！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　　啊，我受够了啊。我不想和这偏离轴心的世界扯上一点关系，快让我逃去清净点的地方吧。<readstop />
+  <br />　　“对对对，我必须请客。尽快请客，把这逃亡时间尽可能缩短才对。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“对对对，遗传图灵机会在无限的空间中持续写入日志，直到推测的未来与实现的现实差距趋近于零！”<readstop />
+  <br />　　我和小凯注视着彼此。就像是爱丽丝凝视着镜中的自己，而镜中的自己也在凝视着镜外的她一样。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show children="houkai1" id="SEI_034" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="中華屋・テーブル" y="0" />
+  <restore_tags id="18">
+    <bgm_play id="BGM_018" xDescription="お？" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　小凯一路呻吟，直到我们到达那家怪异的中华餐馆才停止。这么说来，好像很多电影都有这种活死人来回行走的剧情。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="pika" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　我们面对着坐在餐桌旁，我点了炒豆芽。小凯嘴里正嘟囔着什么。服务员满脸疑惑地问着。小凯一下子像是从地底瞪着天空般，从包里拿出终端，只用手掌输入着什么。紧接着，服务员的终端响了起来。服务员被吓的小声惊叫。小凯就像能透视一样对那服务员身上响动的终端使着眼色。服务员急促地从口袋里拿出终端，看了一眼，就大惊失色，环顾四周。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“喂喂，你为什么会知道啊。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hokorasige" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“呼呼。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯用鼻子哼了一声，满脸得意。<readstop />
+  <br />　　男服务员惊声惨叫着退去。<readstop />
+  <br />
+  <hr />　　“小凯，选好吃什么了吗？”<readstop />
+  <br />　　“刚才写在那个上了，应该没问题。”<readstop />
+  <br />　　有时电子文字与对象检索的信息传递方式比依赖视线、动作、声音指向性的信息传递方式更加轻松。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hikituriwarai" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“小凯，最近睡了吗？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“在赛博空间里大概有吧……呼呼。”<readstop />
+  <br />　　小凯有些自嘲地笑了笑。或许她自己都不知道自己在说什么。<readstop />
+  <br />　　“唔唔，完全没睡。不知道到底熬了多久呢……没在线的时候就像在睡觉，但……那只是之前的世界。有时候也不知道自己睡着。”<readstop />
+  <br />　　“所以是，生病了？”<readstop />
+  <br />　　“对，是网络劳工特有的职业病……但是没关系，只是认知问题。”<readstop />
+  <br />
+  <hr />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="majime" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　认知问题？我虽然不懂但还是表示出恍然大悟的样子点着头。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“呐，渡边君。”<readstop />
+  <br />　　认知问题到底是什么呢……我思维里的一些迟滞齿轮正试图解释这个问题。表面上，我只是处理着这些被输入的感觉，却毫不理解其中的真意。只是为无法理解的东西而混乱。<readstop />
+  <br />　　“呐呐，渡边君，在听吗？”<readstop />
+  <br />　　“嗯。”<readstop />
+  <br />　　我生硬地回答。<readstop />
+  <br />
+  
+  <bgm_stop fade="3000.0" />　　“之前你存放在我这的重村君的老古董笔记本，解析好了哦。”<readstop />
+  <br />　　内部的齿轮终于停了。我初步处理了感受器官和那信号的内容。<readstop />
+  <br />　　“怎么样？”<readstop />
+  <br />
+  <hr />　　“除了操作系统的数据以外就只有日志了。”<readstop />
+  <br />
+  
+  <bgm_play fade="10000.0" id="BGM_024" xDescription="謎 II" />　　“什么日志？”<readstop />
+  <br />　　“是重村君的死域数据包日志。大概是在死前两周开始记录的。这些原始数据仅仅记录了死域的通信内容。应该是在将它用于死域的代理吧。其中只过滤出了自主操作数据，机体的响应，以及物体的坐标数据。是想从机体的物理特性中计算出详细的规格吗……？又或者是想篡改自主操作。虽然无法确定他的目的。但是，如果过滤掉这部分数据，那剩下的几乎只有与好友的聊天日志。在重村君去世前的最后几天，一直在与某个特定用户聊天。”<readstop />
+  <br />　　“和谁？”<readstop />
+  <br />　　“sayhere。”<readstop />
+  <br />
+  <hr />　　如吟唱咒文一般，小凯缓缓地款出名号。我歪着头陷入了思考。啊。这是重村的攻略笔记里提到的名字。<readstop />
+  <br />　　“重村是死域的高分保持者。和其他在作战中遭遇过sayhere的玩家一样，他认为其强得难以置信。也人有怀疑其高超的实力其实是修改客户端的结果。还种观点认为，sayhere是下一个更新将实装的试验机体，也有人说这是开发者忘记删除的幽灵机体，甚至有人说所有目击都是谎言，sayhere并不存在。不过从重村的日志中确实可以看出，sayhere确实存在过。”<readstop />
+  <br />　　小凯似乎因为难以承受的疲劳而喘着粗气。<readstop />
+  <br />　　“那时……虽然已经是六年前了……死域刚进行过大规模更新，对sayhere的第一次目击也就在那时出现。从那时起，直到停服的两年间，总是定期传来目击报告，虽然并不多。”<readstop />
+  <br />
+  <hr />　　“但是，和重村聊天的那个sayhere，和这个sayhere是同一个吗？服务器一旦停止了，sayhere也会跟着消失吧。”<readstop />
+  <br />　　听我这么说，小凯嗡嗡地摇了摇头，接着说。<readstop />
+  <br />
+  <hr />　　“服务戛然而止后，死域的服务器程序和数据流传到了网络上。在由网络部落所复原后，最终成为了重村在玩的死域。如果sayhere知道这个的话，也有可能再来玩的。当然，sayhere完全有可能只是个程序，而并非玩家。也有可能是别人假冒了sayhere的账号。但，事实并非以上种种。虽说死域提供着多种验证方式，sayhere却在用着特殊的认证方式进行着登录。我刚开始调查时也是一头雾水呢。sayhere所使用的那个独属自己的认证方式，与如今被当局称为‘实时生物识别认证’的方式非常相似。而现在这也成了最可靠的认证方式。它依靠植入体内的随机数生成器，根据遗传信息生成的唯一的字符串来进行认证。”<readstop />
+  <br />　　“虽然不是很懂，但是是无法做伪装或者冒名顶替的事的意思，没错吧？”<readstop />
+  <br />
+  <hr />　　小凯点了头。<readstop />
+  <br />　　“在死域中，采用这种被实装的非官方验证方式登录的账号，会解锁更多的功能。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hikituriwarai" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“sayhere就是这样篡改了机体的性能了啊。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　或许是对我插嘴的行为很不满，又或是不喜欢我说的内容，小凯很勉强地挤出笑容。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="majime" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“……还没调查到那种程度，但从通信内容的物理数据中，并没有证据表明sayhere的机体存在性能异常。而且，即使sayhere能做到那样，它会做那种无聊的事吗？不，不会的。太无聊了。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯一边梳理着窜出来的发丝，又仿佛正自言自语。然后，低声默念了什么几分钟，途中又开始咔哒咔哒地敲起自己的头。我被吓得屏住呼吸，不知所措而僵直在原地。<readstop />
+  <br />
+  <hr />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="pika" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　服务员端来了菜肴。小凯闻味起舞。<readstop />
+  <br />
+  
+  <bgm_play fade="1000.0" id="BGM_018" xDescription="お？" />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“哈！<readstop />饭，饭——”<readstop />
+  <br />　　这才是小凯啊。服务员警戒着将菜肴摆在小凯的面前，紧接着胆战心惊地快速退去。小凯掰开一次性筷子，狂吞着口水与菜肴焦急地对峙。<readstop />
+  <br />　　“请，<readstop />请。你先吃。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　在我的催促下，小凯紧绷精神向菜肴伸去筷子。然后，迅速用筷子夹起肉和蔬菜，以惊人的速度塞入嘴里。风卷残云的她活像个吸尘器，但塞满食物的小嘴仍细嚼慢咽着，满脸写着高兴。她伴着微笑进食时，突然一转惊慌，胆怯的眼神投向了我。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hikituriwarai" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“请，<readstop />请问你在看什么呢？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“诶？我只是在想，你在吃东西啊。”<readstop />
+  <br />　　“难，<readstop />难道不能吃吗？”<readstop />
+  <br />
+  <hr />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“不，我没说那种话哦。明明都通宵了还这么有胃口。而且能吃是好事哦。饭菜可口的话，那就更好了。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“诶，诶诶……这，这样呢。诶嘿嘿，诶嘿嘿。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hoobari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　小凯将白米饭扒拉到嘴里，开心地大口嚼啊嚼啊嚼。将白米饭全部纳入肚中后，像是突然想起什么一样，继续说道。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“啊，不是饭的事情。我是说，根据那个sayhere的认证方式，我查了一下。这就是那个啊，咦。诶——，是X什么的。”<readstop />
+  <br />　　“诶——，<readstop />那是什么来着？”<readstop />
+  <br />　　“那个药啊。你不是要我去查吗。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="fumann" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“哈。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯紧紧瞪向我的目光中，我强装正经地摆出一副当然知道了的表情。小凯愣着摇了摇头。小凯这家伙，用电波读取人心，真不公平。<readstop />
+  <br />
+  <hr />
+  
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <bgm_play fade="8000.0" id="BGM_022" xDescription="謎 I" />
+  <moveto alpha="100.0" children="futuu" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“用于实时生物认证的那个，<readstop />诶……”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　像是在微调着脑内万花筒的成像一样，小凯倾斜着脑袋，手不停的向那敲着。<readstop />
+  <br />　　“啊，啊啊啊，是＜XNC28B039＞。在死域中实装着这种由＜XNC28B039＞所支持的实时生物认证，而且还有人在用这个进行着认证和游玩哦。于是，我潜入了现在的死域服务管理器。结果发现，还有1200个账户也在使用着相同的实时生物认证方式。然后，在这其中也有重村君的账号。”<readstop />
+  <br />　　小凯稍作呼气，揣揣不安地看着我的反应。她大概已经得出某个结论了吧。<readstop />
+  <br />　　“意思是，重村也接种了＜XNC28B039＞吧。”<readstop />
+  <br />　　小凯点头。<readstop />
+  <br />
+  <hr />　　“总的来说，通常只有政府机构和相关企业，特别是处理高度机密情报的一些研究机构才会使用纳米机器的生物识别方式，不向一般大众普及。而且就死域所使用的实时生物认证来看，它所用的技术有自己研发改进的痕迹。但只是用在游戏上的话……可以说相当不对劲了吧。”<readstop />
+  <br />　　服务员将我的菜端上来后，看起来非常抱歉的样子说“菜都上齐了吗？”后，不等回话就匆匆离开了。小凯到底对他做了什么啊。<readstop />
+  <br />
+  <hr />　　“接下来的事情也很惊奇哦。关于＜XNC28B039＞的文件竟然混杂在攻究局的删除文件列表中。虽然我搞到了几份没物理删除的文件……看起来＜XNC28B039＞是来自美国陆军，并加入了自己的独特功能的实时生物识别参考方案。对这方案来说，认证功能更像是个附赠品，它最主要和最独特的功能是通过脑波来操作武器。而这些为死域所用的脑波控制模块被非法发放给了网络部落。”<readstop />
+  <br />　　我就这样拿着筷子愣住了。在我的脑海里，那些一直干裂的碎片似乎正在聚合，它们之间的接合处开始相互浸染，等待着彼此嵌合。<readstop />
+  <br />　　“我交给你的那个药相当危险吗？”<readstop />
+  <br />　　小凯点了点头。<readstop />
+  <br />　　“但是，为什么攻究局会知道这个，还要试图隐瞒呢？”<readstop />
+  <br />
+  <hr />　　“攻究局不应该知道这个，如果知道的话，那就太怪了吧。”<readstop />
+  <br />　　我只是换了个说法。仅仅，只是简单的转述，但我感觉到某种拼图的连接处再次变得炙热，似乎随时都要完美地嵌入在一起。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="egao" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“顺便问一下，现在使用这种认证方式的玩家还有活下来的吗？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　在我问完后，小凯在紧绷的脸部肌肉中挤出笑容。然后摇了摇头。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hoobari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“小凯你有没有看过一份报告书，说的是死域的画面太过真实，在游戏中死亡后，现实中也可能会死亡？据说有这样的报告书。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯像快要笑喷出来一样，连忙捂住嘴。然后边吞着肉块边高兴地说。<readstop />
+  <br />
+  <hr />　　“渡边君说的真有趣呢。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="futuu" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“怎么可能有趣啊。这很残忍啊。斑猫先生应该早察觉到了吧。”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯拿着筷子陷入思考。然后以怀疑的目光望向我。<readstop />
+  <br />　　“可能不是那么简单的事啊。因为这样的话，就完全没法解释当今的情况了。斑猫先生为什么非要杀人然后逃跑呢？”<readstop />
+  <br />　　“那个和这个是不同的事吧……能这么说吗？”<readstop />
+  <br />　　我脑中碎片的接合处如涂了润滑油般顺滑。已经万事俱备了。我长叹了一口气。<readstop />
+  <br />　　“关键性证据会出现的。”<readstop />
+  <br />　　照着小凯享受美食的样子，我吃起了饭。在慢慢咀嚼下咽的过程中，我确实感受到了些许滋味。但我却想不到那是什么。<readstop />
+  <br />
+  <hr />　　“信不信任斑猫好像都不是正解啊。”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="odoroki" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　我像念台词一样说出这句话后，小凯的眼睛睁得圆圆的，向我看过来。黑眼圈没用地更显眼了。<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　“斑猫先生不会做出无理由的事情。他懂得时机，也不会进行没有胜算的战斗。人人皆知。他曾是一名优秀的军人。除此以外的事情我不想知道，更何况太麻烦了……”<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="konwaku" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　我这么说着，小凯露出前所未有的困惑表情，像猫一样低声呜咽。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="hoobari" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　我如镌刻时间的钟表般准时地咀嚼和吞咽。小凯则边鼓起脸颊塞着食物，边欢快地摇晃身体。我看着她，下定了决心。<readstop />
+  <br />
+  <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
+  <moveto alpha="100.0" children="futuu" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“我们来调查斑猫先生、埴谷大叔和局长的关系……以及斑猫先生和死域的联系吧。可以拜托给小凯吗？”<readstop />
+  <br />
+  <moveto layer="1" pos="" xDescription="中華屋・テーブル" />　　小凯慢悠悠地点了头。<readstop />
+  <br />
+  <hr />　　“是那些被抹消的历史啊。虽然听起来是个艰巨的任务。”<readstop />
+  <br />　　“毕竟我们需要调查的世界是极度简单的。简单到只关乎是与否。从过去到现在再到未来，存在过的、正存在着的以及必需存在的，所有事物都是线性相连的。而那必需存在的事物和绝不应该存在的事物之间……一切的扭曲将在那间隙之中浮现。这实在是在重复简单的工作中就能显露的事。这对我们来说，没什么特别。”<readstop />
+  <br />　　我稍微理解了小凯所说的重要的事的含义。这种令人沮丧的话题总是难以避免。小凯也一定，没有特意深入调查过斑猫。<readstop />
+  <br />　　“关于这件事，我劝你最好不要相信舍密部内部的任何部门。我们的对话也要用加密专线，或者面对面交流。”<readstop />
+  <br />　　“我明白了。”<readstop />
+  <br />　　小凯神情轻快地点了点头。<readstop />
+  <br />
+  <hr />　　“另外，我还有个别的请求。”<readstop />
+  <br />　　小凯带着疑问歪了歪头。<readstop />
+  <br />
+  
+  <bgm_stop fade="1000.0" />　　“我想见见sayhere。”<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="" time="5250.0" trans="2" wait="false" xDescription="中華屋・テーブル" />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="EQC" y="0" />
+  <restore_tags id="19">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　电磁静肃室里，只有我和小凯二人。我将死域的操作器穿戴好，坐在椅子上。<readstop />
+  <br />
+  
+  <bgm_play fade="1000.0" id="BGM_027" xDescription="アム、アイ？" />　　为了满足我想见sayhere的愿望，小凯为我准备好了设备和器械。EQC是电磁静肃室的简称，它可以屏蔽外部电磁波，并且用特殊的墙壁吸收由内部产生的电磁波，这是不仅能阻断外部的辐射，也可以抑制内部的电磁堵塞的实验室。当我简单地向小凯询问来EQC的原因时，小凯得意地举起食指开始说明。<readstop />
+  <br />　　“请回想一下重村君隔离电脑的铅板，以及死亡现场涂满的屏波涂料。这游戏一定很难伺候！”<readstop />
+  <br />　　这么说完，她轻轻地笑了。虽然没有明确的讲要屏蔽电磁波的理由，但还是最大限度还原重村启动游戏时的情况比较好。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show id="SEI_c04_p01_e11" layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ正面HMD無　安心" y="820" />　　为了让我尽快玩上死域，小凯在EQC里进行着设置。但她如齿轮损坏的人偶，反复了几次同样的动作后，突然停下来，抬起了头戴式显示器。然后安下心似地松了一口气。<readstop />
+  <br />　　“差点忘干净了。我还以为这是个噩梦啊。”<readstop />
+  <br />　　小凯按下头戴式显示器的电源按钮，关闭了电源。<readstop />
+  <br />　　“在梦里，就算走得再稳也没法达到目的地，把筷子攥得再紧夹起米饭也还是会掉。就是这样的感觉哦。稀里糊涂、晕头转向。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　安心" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　　当然，EQC里一切无线通信都会被屏蔽。无法进行无线通信的话，头戴式显示器也没什么用。小凯看我没什么兴趣，或许以为是解释不够充分吧，仍滔滔不绝地用我根本听不懂的专业术语解释着。<readstop />
+  <br />　　“渡边君，听得到吗？吃药吃出问题了？”<readstop />
+  <br />　　“真过分啊，小凯。我什么时候开始不正常……”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />　　小凯突然意识到自己的失言，羞愧地蜷缩起来。<readstop />
+  <br />
+  <hr />　　“不……抱歉。我知道这听起来有点怪，但我分不清这是渡边君与生俱来的反应还是药物的影响……”<readstop />
+  <br />　　是药物的影响吗……被害妄想似的，我似乎听到了某种幻听……啊啊，这原来是幻听吗……我还保持着分辨现实所必要的理性。我还没事。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“因为接种了＜XNC28B039＞的重村已经死了……所以接种同样的东西后死掉也不奇怪。”<readstop />
+  <br />　　“死亡和精神错乱是不一样的吧？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />　　小凯仿佛想回答什么，却找不到合适的词语，便像猫一样沉吟着。<readstop />
+  <br />　　“比起这个还是快开始吧。”<readstop />
+  <br />　　小凯勉勉强强点了头后，带我来到了摆在EQC一角的桌子。<readstop />
+  <br />
+  <hr />　　“从重村君死亡现场里搬出来的电脑和操控设备都在这里，原封未动。只是切换到了受保护的有线连接。数据包日志也会被记录。”<readstop />
+  <br />　　“防火墙呢？”<readstop />
+  <br />　　为了拽出快要陷进纠结中的小凯，我说道。小凯轻轻点了点头。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“坦白讲，我觉得重村君可能不是受药物的直接影响而死的。大概是药物被植入了木马，当收到某些数据包时，就会……”<readstop />
+  <br />　　“没时间分析这药了。只能开始了啊。”<readstop />
+  <br />　　“明白了。虽然没法接管重村君的帐号。取而代之的是，我从被扣押的笔记本电脑的数据包日志中恢复了大部分机体信息和战斗记录。虽然换了其他帐号，但从机体上来说，应该看不出差别。登录后就请以GGF作为战斗代号开始游戏吧。”<readstop />
+  <br />
+  <hr />　　我向小凯竖起了大拇指。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQC" y="0" />
+  <layer_show id="SEI_056" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="DF・タイトル画面" y="0" />
+  <restore_tags id="20">
+    <layer_show id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　“那么，就让我们开始吧。”<readstop />
+  <br />
+  
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <bgm_play fade="5000.0" id="BGM_040" xDescription="GGF I" />　　游戏界面自头戴式显示器里跳出来。数个警告如过场般闪烁后，操作界面显示出来。头戴式显示器的显示视野，控制装置的模拟参数，一切都调整完毕。从游戏的标题菜单开始游戏。登录世界后，玩家视野从机体存储舱逐渐铺展。空气干燥，尘土飞扬。或许吸进一口便会令人咳喘难抑。<readstop />
+  <br />　　＜感觉怎么样，渡边君？＞<readstop />
+  <br />　　小凯的声音宛若天启般降临。<readstop />
+  <br />　　“视野模糊。像在潜水一样。”<readstop />
+  <br />　　＜大概是纳米机器还没适应吧。它对学习结果的缓存可能还需要点时间。再给它一些时间吧。＞<readstop />
+  <br />　　“要用哪台机体呀？”<readstop />
+  <br />　　＜肩上有魔法阵纹章的那个！那就是重村君用的机体。＞<readstop />
+  <br />
+  <hr />　　“真是FANCY到不行啊！头好沉。这纳米机器要多久才能学完啊。”<readstop />
+  <br />　　小凯稍作沉默，又冷不丁低声冒出一句，＜请尽快出击＞。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="DF・タイトル画面" y="0" />
+  <layer_show id="SEI_129" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="DF・曠野１" y="0" />　　钻进机舱后，一股汗水和铁粉所夹杂的气味钻入我的鼻腔。我的行动也随着机舱变得笨重。<readstop />
+  <br />　　＜总之，先做些初始的巡逻任务来熟悉操作吧。＞<readstop />
+  <br />　　“好，好。”<readstop />
+  <br />　　开始游戏后，画面从机舱切换到监视屏。从耳机中隐约传来引擎隆隆作响般的低沉声音。头戴式显示器中呈现出对系统运行状态的检测结果。检测结果的末尾写着【XNCACCEPTED.HAVEFUN!】。<readstop />
+  <br />
+  <hr />　　＜顺利载入中。请在场域中慢慢巡视。若数据包中出现sayhere的踪迹，请用坐标指示。请渡边君在充分利用电子辅助功能的同时，尝试进行脑电波操控。＞<readstop />
+  <br />　　“OK。”<readstop />
+  <br />　　在头戴式显示器的右上角，一块沿水平轴闪烁的剪影显示着我的姿势。我尝试前进、后退、蹲伏。虽有点延迟，但应该能顺利地行动。我依次操纵不同的手指进行着抓握动作，机体也有样学样地行动着。各个关节活动时所发出的马达轰鸣声穿透了隔音耳机钻入耳朵，更加凸显出机械的操作感。<readstop />
+  <br />　　“一切正常。开始行动。”<readstop />
+  <br />　　＜小心点哦。毕竟谁也不知道在游戏中死掉会不会也在现实中死掉。＞<readstop />
+  <br />　　哇哈哈，我不动声色地笑了。<readstop />
+  <br />
+  <hr />　　大地干涸枯黄，仅有泛泛草木入眼。这里似乎离前线还有些许距离。<readstop />荒野之中，徘徊着不知谁人操控的僵硬机体，嬉笑打闹的欢声借着电波扩散而来。<readstop />我穿过那里直直朝前线突入。只听见远方袭来隆隆炮响，爆闪与浓烟……那是属于无限远方的微观战斗。<readstop />无法称之为虚伪，无法称之为真实，只能被叫做人造之物。<readstop />
+  <br />　　「从这边先行侦查的MATV05，向GGF发送当前位置。」<readstop />
+  <br />　　头戴式显示器闪烁起收信图标。<readstop />
+  <br />　　＜啊，这是要求你传信的通知呢。请别在意，继续前进。可以用控制面板来手动传信，但不妨试试用XNC吧。＞<readstop />
+  <br />　　小凯用昏昏欲睡的声音说着。<readstop />
+  <br />　　“把这个坐标发过去就行了吗？”<readstop />
+  <br />
+  <hr />　　＜用仪表上显示的坐标就行……怎么样？有没有视觉之外的其他信息涌进来的感觉？＞<readstop />
+  <br />　　“嗯？什么意思？”<readstop />
+  <br />　　＜XNC既是控制单元，也会向使用者输出反馈。这就是你可以在头戴式显示器里直观看到视觉信息的原因。＞<readstop />
+  <br />　　“不……我现在还没那种感觉啊。”<readstop />
+  <br />　　＜手脚的感觉怎么样？＞<readstop />
+  <br />　　“诶？<readstop />啊啊……还真是。”<readstop />
+  <br />　　将现状语言归纳为已不可能，不断变化的重力和惯性力落在身上却是实感。<readstop />那些残影宣誓着自己作为异物的存在，散发出令人作呕的逼真感。这感觉一划上脑叶，胃容物就阵阵地翻涌上冲。<readstop />被与现实强制分离的我只剩恐惧。<readstop />
+  <br />　　＜请冷静哦。<readstop />现实的渡边君就在我这。<readstop />一切都没事的。<readstop />就算在另一个现实，也有小凯我为你做后援。＞<readstop />
+  <br />
+  <hr />　　就算小凯这么说，我也安心不下来。<readstop />
+  <br />　　＜什么感觉？＞<readstop />
+  <br />　　“我说不清啊……这东西难以说明的感觉真是相当糟糕。就像是被光耀烧灼得睁不开眼一般。”<readstop />
+  <br />　　＜呼——<readstop />，好奇怪呢。＞<readstop />
+  <br />　　就别说这种煽动不安的话了吧。<readstop />
+  <br />　　＜要不，你姑且先停下机体。我去排查一下，你稍等。唔——，<readstop />呼呼。<readstop />嗯嗯。＞<readstop />
+  <br />　　我难以忍受这无形的窒息，脱下了头盔。失掉了头盔的隔音效果，机舱被巨大的机械噪声填满，大概连自己的说话声都会被淹没于此。这密闭空气挤压着的狭小空间啊。<readstop />
+  <br />　　＜好点了吗，渡边君？恐怕你是对XNC反应过激了。你还能感知到这边的身体吗？＞<readstop />
+  <br />　　“啊，没感觉了。不过我也不觉得自己存在于这边的世界。”<readstop />
+  <br />
+  <hr />　　＜唔——，我轻轻碰下你的身体哦，感觉到什么就说出来。＞<readstop />
+  <br />　　小凯像小猫般地低声呜咽，同时摩挲摩挲的响声传来。<readstop />
+  <br />　　＜感觉到什么了吗？＞<readstop />
+  <br />　　“没。”<readstop />
+  <br />　　＜哦吼……＞<readstop />
+  <br />　　哦吼——是啥意思啊。<readstop />
+  <br />　　“啊？！<readstop />疼疼疼疼。<readstop />啊、啊，<readstop />你在干什么？！”<readstop />
+  <br />　　＜只是轻轻掐了下你哟。唔嗯，一定是XNC对刺激过度反应了。为了让游戏盖过现实，它过分强化了对游戏内感知的反应，所以渡边君才会觉得自己存在于游戏世界中呢。<readstop />那种恶心感啊……大概就是……错觉吧。＞<readstop />
+  <br />　　“错觉是啥啊——。”<readstop />
+  <br />
+  <hr />　　＜大概就是字面意思。记忆和认知割裂所致的不适。大脑仍存在于物质世界，但其运转所服务的对象早就不在那了。＞<readstop />
+  <br />　　“究竟是什么意思啊？”<readstop />
+  <br />　　＜你应该清楚的吧。渡边君。就是哪边看起来都像真的这码事呀。＞<readstop />
+  <br />　　“怎么可能懂啊。我是从现实来到这的吧。这边铁定是假的啊。”<readstop />
+  <br />　　＜渡边君你自相矛盾了哟？如果你真这么觉着的话，为什么还这样手忙脚乱？＞<readstop />
+  <br />　　我吐出一小口气。口中已然干涸欲裂。这时又突然有一阵针刺般的剧痛直抵颅内。我的大脑像布丁一样颤动，摇摇晃晃。<readstop />
+  <br />　　“我不清楚。但不像是在恐惧着什么东西。”<readstop />
+  <br />　　＜这样的话，就只剩尽情享受了呢！＞<readstop />
+  <br />
+  <hr />　　听着这样琐碎的闲谈，我感觉自己的本心已经溜去九霄云外。小凯无忧无虑的欢声就此与我隔出厚厚的藩篱。那为妥协生出的陈词滥调呀，廉价而虚无飘渺，又无根无据……<readstop />话虽如此，<readstop />像这样纷繁又空洞的词语，反而是自令人厌烦的层面向现实猛烈地回归。<readstop />
+  <br />　　“是呢，就是这个意思呢。”<readstop />
+  <br />　　我的背后如被数根巨大的固定针所穿刺一样痛。针贯穿了我的身体。血噗呲噗呲地从我空寂身体的孔穴中喷出，我用手掌去擦拭这些血。手掌腥臭黏腻结成凝脂，惹人心烦意乱。我又把手掌往身上蹭了蹭。<readstop />
+  <br />　　“OK了。重新开始吧。”<readstop />
+  <br />　　＜嗯。那我们继续任务——＞<readstop />
+  <br />　　“位置发给你哦。”<readstop />
+  <br />
+  <hr />　　真是不可思议。如果真有所谓的生物GPS的话，就是这种感觉吧。<readstop />人们总是对对熟悉的事物视而不见。红色的东西就该是红色、耀眼的东西一定耀眼、悲伤的声音投射悲伤的情感、激烈的声音代表激荡的心绪。<readstop />我位于名为现在的一点之中，只为存在本身而存在。有关这一刻所感知和内化的事物，并不需要解释说明。<readstop />
+  <br />　　≪收到了，GGF。方向020，丘陵地带出现unknown敌人。请侦察敌情。若有敌对干扰，消除它们。≫<readstop />
+  <br />　　“这里是GGF。<readstop />收到。”<readstop />
+  <br />　　我取出第三只眼，用来监视后方，第三只手臂将枪握在手里。<readstop />
+  <br />
+  <hr />　　这就是个游戏，我可不会那么轻易就被打败的。这就是所谓的平衡性。我启用红外线传感器。接着纵身一跃，那小巧的翅膀带着我于天际滑翔。从上空放眼周围，在前方丘陵地区的灌木丛中发现了一个未充分伪装的热源。刚已解析好的情报显示， 那里有车辆及成员。一辆装甲车、三支小队。配备了迫击炮与LAM。<readstop />
+  <br />　　“这里是GGF，于位置7754·65314确认了敌方侦查部队。”<readstop />
+  <br />　　≪位置已确认。GGF，允许交战。全歼敌人，重复，全歼敌人。≫<readstop />
+  <br />
+  
+  <bgm_play fade="10000.0" id="BGM_041" xDescription="GGF II" />　　头戴式显示器将预想的敌方武装射程以图层的形式绘制在地平线上。各图层依照危险程度进行着色。最顶部的图层以红色区域表示了反坦克导弹的射程。我把那些杂七杂八的信息图层一个个关闭。<readstop />
+  <br />
+  <hr />　　我从背包中取出地对地导弹，填装、发射。精准瞄准，从发射到弹着不到5秒。<readstop />22毫米机关炮，反坦克导弹。<readstop />我方开火的同时，敌方也迸发出一系列反击的闪光。我驾驶着机体极速前进，用46毫米机炮扫射着伏击的步兵。向左避开装甲车射来的阵阵流弹。<readstop />弹着点，黑烟和红色火柱交织在一起，装甲车熔为一块废铁。<readstop />对快速接近的飞行物体的警告频繁闪烁着在头戴式显示器上。如系统之前所显示的，我现在已处于那反坦克导弹射程之外了。<readstop />可导弹仍朝我方飞速靠近，我继续全速向左回避。警告仍然不停。<readstop />我无奈地苦笑，心里犯起嘀咕，这不是初级任务吗，只好于战场中无精打采地继续疾驰。<readstop />系统自动弹出热诱弹。但无济于事，导弹仍穷追不舍。这时，我方向步兵射击的46毫米炮弹已经击中目标，树木震颤，尘土直升云霄。导弹已然映入眼帘。它像一记重拳一样来势汹汹，直直朝我的侧腹突去。<readstop />
+  <br />
+  <hr />　　眼下已经无暇顾及姿势，我为了躲避那发导弹而降低高度、铲进地面，巨大的铁块于空中翻飞舞动。就在那时，那导弹仿佛失去了惯性，急速翻滚上升，随后超越了物理规则，如体操选手般肆意纷飞，随后如陨石般砸入地面。<readstop />
+  <br />　　我的身体与这片荒芜的大地摩擦，着陆后被擦开的侧腹传来撕裂般的痛楚。强烈的震颤松动了身体的每个关节，与此同时，我眼前的景象正重叠、模糊、散开，视线被沙尘掩埋。<readstop />
+  <br />　　各种警报声接连响起，系统自动切换到红外线模式。与此同时，头戴式显示器的屏幕里闪起对敌方武装的最新预测。这其中包含有线制导导弹。用于警示反坦克导弹的红色标志消失了，取而代之的是一大片盖满四周的黄色区域。看到这一幕，我又关掉了一个多余的系统。这就像个只能泛泛地警示危险，却连一点决断做不到的无能指挥官。<readstop />
+  <br />　　上世纪的战史研究家曾说。<readstop />
+  <br />
+  <hr />　　「体制让愚钝的士兵可堪一用，令非凡的士兵泯然众人。」<readstop />
+  <br />　　我原以为这只是对体制的费解下生出的偏见，但现在我不这么认为了。这不仅是令人费解，还很无聊，或许他想说的无非就是这些。<readstop />
+  <br />　　我吃力地让躺倒的巨大机体重新站起来，确认起周围是否有残存的敌人。<readstop />
+  <br />　　《确认消灭敌人。向基地返航。》<readstop />
+  <br />　　我还是觉得哪里不对劲。但是游戏画面中立起了标志性的旗杆，就应该意味着我消灭了全部的敌人吧。<readstop />
+  <br />　　“GGF，收到。向基地返航。”<readstop />
+  <br />　　这话有没有讲出来，我不知道。脑子是这样命令了我去说，但我没法确信声带是否真的因此震动。声带震动只是微小的物理现象，最终还是要依靠听觉和知觉来告诉自己＜啊啊，我确实发出声音了啊。＞，才得以确认这一事实。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="10000.0" />　　我卷起沙尘在旷野中驰骋，向基地返航。走出机舱的同时游戏结束。渐远的引擎声随同黯淡的视野，我上下左右的方向感也就此消失，仿佛被丢进了无重力空间。数着1、2、3的节拍，灌了铅般的身体死死砸向地面，世界才重新恢复在我的眼前。那就是小凯所处的世界啊。小凯像是瞳孔检查一样举着食指在我眼前挥舞。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="DF・曠野１" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show id="SEI_055" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="EQCパイロットシート" y="0" />
+  <restore_tags id="21">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　“渡边君，能听见吗？”<readstop />
+  <br />
+  
+  <bgm_play fade="500.0" id="BGM_026" xDescription="仰げば昏し" />　　我张开嘴，却没有话。猛地吸了一大口气，又缓缓吐息出来。接着慢吞吞地开始发声。<readstop />
+  <br />　　“我回来了哟，小凯。”<readstop />
+  <br />　　听惯了对讲机里的声音，自己真实的声音也变得尤为陌生。我把手放在喉咙上，发着无意义的呻吟，自手心感受着声带的振动，意识才缓缓回归我的身体。我的手心湿漉漉的，脉动的血管也向身体泵送着大量的血液。我调整呼吸，笑道。<readstop />
+  <br />　　“刚才乐死我了呀，嘿嘿嘿。”<readstop />
+  <br />　　“人家也很开心。”<readstop />
+  <br />　　小凯虽说得轻快，但脸上并无笑意。<readstop />
+  <br />　　“发送到目标地点的数据包多到你都不能想象。”<readstop />
+  <br />
+  <hr />　　我做出一副不懂的样子，小凯回望着我的眼睛。<readstop />
+  <br />　　“这药向服务器发出的信息量应该会超出必要。不解析出它是哪类数据就无法搞清状况，但它说不定是那种通常所认为的非二值化数据包，也就是说，是很个性的数据。”<readstop />
+  <br />　　“那这真有点奇怪呢，<readstop />哈哈哈。”<readstop />
+  <br />　　我笑了。小凯回以批判的目光。<readstop />
+  <br />　　“请再让我仔细查查。对那些感觉不可能发生的事一笑了之，会酿成大祸也说不定哇！”<readstop />
+  <br />　　“等、等等！<readstop />听我说啊！<readstop />小凯你一脸严肃地说这种话，我可是会很担心的啊。<readstop />什，<readstop />什么情况？！”<readstop />
+  <br />　　“人类的心灵、情感、思维等等，之所以被称为有暧昧边界的个人之物，或许是因为存在一个无损、可交换、可被唯一确认的维度。”<readstop />
+  <br />　　我吞了口唾沫。<readstop />
+  <br />
+  <hr />　　“我斗胆问一句，小凯你说的都是什么意思啊。”<readstop />
+  <br />　　小凯稍微扭了扭脖子，像是突然想到什么似地说道。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e14" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ひらめき" y="820" />　　“私以为，它与其说是具有固有物理学性质的一个整体，不如说是特有生理学反应孕育出的动象！”<readstop />
+  <br />　　我沉默着，嘴却根本合不上。这是什么啊？？<readstop />
+  <br />　　“你不觉得非主体性就是一种黑箱吗？”<readstop />
+  <br />　　我还是沉默着，说不出一句话。总感觉似懂非懂的。<readstop />
+  <br />　　“你想说什么？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ひらめき" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　“啊……那个，<readstop />唔……<readstop />我们稍微出去转转吧。”<readstop />
+  <br />
+  <layer_hide layer="2" pos="" time="250.0" trans="1" xDescription="-" />　　我们走到了电磁静肃室的外面。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show id="SEI_059" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC入口" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“我曾认为，我们能以如理论计算机科学预测般的科学来知晓这个世界的未来。至少一定程度上要预测出来.……也就是说，通过严密的计算去推导出预言……它确实按计划进行了。”<readstop />
+  <br />
+  <hr />　　啊啊，我大概明白了一点。必然的世界和恣意的世界。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　“抱歉，渡边君。我应该是太累了。今天就到此为止吧。”<readstop />
+  <br />　　我仅用点头作答。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　“渡边君，你还想继续玩下去吗？”<readstop />
+  <br />　　“我会一直玩到与sayhere会面哟。而且这游戏太上头了呀，哈哈！”<readstop />
+  <br />　　“我知道了。不过，记得让我记录下数据包日志哦。”<readstop />
+  <br />
+  
+  <bgm_stop fade="1000.0" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　　我点头向她确认着这回事，但她只是轻笑了一下，像在深思什么一样。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="DF_01" taskid="SCENARIO_MVP" viewType="adv" />
+</scenario>

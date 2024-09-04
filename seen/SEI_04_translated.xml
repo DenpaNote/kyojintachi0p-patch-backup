@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  
+  <bgm_play id="BGM_030" volume="100.0" xDescription="現実 I" />
+  <layer_show id="SEI_055" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />　　“渡边君？没问题吧？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　神情满是担心的小凯紧紧盯着我。<readstop />
+  <br />　　“每次醒来，总是有人在我旁边……简直像被监视一样。”<readstop />
+  <br />　　“你在说什么呀？比起这个，你还好吗？”<readstop />
+  <br />　　我全身颤抖，感觉像是浸在冰水里一样冷。<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“这可不妙呐……太冷了。”<readstop />
+  <br />　　“渡边君，你头好烫啊。”<readstop />
+  <br />　　小凯把手放在我的额头上，那手像冰一样凉，我不禁打了个寒战。<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“啊……好像好多了。难道说，是药的效果吗。也许也要限制一下游戏时间。话说，你感觉怎么样？”<readstop />
+  <br />
+  <hr />　　“我好像见到塞西亚了……啊啊，我没法说明白，不确定我是否真的见到了她。我在寻找塞西亚的任务中，独自去搜寻。在一个洞穴里遇到了塞西亚……我们被敌人包围，常理上本来是没有胜算的，但塞西亚用她那不可思议的战斗能力击败了所有敌人。回基地的路上，我还和塞西亚聊了很多，但回到基地后，机舱里却没有人影了。”<readstop />
+  <br />　　“嗯，这毕竟是游戏，可能有bug，或者那个任务是非官方的mod，所以会有这种情况吧。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　“但是……不应该是这样……”<readstop />
+  <br />　　小凯惊讶地看着我。<readstop />
+  <br />　　“奇怪吗？明明根本不知道塞西亚是怎么出现的，还说得这么坚定，这可不像你以往会说的话呀？”<readstop />
+  <br />
+  <hr />　　“诶？是吗……我总觉得自己一直在赌自己的直觉……是吗？或许不是这样。不管怎么说，我觉得塞西亚确实存在。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　小凯噗嗤笑了出来，她也一定很累了吧，笑得很疲惫，眼角垂下来，像是随时会就这样睡着一样。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　　“那我们回看下日志吧。我沉浸在网络中太久了，也有点想放松一下。渡边君，在这个EQC里呆一整天对身体不好。出去晒晒阳光吧！虽然在游戏里不觉得饿，但现实中的渡边君肯定饿了。”<readstop />
+  <br />
+  <hr />　　她指着我的肚子，被指着的地方仿佛也发起痒来，回应似的发出咕噜声，之后被EQC吸收了。小凯笑望着我，像是在指责我对食物的贪婪……这完全是小凯扭曲的以己度人。我没觉得有多羞耻，虽然这么想着，但我还是没敢看小凯的脸，低着头灰溜溜走出了EQC。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="舎密部電網研受付" y="0" />
+  <restore_tags id="2">
+    <bgm_play id="BGM_030" xDescription="現実 I" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　　回到电网研小凯的桌旁，小凯坐在她的椅子上。我也在屋子里抓了把身旁的椅子挪到小凯的旁边坐下。脚下散落着甜面包的包装袋。<readstop />
+  <br />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />　　“《死域》精确地再现了现实地形，并将其作为游戏中的战场。首先我们来根据渡边君的日志找到现实世界相对应的位置！真棒！嗯，应该是在这次区域移动之后。”<readstop />
+  <br />　　小凯在显示屏上用地图显示了游戏中的坐标。游戏中显示的是虚拟地图，但各个区域都是根据现实地域拼接而成的。<readstop />
+  <br />　　“新吉地区呢，就是现实中的……”<readstop />
+  <br />　　小凯像被电击中一样猛地挺直了背。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“啊，对不起。请稍等一下。”<readstop />
+  <br />　　她摸索着打开抽屉，拿出一个甜面包递给我。<readstop />
+  <br />
+  <hr />　　“你肯定想吃这个！！！”<readstop />
+  <br />　　“什么啊，<readstop />这么突然。<readstop />好吧，我吃就是了。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　她用鬼一样的表情瞪着我，我暂时没理由拒绝接过这甜面包。<readstop />
+  <br />　　“啊，豆沙包啊。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　我说道，小凯又猛地一惊。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“莺、莺饼也有哇。”<readstop />
+  <br />　　“不不，莺饼就更别提了。”<readstop />
+  <br />　　“鸟肉很好吃的哦。而且你必须要摄取动物蛋白质！”<readstop />
+  <br />　　啥？还要我吐槽吗？别这样，我不想把时间浪费在这种事上。<readstop />
+  <br />　　“比起这个，新吉地区是什么？”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　むくれる" y="820" />　　小凯哞哞哞地发出强劲的低鸣声。然后将要说的话全部吞进胃里，酝酿成一股更大的哞声一口气吐了出来。哇——哈，吐出好大一片混沌。她得以继续说话。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　むくれる" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />　　“新吉地区是以南非的法尔河流域为原型制作的战场。那里是南非战争中斑猫参战的地区……根据你的请求，我也调查了斑猫的背景……虽然他是从舍密部跑出来参战的，但他最后所属的部队基地就是法尔河守备队。这一点倒是不怎么重要，只是这时间点很巧，感觉很奇怪……好想调查……心里痒痒的……这种无法抑制的冲动是怎么回事……啊，真想快点调查……”<readstop />
+  <br />　　小凯脸上露出恍惚的表情，脸颊微红。<readstop />
+  <br />　　“呃，我听不懂你在说什么，能解释一下吗？”<readstop />
+  <br />　　“哎呀，渡边君唔可以儿。（关西腔）”<readstop />
+  <br />　　唔可以？什么意思？<readstop />
+  <br />
+  <hr />　　“你这样子太装了，我受不了呀。呜呼呼。”<readstop />
+  <br />　　所以说，呜呼呼是什么啊？<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“算了，斑猫先生被舍密部挖走后离开了陆上自卫队，之后在搜查课积累了三年的实绩。在作战中，因课长失误身亡，斑猫先生成为下一任课长的候选人。但斑猫先生不懂这种抢权椅的游戏规则，没能顺利参与这个游戏。即便到最后明白了规则，却也没法接受了。于是他放弃了所有职务，志愿去参加了南非战争。是南非国民军和非洲民族解放军的内战。毕竟是时事啊，即使我不擅长世界史，嘛，<readstop />也能大概明白战争的原因。总之，南非国民军有美国作后盾，有着比非洲民族解放军更现代化的装备。虽说非洲民族解放军的士兵训练有素、纪律严明，步兵力量固然是强大的。斑猫先生也以雇佣兵身份加入了非洲民族解放军，在残酷的战场上经受洗礼。<readstop />
+  <br />
+  <hr />　　虽然最初非洲民族解放军处于劣势，但随着非洲联盟激进派的暗中支持，装备差距也得以缩小。就这样，斑猫先生在各地的激战中初次遇到了埴谷先生。”<readstop />
+  <br />　　这个名字的意外出现让我忍不住插嘴。<readstop />
+  <br />　　“埴谷？是警保局的那个？”<readstop />
+  <br />
+  <hr />　　“是的。埴谷先生在斑猫先生参战前两年就在当地活动。虽然舍密部像个民间军事公司，但专门派管理部的人去南非战争现场有些奇怪。之后，斑猫作为狙击手，埴谷作为观测手一起行动，他们打的最后一战，被分配到了法尔河守备队。尽管受到国民军的猛烈攻击，他们还是一直顽强抵抗。法尔河乍一看不太重要，但实际上却有铀矿山，南非国民军甚至美军都对此十分关注。铀矿通常环境恶劣，安全被忽视的矿工却因高薪而默不作声。受到辐射影响的不仅限于矿工，也包括当地居民，谁都不在意这前因后果，就算注意到了也会被这高薪而障目。<readstop />
+  <br />
+  <hr />　　我还不知道斑猫先生是否知道法尔河这些情况，也没有做调查，但这些事虽然不会传出去，如果对当地人来说是公开的秘密，那斑猫先生就应该知道。在法尔河的战斗中，斑猫先生他们表现出色，但突然斑猫先生辞去了雇佣兵身份回国了。之后不久，法尔河守备队战败，国民军夺取了法尔河。”<readstop />
+  <br />　　“那埴谷怎么样了？”<readstop />
+  <br />　　“斑猫回国后几个月，埴谷也回国了。法尔河陷落后，勉强逃出来了吧。”<readstop />
+  <br />　　“这故事很奇怪啊。斑猫先生回国的理由是什么？”<readstop />
+  <br />　　“这个还不清楚，所以我就是因为这个很烦躁很急很急很急。原本以为是简单的调查，但因为NSA对维尔河的信息进行了管控，几乎没有资料。所以基于这种情况，必须要深入调查才行。”<readstop />
+  <br />
+  <hr />　　我明白了原因，于是点了点头。<readstop />
+  <br />　　“啊，关于埴谷先生，有一些内部信息。原本他是开发医用纳米机器的公司——miu生物技术的工程师。舍密部成立后的第二年，他就转了进来。之后很快成立了攻究局，但看来不是作为纯粹的技术人员被雇佣的。在战地活动的情况也体现了这一点。我试图调查内部情况，但埴谷的信息好像也被删除了。虽然经过努力找到了一些文件的痕迹，但斑猫逃离舍密部那天晚上，埴谷的信息还存在，之后却全被删除了。”<readstop />
+  <br />
+  <hr />　　“即使真是斑猫先生杀了局长和埴谷，这也根本说不通吧？要是恨埴谷大叔，把他杀了不就大功告成了吗，也没必要删除他的过去履历吧。再说了，明明已经逃跑了，却还要冒暴露行踪的风险，黑进系统删除它们，到底是为了什么啊？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　小凯露出一丝惊讶的表情。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“我明白你不想相信是斑猫干的，这还只是推测……。而且……”<readstop />
+  <br />　　“而且？”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e17" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />　　“啊啊，<readstop />呃呃，<readstop />而且……<readstop />唔捏捏。”<readstop />
+  <br />　　小凯挤着假笑的脑袋转向一边。我收拢回跳脱的思路，又重新了捋了一捋。<readstop />
+  <br />　　“而且，即使真相并非如此，斑猫先生很不妙这点也不会变。”<readstop />
+  <br />　　“啊哈哈。”<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　　小凯露出怜悯的表情看着我。确实如此。倘若假定斑猫不是这次事件的凶手，无视斑猫将事件运行下去，杀害局长和埴谷的真正凶手一定是个拥有相当强大力量的组织或人。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　　“我之前可是说过呢。放手比较好。说实话，我自己都觉得不要管比较好，但是呢，这事可太有趣了。<readstop />唔呼呼。<readstop />就好像我面前有世界上最大的脑残观光景点，里面有犯人在市中心藏长颈鹿，因为没地方藏长颈鹿，所以造了一个巨大的保险箱，为了藏住那个保险箱，又造了几十个同样的保险箱。什么笨蛋游戏，嗯哼哼，人家只能和这个笨蛋游戏奉陪到底了呢。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e17" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />　　小凯耸耸肩，阴沉地笑了。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　引きつり笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　　“如果真做了那么犯蠢的事，那对方可能连人都不是呐，哇哈哈哈！”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e12" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />　　“当两人或以上的人集合在一起形成群体时，这个群体会像一个独立的主体一样行动，而超脱于构成它的个人。在讨论‘网络锁国法案’的背景下，支持这一论调的思想家曾这样说过，遭到了集中炮轰。但是我觉得所谓个体的人，才更像是幻想，真正存在的只有隶属于各种社区而分割着的暂时个体。然后作为那将反存在的现实超越的超个人的网络人格漫溢了这个世界呢。啊，不好意思，刚才我只是在表达自己在网络信息中最喜欢的论调，仅仅如此，并没有什么深层的含义。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　もじもじ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p02_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD無　べろを出す" y="820" />　　小凯吐了吐舌头，挠了挠头。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD無　べろを出す" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“我再深入调查一下法尔河和埴谷先生的事。渡边君吃完豆沙包后就好好休息。你一直没睡吧？”<readstop />
+  <br />　　“不，我不知道为什么感觉睡了好多觉。”<readstop />
+  <br />　　“那是在游戏里。这里是现实。在游戏里睡觉不算真的睡觉。”<readstop />
+  <br />　　“可是，我确实睡了哟。还喝了酒。”<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　　“果然，那药劲大。让人无法区分现实和游戏。曾经人们认为虚构是可信的，但在现实终于被虚构赶上了呢。唔呼呼。”<readstop />
+  <br />　　原来这里是现实啊，这样啊。我觉得脑袋的正中像被塞了个重物一样沉下了头。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　“但考虑到这情况，还不该睡觉。”<readstop />
+  <br />
+  <hr />　　“人类不睡觉也只能争取到一点点能正常活动的时间，想要效率的话还是该睡觉吧。不睡觉到头来也只是在满足一己私欲。人体有着性能和运行时间成反比的硬件，要让硬件充分发挥性能，不能一直让硬件以最低效率运行。”<readstop />
+  <br />　　我边吃豆沙包，边听着小凯的讲授。<readstop />
+  <br />　　“如果知道硬件性能劣化的曲线和需要处理的任务量，就能最快得出为了最短时间完成任务，应该工作多久休息多久的数据结果。当然，这是理想状态，实际上还要考虑未知变量的数量及其波动范围，结合这些推测来求得最优解，来适应现实世界。”<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="15000.0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　　我慢悠悠嚼着豆沙包，甜美的味道在口中蔓延。真不可思议，但这时我才终于真切地感到这是现实。我之后再几次回味齿间咀嚼的味道，但都已经回想不起来那吞下了豆沙包的实感。听着远处小凯的授课，渐渐沉入梦乡。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="DF_03" taskid="SCENARIO_MVP" viewType="adv" />
+</scenario>

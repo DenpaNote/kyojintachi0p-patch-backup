@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  
+  <bgm_play fade="2000.0" id="BGM_020" volume="100.0" xDescription="ノイズ" />
+  <layer_show id="SEI_007" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />　　我在仿佛坠入地狱般的悬浮感中醒来，全身抽搐。起初几秒钟，我无法理解自己现在的状况。当我意识到自己的所在的场景时，忍不住苦笑了一下。我竟然从椅子上滑落到地上睡着了。地上有一张贴纸，上面放着一张小凯的打印留言。<readstop />
+  <br />　　＜因为眼睛一直转来转去的，我要去吃饭了！斑猫在现实中于法尔河与塞西亚本人相见。塞西亚是《死域》的顶级玩家，游戏中确实名叫sayhere。塞西亚在《死域》的详细游戏记录还在，我已经加载好了，随时都可以预览。等我吃饱了回来后，我们在EQC里确认塞西亚到底做了什么吧。＞<readstop />
+  <br />　　我捡起在地上翻滚着的吃了一半的豆沙包，吹掉灰尘，又咬了一口。一边咀嚼，一边想着刚才的奇怪梦境，努力驱散困意。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="2000.0" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部電網研受付" y="0" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC" y="0" />　　我摇摇晃晃地走向EQC，在椅子上坐下等待小凯的到来。戴上头戴式显示器时，正如小凯所说，预览状态已经准备好，随时可以播放。于是我按下了开始。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="DF_04" taskid="SCENARIO_MVP" viewType="adv" />
+</scenario>

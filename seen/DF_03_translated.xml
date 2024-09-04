@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  
+  <bgm_play fade="15000.0" id="BGM_049" xDescription="GGF IV" />
+  <layer_show id="SEI_081" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="曠野" y="0" />
+  <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />　　我栖身于燃料耗尽的机体所搭建的微小阴影中。<readstop />
+  <br />
+  <hr />　　这里放眼望去是一片被群山环绕的荒漠。<readstop />
+  <br />
+  <hr />　　虽然几乎太阳一直在头的正上方，但当太阳偏向南边时，便可以在北方看到一座倾斜的塔。<readstop />
+  <br />
+  <hr />　　真是难堪的死法。<readstop />
+  <br />
+  <hr />　　在这种地方被晒死什么的。<readstop />
+  <br />
+  <hr />　　远处扬起了尘土。<readstop />
+  <br />
+  <hr />　　是隆美尔的机甲军团吗？<readstop />
+  <br />
+  <hr />　　还是援军吗？<readstop />
+  <br />
+  <hr />　　我既无法逃跑也无法躲藏。<readstop />
+  <br />
+  <hr />　　如果是敌人，也许可以试着投降吧。<readstop />
+  <br />
+  <hr />　　虽然获救的希望很渺茫，但偶尔也有讨厌战争的军人，不杀投降的士兵，而是作为俘虏。<readstop />
+  <br />
+  <hr />　　我将手炮攥在手里，解除了保险。<readstop />
+  <br />
+  <hr />　　向装甲车射出一颗弹丸的画面被我深深锁在脑海。<readstop />
+  <br />
+  <hr />　　会发出怎样的声音呢？<readstop />
+  <br />
+  <hr />　　坦克的爆炸反应装甲被击中时会发出怎样的声音呢？<readstop />
+  <br />
+  <hr />　　没有人会去确认这种无聊的事情，我也对此毫无兴趣。<readstop />
+  <br />
+  <hr />　　啊啊，说来，重型机甲也有爆反装甲吧。<readstop />
+  <br />
+  <hr />　　我后退到能瞄准机舱的最佳位置，将枪口对准机舱。<readstop />
+  <br />
+  <hr />　　前所未见的阳光倾注下来，机体里闪耀着白光，炽热的装甲发出奇妙的咔嚓声。<readstop />
+  <br />
+  <hr />　　我感到一阵地震般的震动。<readstop />
+  <br />
+  <hr />　　那东西好像已经很接近了。<readstop />
+  <br />
+  <hr />　　我扣动扳机射出了子弹。<readstop />
+  <br />
+  <hr />　　那声音听起来很熟悉。<readstop />
+  <br />
+  <hr />　　我必须记住子弹被爆反装甲弹回的声音。<readstop />
+  <br />
+  <hr />　　下一次听到这个声音，就是我的死期。<readstop />
+  <br />
+  <hr />　　背后传来了重型机械的声音。<readstop />
+  <br />
+  <hr />　　来了。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“喂喂——！<readstop />有人叫我吗——？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />　　从扬起的尘土中传来一阵叫喊声。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“这里是FIA的车辆服务——！<readstop />有人叫我们吗？<readstop />重型机械兵回收车来了——！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />　　我放下枪，朝着声音传来的方向大声喊道，尽管尘土遮挡了视线。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“燃料耗尽了，可以拜托回收一下吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“诶——？<readstop />什么——？<readstop />听不见——！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“可以拜托您回收一下吗——？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“啊，回收是吧。现在马上开始。不过怎么会在这种地方！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />　　尘土被风逐渐吹散，视线开始清晰起来。<readstop />
+  <br />
+  <hr />　　尘土中出现了一个人影。<readstop />
+  <br />
+  <hr />　　我怀疑自己在做梦，但不管怎么看都是这样。<readstop />
+  <br />
+  <hr />　　那是一个穿着奥黛（越南长袄）的女人。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“啊，是您的委托吗？我们会回收的，您是会员吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“不，不是什么会员。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“啊，那就会有点贵，请好好支付费用哦。我们现在就要开始拖车了，去哪儿？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“法尔河防卫队那里。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“啊，我们是民间公司，这样的任务不太……如果只是燃料问题的话啊啊呃……附近也有几个可以解决的地方。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“不只是燃料问题，是这个战场有些奇怪。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“啊哈哈，或许吧，但那可不是你的问题。所以请放宽心。你没必要担心哟。所以，现在要搬去哪儿？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“我可是认真在讲的。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“我们可不是来真正打仗的哦！真是的，军人怎么这么傻。快、快，怎么办。<readstop />请快点做决定，ASAP！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <show_message_actor id="GGF" name="GGF" />　　“我还有必须要做的事啊！！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“必须做什么？我们也一样，因为是工作，<readstop />工<readstop />作。<readstop />您能快点吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <set_text_font fontType="gothic" />　　我应该借这辆回收车返回基地。<readstop />
+  <br />
+  <hr />　　我把枪口指向了这穿奥黛的女人。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />　　“如果支付费用的人消失了，手续就会……嘛<readstop />算了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="UNKNOWN" />
+  <layer_hide layer="4" pos="" xDescription="-" />
+  <set_text_font fontType="gothic" />　　当我注意到闪光时已经太迟了。<readstop />
+  <br />
+  <hr />　　回收车的机枪原来一直在瞄准我啊。<readstop />
+  <br />
+  <hr />　　为什么我必须死啊……<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="10000.0" />　　我眼看着自肘部断开的小臂在空中一圈圈旋转，我用另一只手抓住它，然后像飞镖一样扔向对方。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="SEI_05" taskid="SCENARIO_MVP" />
+  <readstop />
+  <br />
+  <hr />
+</scenario>

@@ -1,0 +1,547 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  <layer_show id="SEI_055" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />「だいじょうぶですか？」<readstop />
+  <br />
+  
+  <bgm_play fade="1500.0" id="BGM_030" volume="100.0" xDescription="現実 I" />　ケイちゃんがのぞき込んでいた。オレはＨＭＤを上げると微笑みかけた。脳がいつも以上に重く、まるで天才にでもなったみたいだった。<readstop />
+  <br />「ああ、ケイちゃん……ケイちゃんもだいじょうぶかい？」<readstop />
+  <br />「こっちはぜんぜん大丈夫です。ワタナベくんが深くダイブしていたみたいで、こちらからトレースできなかったんです。シミュレーションが途中からこちらのコントロールを超えて稼働していたので」<readstop />
+  <br />「そうなの……でもなにも問題なかったよ。本当に……。何か問題があった方がよいぐらい」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　ケイちゃんは残念そうな顔をした。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC" y="0" />「そうでしたか。電網研が斑猫さんたちの居場所を突き止めました。道岸ＤＣより衛星への不正アクセスを確認できました。すでに諜報課が道岸ＤＣに制圧に向かっています」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「道岸ＤＣ……以前ネットセクトが使っていたあの？」<readstop />
+  <br />
+  <hr />　ケイちゃんは頷いた。<readstop />
+  <br />「衛星落下の件では宇宙庁に通報してしまったのが、状況を悪くしてしまいました。まさか道岸ＤＣ経由だったとは……」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　ケイちゃんは頭を抱えた。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />「ＮＳＡ経由の情報で日本の当局はまだ事態を把握していませんが時間の問題でしょう。こうなると電網研が宇宙庁に通報したのは完全な勇み足だったとしかいいようがないわけですし。舎密部は内々で事態を収束する駒を失ってしまったわけです」<readstop />
+  <br />　オレは頭の靄を振り払うように頭を振った。<readstop />
+  <br />「斑猫さんは最初からそれが狙いだった？」<readstop />
+  <br />　ケイちゃんは少し身を低くすると申し訳ない顔をして上目遣いになる。<readstop />
+  <br />
+  <hr />「間違いなくそうでしょう。宇宙庁への通報後、まもなく直接的な衛星への通信が繰り返されましたから、まさに気づいて欲しいといわんばかりです。ここに衛星を落とすよりもそうしたほうが舎密部を潰せる可能性が高いと踏んだのでしょう」<readstop />
+  <br />「衛星の代わりにＳＡＴがここを制圧しにくるか。そりゃ、確実だわ。斑猫さんも見かけによらずに策士だね」<readstop />
+  <br />「どうなんでしょうね……吉住さんかも……」<readstop />
+  <br />　ケイちゃんがぽつりといった。オレの頭の中で申請書を受け取る吉住さんが再生された。再生された吉住さんは口の端を上げてオレを見上げている。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQC" y="0" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show id="SEI_059" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC入口" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　突然、オレの携帯電話が鳴った。オレは電話に出る。<readstop />
+  <br />「今、一人か？」<readstop />
+  <br />　オレはケイちゃんに目配せすると返答する。<readstop />
+  <br />「ああ、一人だ」<readstop />
+  <br />　相手は疑っていないようだった。<readstop />
+  <br />
+  <hr />「状況が変わった。ここを出てＣ２出口にいけ。迎えをやった」<readstop />
+  <br />「はあ？　どういうことだ？　まさかＳＡＴが急襲してくるわけでもないだろう？」<readstop />
+  <br />「黙れ！　指示に従え！　早くするんだ！」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　電話が切れた。オレは受話器口をしばらく睨み付けたが、満足すると携帯電話をしまう。<readstop />
+  <br />「というわけだ、オレは行くよ」<readstop />
+  <br />　ケイちゃんが子ウサギようにせわしなく周囲を確認した。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「うん」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　ケイちゃんは頷いた。そしてＨＭＤを確認すると微笑んだ。<readstop />
+  <br />「電網研は、全力で……」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />　ケイちゃんはＨＭＤをすべて下ろした。口元の笑みは張り付いたままで。<readstop />
+  <br />
+  <hr />「電網研は全力で斑猫さんのネットワーク上の全履歴の書換を開始しました。電網研がプロデュースする斑猫さんはまさに稀代のテロリストといったところのようです。舎密部は斑猫さんに利用された気の毒な組織という演出で。舎密部は今回の件斑猫さんを首謀者として、なんとか体裁を保とうと……」<readstop />
+  <br />　オレは笑う気にもならなかった。<readstop />
+  <br />「ケイちゃんはどうする？」<readstop />
+  <br />「どう……って？」<readstop />
+  <br />「電網研による斑猫さんの履歴書き換えがうまくいったとして、官憲がそれをどう評価するかだ。情報は信頼に値せずと判断されれば、舎密部は制圧され全活動を停止することになる。そうなれば事態の収束までまったく身動きはとれない」<readstop />
+  <br />　ケイちゃんは顔を上げた。<readstop />
+  <br />「だいじょうぶです！　そうなったとしてもワタナベくんがいるでしょう。だからあたしはだいじょうぶです！」<readstop />
+  <br />
+  <hr />　オレは頭を掻いた。そうだな……最悪なシナリオを考えればケイちゃんはここに留まるのがいいだろう。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="1500.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="1000.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「これを持って行ってください。小型レシーバーです。舎密部とは独立した民間の回線を使用していますが、こんなこともあろうかと、ちゃんと暗号化を仕込んでありますから。あらゆる回線にチャネリングを試みて成功した経路で通信します。南極の氷の下でもなければ通信可能なはずです」<readstop />
+  <br />　オレはそれを受け取り礼を言った。<readstop />
+  <br />「不要でしたら破棄してください。この状況ですから、誰が味方かも分かりませんし」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　ケイちゃんは申し訳なさそうに言った。<readstop />
+  <br />「オレはケイちゃんのことを信じてるさ」<readstop />
+  <br />「どうしてですか？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「ケイちゃんがオレを助けることに利益があるからさ」<readstop />
+  <br />
+  <hr />　ケイちゃんは少し真剣な表情になった。よく分かっていないようだった。オレは笑いながら言った。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e21" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />「ケイちゃんにはメシをおごる約束があったろ。ケイちゃんはもう一回、メシくえるわけだからさ、オレに死なれちゃ損をする」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　ケイちゃんは最初冷たい目でオレを見たが、すぐに機械人形が足し算と引き算を繰り返すように眼球をくるくるさせる。そして、かちりという音とともににこりと笑みを浮かべ小さく吹き出した。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />「ふふふっ、そうですね、そうですね。では！　次は！　満漢全席でお会いしましょう！　ワタナベくん、ごはんですよ！」<readstop />
+  <br />　ケイちゃんは笑っていたが、伏し目がちでまぶたをばちばちしていた。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="5000.0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　オレは笑みを浮かべた。理由は分からなかったが、ケイちゃんはそれとなくオレの後ろ髪を一束掴んだような気がした。オレはそれが気になってどうやってここから退散するべきか分からなくなりうろたえた。いっそ一緒にアルペン踊りでも踊って本当に陽気に離別できればいいのだが、とてもそんな雰囲気でもなかった。仕方なくただただ無頓着を装ってケイちゃんに背を向け歩き出した。何度か振り返りそうになったが振り返ったあとどうすればいいのかオレには分からなかった。オレは振り払うように駆けだした。<readstop />
+  <input_wait />
+  <task method="call" taskid="EYE_CATCHE_CHAPTER05" />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQC入口" y="0" />
+  <bgm_play fade="1500.0" id="BGM_034" xDescription="ブレーキングブレイクキング" />
+  <layer_show id="SEI_013" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <restore_tags id="2">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　オレは詰所に戻りバッグに弾丸を詰め込んだ。Ｃ２出口には地味なスーツ姿の男が二人いた。男たちは携帯端末を確認するとオレを確認した。男たちと一緒に車に乗り込む。車は高速道路にはいるとＳＡで一旦停車する。オレはトイレで変装させられると待機していた別のＳＵＶに乗車する。女性だったがプロの運び屋のようだった。ドライバーは口を真一文字に結んで前だけを見据えていた。車は裏道だけを進むと海に出た。海に着くと女性はトランクから釣り道具を取り出した。オレは助手席で海を見ていた。女性は無言でオレに釣り竿を差し出す。オレはその釣り竿を手にすると女性と一緒に防波堤に上った。オレは竿を置いたまま防波堤の端に座っていた。水平線の彼方に太陽が徐々に沈もうとしている。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="舎密部捜査一課・詰所" y="0" />
+  <layer_show id="SEI_104" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="海１" y="0" />　女性はオレのことなど気にせずにテトラポッドを軽快に飛び回って釣りのエサを集めているようだった。ひとしきりすると袋一杯にフナムシを捕まえていた。女性はフナムシを針につけて何度となく海に向かって投げた。彼女もオレもただ海の向こうの太陽を見ていた。彼女は、スズキに似た魚を何度もつり上げ何度も海に返した。太陽も完全に沈み空が漆黒に包まれると、彼女は袋のフナムシをすべて海に投げ入れた。彼女は手についたフナムシが腕を這い上がってくる様子を眺め、それを人差し指でぴんとはじいた。フナムシは悲鳴を上げることもできずに海面に落下した。<readstop />
+  <br />「別に答えなくていいんだけど、キミさあ、高校生だよね。誰かに売られたってふうでもないしね。どうしてこんなところにいるの？」<readstop />
+  <br />「どうして……？　どうしてだろう……？」<readstop />
+  <br />　彼女は頷いた。<readstop />
+  <br />「いいんだ。別に気にしないで。さっ、行こうか」<readstop />
+  <br />
+  <hr />　彼女は釣り竿を置いたまま、運転席に乗り込んだ。オレが助手席に乗り込むと彼女は海沿いに車を走らせた。そしてどこか、岬の駐車場に車を止めた。彼女はエンジンを切るとラジオをつけた。陽気なＤＪの声がスピーカーから聞こえてくる。彼女はドアに肘をつくと外を眺める。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="海１" y="0" />
+  <layer_show id="SEI_105" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="海・灯台・駐車場" y="0" />「どこまで？」<readstop />
+  <br />　オレが聞くと彼女は答えた。<readstop />
+  <br />「ここまで」<readstop />
+  <br />「そうなんだ」<readstop />
+  <br />「あたしらは、いわゆるそういうもんだからさ、普通なら口は聞かないんだけどね。余計な気を遣わせたかな。ま、気にしないでくれ」<readstop />
+  <br />　ラジオからは陽気な音楽が流れていた。<readstop />
+  <br />「ふーん、オレって何か普通でないところがあるかな？」<readstop />
+  <br />　彼女は肺に穴が開いたみたいに弱々しく笑った。<readstop />
+  <br />「キミが自分のことを普通だと思っているなら……」<readstop />
+  <br />
+  <hr />　彼女はしっくりこないように首を傾げた。<readstop />
+  <br />「それなら？」<readstop />
+  <br />　彼女は一度オレの顔をみた。そして何か分かったように微かに笑うとまた外をみた。<readstop />
+  <br />「いや、ごめん。あたしがキミぐらいのころ、あたしは普通なんてことを考えもしなかったからさ。あたしも何を言ってるんだろうね。あたしもいつ普通になったんだろうねえ」<readstop />
+  <br />　彼女は黙り込むと陽気なＤＪが時間を進めた。<readstop />
+  <br />　夜の海から微かな光が見える。どうやら漁船ではない。<readstop />
+  <br />「お迎えだ。お迎えとは顔は合わせられないからキミとはここでお別れ」<readstop />
+  <br />　彼女は視線を合わせずに行った。オレは黙って車から降りた。車は走り去る。それと入れ替わりに目の前に偵察ヘリがあらわれた。ヘリは駐車場に駐機した。<readstop />
+  <br />
+  <layer_show easing="31" id="SEI_c12_p02_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="沖田ヘルメットかぶり真顔" y="820" />　搭乗員が下りてくるとローターの音に負けじと大声でオレに言う。<readstop />
+  <br />
+  <hr />「ワタナベか？」<readstop />
+  <br />　オレは頷く。<readstop />
+  <br />「よし、目的地まで送る。乗れ」<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="海・灯台・駐車場" y="0" />
+  <layer_show id="SEI_106" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="ヘリ機内" y="0" />　オレはヘリに搭乗する。ヘリは低空で海上を這うように移動した。<readstop />
+  <br />　ヘリにはパイロットの他に二人の搭乗員がいた。そのうち一人はレーダーを注視していて、もう一人は緩慢な動きでどこかと通信しているようだった。男は何度か頷くとヘルメットをとった。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田ヘルメットかぶり真顔" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常真顔" y="820" />「ワタナベだな。沖田だ、よろしく。今回のワタナベの任務は道岸ＤＣでの破壊工作とのことだが、詳細は？」<readstop />
+  <br />　オレは首を振った。<readstop />
+  <br />「その前に、あんたたちは？」<readstop />
+  <br />「ただの運び屋。チャーターヘリなんて珍しくもないだろう」<readstop />
+  <br />「軍用ヘリのチャーター機なんてよくあることなのかどうかはわからないけどね」<readstop />
+  <br />
+  <hr />「金さえあれば、国でも買える世の中だ、ジェットヘリの１つぐらいなんだってんだ。そんなことより、こっちは仕事でねえ。ワタナベの道岸ＤＣの破壊工作をサポートするのはオレたちの役目だ。オレもおたくには世話になっているんで引き受けたんだがな」<readstop />
+  <br />「あのさ、そんなのは作戦が終わったあとに依頼主に言ってくれ。オレに関係ない。作戦の話をしてもらえるか？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田通常真顔" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常嘲り" y="820" />　沖田は挑発的な表情でにやりと笑った。<readstop />
+  <br />「ターゲットは男女の二人組。斑猫と吉住、おたくらの問題児なんだろ。道岸ＤＣ内に立てこもっているんで、そいつをやればいい」<readstop />
+  <br />「斑猫さんの実力は知ってるんだろ？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田通常嘲り" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常不愉快" y="820" />「斑猫さん？　斑猫さんねえ」<readstop />
+  <br />　沖田は眉間に皺を寄せた。<readstop />
+  <br />「簡単な話さ、死んだほうが負け。オレはそのことをよく知ってる。斑猫はどのぐらいそれを知っているかな。ところで装備は？」<readstop />
+  <br />
+  <hr />　オレはクーガーを取り出した。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田通常不愉快" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常嘲り" y="820" />「ふーん、まあたそんな、骨董品を引っ張り出してさあ」<readstop />
+  <br />「問題ある？」<readstop />
+  <br />「ねえけどよ、どうも見覚えのある銃だなあ。まさか斑猫のやつじゃねえだろうな。だとしたら、あいつも相当やきがまわったな。ははは」<readstop />
+  <br />　オレは不愉快に感じた。何故だろう？　斑猫を理解しようとしてそれを妨げられたような気がした。<readstop />
+  <br />「斑猫さんとはどこで？」<readstop />
+  <br />「はあ？　そんなの戦争にきまってんだろ」<readstop />
+  <br />「どこの？」<readstop />
+  <br />「だから、場所がなんか関係あんのかよ。戦争なんてどこでやっても同じだ。戦い方は少しは変わるが、人を殺すことには変わりない」<readstop />
+  <br />　オレは分かるような分からないような……少しだけ肩をすくめた。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田通常嘲り" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常真顔" y="820" />「オレはどうしたらいい？」<readstop />
+  <br />
+  <hr />「おたくらの部隊より先に斑猫をやる。おたくらにもダマでやるからな、見つかるとアウトだ。最短ルートは確保してある。オレたちが斑猫たちをやり、おたくらの部隊が死んだ斑猫を見つける、これがオレたちの目標」<readstop />
+  <br />「この脚本は誰が？」<readstop />
+  <br />「どういう意味だ？」<readstop />
+  <br />「誰がそうなるべきだと決めたのかなと思って」<readstop />
+  <br />「それはおたくらだろ？」<readstop />
+  <br />「そうか……簡単に言ってくれるね」<readstop />
+  <br />
+  
+  <bgm_play fade="15000.0" id="BGM_022" xDescription="謎 I" />「あと、３０分ほどで目標地点に到着する。目標上空到達後、ヘリボーン降下。フラッシュライトと暗視装置だけは持っていけ。あと余計な発砲はするな、付いてきさえすればいい。通信装置は？」<readstop />
+  <br />　オレはケイちゃんから受け取った受信機を見せた。<readstop />
+  <br />「周波数合わせ、スクランブルコードを設定しろ」<readstop />
+  <br />
+  <hr />　オレは設定すると通信テストをした。沖田の声とは別に聞き慣れた音声が小声で入ってくる。<readstop />
+  <br />＜こ、こちらケイです。き、聞こえますか？　これはワタナベくんだけに聞こえてるです。聞こえていたら２回鳴らしてください＞<readstop />
+  <br />　オレはこつこつとマイクを２回ならなした。<readstop />
+  <br />＜オーケーです。そのまま聞いてください。こちらの状況ですが、全職員に現場待機が命令されました。制圧には抵抗するつもりはないようです。ただ、これは表向きであって電網研、攻究局に関してはネットワーク上の活動が通常の３倍から４倍に増加しています。隠蔽工作は進行していると思われます。あたしもできるだけの情報収集活動を続けます。ワタナベくんも気をつけてください。何か分かったらまた連絡します。以上です＞<readstop />
+  <br />　ケイちゃんの音声は小声だがクリアだった。この海上で通信可能な通信網は限られるだろう。その上、秘匿性も確保するというのは容易ではないはずだ。<readstop />
+  <br />　ヘリは闇の中を進む。沖田がグローブを投げてよこした。<readstop />
+  <br />
+  <hr />「おい、降下準備だ」<readstop />
+  <br />　オレはマガジンポーチにマガジンを突っ込む。そして薄型の暗視装置を頭に装着した。<readstop />
+  <br />「任務上、隠密行動が不可欠だ。まずはＤＣの自家発電システムを制圧する。その後、サーバールームに突入する。そこにやつらがいる」<readstop />
+  <br />「諜報課の制圧部隊が先行しているってきいたけど、鉢合わせたら？」<readstop />
+  <br />「まだ到着していない。どうせ大所帯だ。鉢合わせするなら、オレたちがもたもたしている間に後ろからだ」<readstop />
+  <br />　沖田はセンサー内蔵のボディーアーマーを身につけ、サイトのついたマシンガンと高性能の暗視装置のついたヘルメットを装備している。<readstop />
+  <br />　ヘリが速度を落とした。いつの間にか眼下は海上から陸地に変わっている。<readstop />
+  <br />「あと３分だ、準備はいいか」<readstop />
+  <br />　沖田が三本指を立てて言った。オレは黙って頷いた。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヘリ機内" y="0" />
+  <layer_show id="SEI_115" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ヘリボーン降下ロープ" y="0" />
+  <restore_tags id="3">
+    <bgm_play id="BGM_022" xDescription="謎 I" />
+    <layer_show id="SEI_c12_p01_e1" layer="2" pos="8" rate="1.0" x="1100" xDescription="沖田通常真顔" y="820" />
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　ヘリが止まるとホバリングする。別の搭乗員が赤外線探査装置から敵の有無を即座に判断すると降下を指示する。降下用のロープが下ろされると沖田が飛び出した。オレもそれに続いた。下はＤＣの敷地内だ。沖田が上空のヘリにハンドシグナルを送るとヘリは離脱する。<readstop />
+  <br />「燃料搬入口より侵入する。ついてこいワタナベ」<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="ヘリボーン降下ロープ" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />　ツーマンセルで沖田とオレが進む。沖田がオレにハンドシグナルを送る。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_107" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="道岸DC・燃料搬入口" y="0" />　燃料搬入口には誰もいない。ロックキーを解除すると入口の左右に分かれて沖田のハンドシグナルに合わせて内部に侵入する。<readstop />
+  <br />
+  
+  <bgm_stop fade="8000.0" />＜クリア。まず地下の電気室を制圧する＞<readstop />
+  <br />　地下からはちょうど戦車が全速で走行しているような轟音が鳴り響き、小刻みな振動が伝わってくる。現在は強力なディーゼル発電機が孤立したこのＤＣの電力をまかなっている。ここから先は高セキュリティ区画になっているようだ。<readstop />
+  <br />＜爆破だ。準備＞<readstop />
+  <br />
+  <hr />　オレは背嚢からプラスチック爆弾を取り出すと沖田が信管を取り付け設置した。<readstop />
+  <br />＜爆破を感知すると防火壁が稼働する。閉じる前に一気に突き抜ける＞<readstop />
+  <br />　オレはアイコンタクトで応じた。沖田は爆煙に備え、有視界からデジタル視界に切り替える。<readstop />
+  <br />＜ぴったりくっついてこないと迷子だ。ちゃんとついてこいよ＞<readstop />
+  <br />　指で５からカウントダウンする。オレは耳を塞いで発破を待った。爆音と重い風圧が全身を震わせる。破片が飛び散る。館内に警報が鳴った。<readstop />
+  <br />
+  
+  <bgm_play fade="300.0" id="BGM_037" xDescription="突入 II" />＜ゴー！＞<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="道岸DC・燃料搬入口" y="0" />
+  <layer_show id="SEI_108" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="道岸DC・通路" y="0" />　沖田が姿勢を低くして勢いよく爆煙の中に飛び込むとオレは沖田の背中を追って進んだ。爆煙の先は廊下が続いている。熱効率を上げるために外周に何もない空間を設けているのだろう。横から防火壁がせり出してくる。<readstop />
+  <br />＜ワタナベ、突破しろ！＞<readstop />
+  <br />
+  <hr />　分かってるって。少なくともオレはあんたより身軽なんだ。ダッシュすると身をよじりながら閉まりつつある防火壁に身を滑り込ませる。知っている、こんなもの成功する。成功しなければ話は終いなんだから。オレたちが行き着いた先には固く閉ざされたサーバールームの扉があり、その横に非常階段があった。<readstop />
+  <br />＜非常階段から地下の電気室に向かうぞ＞<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="道岸DC・通路" y="0" />
+  <layer_show id="SEI_109" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="道岸DC・電気室" y="0" />　電気室には巨大なエンジンが４つ並んで轟音をあげていた。沖田が口笛を鳴らしたがエンジン音にかき消された。排煙が完全でないのか、排気ガスの匂いが鼻についた。<readstop />
+  <br />＜ずいぶんとえぐいエンジンで発電してるんだねえ。こんなところで第二の人生とは。よおし、ワタナベ。やるぞ＞<readstop />
+  <br />　オレは爆弾を設置しながら沖田に質問した。<readstop />
+  <br />＜斑猫さんが先でなくていいのですか？＞<readstop />
+  <br />＜ここを止めれば、ヤツらには何もできん＞<readstop />
+  <br />　オレが発電用のエンジンに爆薬をしかけていると、別の通信が入った。<readstop />
+  <br />
+  <hr />＜ワタナベくん聞こえますか？　け、ケイちゃんです。あ、あの、き、聞こえてるかな。き、聞こえてたら咳払いしてもらっていいですか＞<readstop />
+  <br />　オレはなんでもない風を装って咳払いする。<readstop />
+  <br />＜舎密部は斑猫さんと吉住さんを切り捨てました。斑猫さんはインターネットを停止させたあの日を再現するつもりです。電網研は数日前からそのことを知っていたにも関わらずひた隠しにしてきましたが、もはや隠しきれないと判断しました。インターネット停止作戦の拠点は道岸ＤＣです＞<readstop />
+  <br />　オレは沖田との通信用のインカムを切った。インカムをきればエンジン音で声はかき消される。<readstop />
+  <br />＜ケイちゃんオレだ。これはケイちゃんだけに聞こえている＞<readstop />
+  <br />＜ワタナベくん今どこですか？＞<readstop />
+  <br />＜道岸ＤＣ内の電気室だ。自家発電装置を爆破する＞<readstop />
+  <br />
+  <hr />＜だめです！　道岸ＤＣとの通信が途絶したら何が起こるか分かりません。それがインターネットの停止の引き金になる可能性も十分にあります！　どこの作戦ですか！？＞<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="沖田通常真顔" y="820" />
+  <layer_show easing="31" id="SEI_c12_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="沖田通常怒り" y="820" />　どこの？　沖田はインカムがきれたことを察知したのだろう、こちらを睨み付けている。<readstop />
+  <br />＜警保局審議官からの命令のはずだ＞<readstop />
+  <br />　ケイちゃんが伝送路の先で小さく驚きの声を上げた。<readstop />
+  <br />＜まさか、はめられた！？＞<readstop />
+  <br />＜あ、いや、今となってはそんなことを言っている場合じゃないです！　爆破を阻止してください！＞<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　沖田は銃口をオレに向けると引き金を引いた。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="道岸DC・電気室" y="0" />
+  <layer_show id="SEI_124" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="沖田に銃口むけられワタナベ１" y="0" />＜ワタナベ、お遊びじゃないんだ。信管をよこせ＞<readstop />
+  <br />
+  <hr />　沖田の声がインカムから聞こえてくる。オレは一つ息を吐くと銃を手に取った。オレは配電盤を背にちらりと向こうをのぞくと頬の近くを弾丸がかすめた。なるほど、向こうはゲームの射撃のようにオレのどこでも射抜けるようだ。あたりはエンジン音が轟音をあげている。細かな音は聞き取れない。眼球を活用し情報を仕入れなければならないが、下手をすれば銃口を覗いたが最後、くたばってしまうかも知れない。<readstop />
+  <br />＜ワタナベくん、あと１０分で諜報課の先行突入班が到着します。耐えてください！＞<readstop />
+  <br />　オレは沖田とのインカムを再開する。<readstop />
+  <br />＜いや、参った！　降参だ＞<readstop />
+  <br />　オレは手を上げて通路の真ん中に立った。<readstop />
+  <br />＜冗談で済むと思っているのか？＞<readstop />
+  <br />　沖田は、無防備に手を上げて降参している相手を撃てない——オレは賭に勝った。<readstop />
+  <br />
+  <hr />＜沖田さんは斑猫さんにどうやら因縁があるようだけど、オレは斑猫さんに恩がある＞<readstop />
+  <br />＜ふんっ！　テロリストが＞<readstop />
+  <br />＜斑猫さんのどこがテロリストなの？＞<readstop />
+  <br />　銃を乱射して暴れはじめそうなほど荒々しい怒号で沖田が言う。<readstop />
+  <br />＜これがテロでないとするなら何がテロだというんだ！＞<readstop />
+  <br />　その鬼気迫る怒号とは別にオレの脳みそはそれを周波数、音圧、音量などに分解し、それを合理的に分析したのち沖田が怒っていること、しかもかなり複雑な事情で憤っていることを理解した。<readstop />
+  <br />＜衛星を落とすとか、インターネットを停止させるとか、なぜニュースになっていない？　おかしいと思わないのか。少なくとも斑猫さんの意志だけで今回の件が起こったわけじゃない！＞<readstop />
+  <br />　沖田は低い声で笑った。<readstop />
+  <br />＜ふふっ誰かから斑猫の話を聞くのは初めてだったかもしれないな＞<readstop />
+  <br />
+  <hr />　オレは手に持った信管を地面に投げつけるとそこから飛び退いた。弾丸が頬かすめた。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="沖田に銃口むけられワタナベ１" y="0" />
+  <layer_show id="SEI_109" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="道岸DC・電気室" y="0" />　オレはエンジンを背にして目を閉じた。視覚しか役に立たない中で想像力は大いに力を発揮する。<readstop />
+  <br />＜ワタナベくん、七時の方向。手榴弾の可能性に注意してください＞<readstop />
+  <br />　ケイちゃんの通信が割り込んでくる。<readstop />
+  <br />＜いいですか、ワタナベくん。落ち着いて聞いてください。パックマンと一緒の要領でいけば楽勝です。ましてや相手の居場所さえ間違えなければ追い込まれることもありませんから。あ、９時方向に威嚇射撃してください。その後、３時方向に移動です。電気室の出入り口からいったん別の部屋に退避してください＞<readstop />
+  <br />　オレは指示通りに行動した。射撃を２発。そして電気室から退避しようとする。<readstop />
+  <br />＜あっ！　ちょ、待ってください！＞<readstop />
+  <br />　オレは慌ててその場に留まった。<readstop />
+  <br />
+  <hr />＜なんだよ！？＞<readstop />
+  <br />＜ＵＮＫＮＯＷＮが接近です。熱源からしておそらく人間ですが、区画を突っ切って前進してきていて、なんかおかしいです！＞<readstop />
+  <br />＜もういい、それどこじゃない。こっちはこっちで動く！＞<readstop />
+  <br />　オレは深呼吸をして有視界内を眼球で探査する。聴覚はエンジン音で使い物にならない。諜報課のスペシャルチームの到着を待つために、一旦守りやすい場所に退避する。オレが相手ならどうするだろうか。電気室の見取り図を頭に思い浮かべる。簡単だ。目標は出口に向かう。そこに銃口を向けることができる場所でじっと潜んでいればいい。<readstop />
+  <br />＜ケイちゃん、沖田の場所がわかるか？＞<readstop />
+  <br />＜だめです、エンジンの熱源に埋もれていると思います。ワタナベくんも移動してください。そこはネット上で丸見えです！＞<readstop />
+  <br />＜沖田は単独でバックアップなしの——＞<readstop />
+  <br />
+  <hr />　そういってオレは言葉に詰まった。オレはどっと汗がでた。オレは眼球で有視界内を探査した。天井には無数のメカニカルアイボールがいくつも確認できた。<readstop />
+  <br />＜発煙手榴弾か、閃光手榴弾が——＞<readstop />
+  <br />　ケイちゃんの通信を遮る。<readstop />
+  <br />＜いや、強行突破する。時間をかけすぎるとまずい＞<readstop />
+  <br />　オレは短く息を吐き出すと出口に向かってダッシュした。弾丸が飛んでくることを覚悟したが飛んでこなかった。扉の中に転がりこむと目の前には銃口があった。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="道岸DC・電気室" y="0" />
+  <layer_show id="SEI_110" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="道岸DC・通路・沖田の銃口１" y="0" />　人が人を殺すことを喜び同時に死ぬのが自分でなくて残念だと思うときがある……そういう時もある……沖田はそんな表情だった。<readstop />
+  <br />
+  <hr />　おい、まてまて。いや、そんなのありえない。だからそんな表情もあり得ない。オレはいったい何を考えているんだ。そうだ、沖田の構えた銃口がオレに不思議な思念を送り込んできたに違いない。それか人は死ぬ寸前にはとんでもなく支離滅裂な観念でもって死ぬのかもしれない。死は理解せずとも訪れるものなのだから、そうする必要などないのだ。オレは沖田の表情に自分の死についてなんらかの印象を残そうとしたにすぎないのだろう。<readstop />
+  <br />　だから……？　オレはその先を続けることはできない。それより先にオレの脳みそを弾丸が撃ち抜いていることを望んだ。<readstop />
+  <br />　オレはその数秒の出来事を丁寧な演劇のように思い出すことができる。沖田の表情は生きたまま臓物を抜き取られた魚のような表情で、笑っているというよりは引きつっていて、オレの殺害が終わりさえすれば、最初出会ったときの沖田の表情に戻るのだ。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" x="0" xDescription="道岸DC・通路・沖田の銃口１" y="0" />
+  <layer_show id="SEI_134" layer="1" pos="1" x="0" xDescription="道岸DC・通路・沖田の銃口２" y="0" />　沖田の表情はずっと引きつったまま、異常な回転を続けている。オレは弾丸が自分の脳みそをかき回し、神経生理学的に異常な認識を引き起こしたのだろうと思った。だがこれは物理的でフェイタルなエラーのはずだ。認識のエラーはほんの一瞬にすぎない。そのあとは肉体が停止する。オレは痛みや快楽を一切感じない。死がこれほど都合よいものなら、なぜ今まで死がこれほどまで遠いものだと思っていたのだろう。<readstop />
+  <br />　ゴロン、ゴロン・・・<readstop />
+  <br />　沖田の首がゴムまりのようにバウンドして地面に転がった。沖田の頭部以下が重心を崩して転がる。そして同時にトリガーを引いた。天井に向けて銃弾が連射された。<readstop />
+  <br />　倒れた沖田の後ろには全身をバトルスーツに包んだ兵士がいた。ＣＱＣ用とは思えないような接近戦用の武器を持っていた。オレはようやく事態を把握した。それで沖田の首を刎ねたのだ。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="道岸DC・通路・沖田の銃口２" y="0" />
+  <layer_show id="SEI_131" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="道岸ＤＣ・通路" y="0" />　兵士はオレを睨んだように見えたが何もせずにその場を立ち去った。<readstop />
+  <br />
+  <hr />＜スペシャルチームが到着しました。協力して道岸ＤＣを制圧してください！＞<readstop />
+  <br />　ケイちゃんの通信が入る。<readstop />
+  <br />
+  
+  <bgm_play fade="20000.0" id="BGM_032" xDescription="グラヴィティ" />＜ああ、ケイちゃん。オレはなんとか死なずにすんだみたいだ。ＵＮＫＮＯＷＮは？＞<readstop />
+  <br />＜消失しました。こちらの誤検知だったかもしれません＞<readstop />
+  <br />　今おきた出来事を考えれば誤検知のはずはない。<readstop />
+  <br />＜誤検知ではないとおもう。オレの目の前で何ものかによって沖田が殺された＞<readstop />
+  <br />　オレは転がった沖田の表情を見ながら思った。いつ、なんどきも都合が悪ければオレも死ぬのだと。<readstop />
+  <br />＜ほんとですか！？　そんな、全力でトレースかけます！＞<readstop />
+  <br />＜いや、そっちはいい。それより沖田に協力していた組織はわかるか？＞<readstop />
+  <br />
+  <hr />＜えーっと、ちょっと検索してみますね。えーっとおそらく公安の……とっとっと、あわわわ。ちょっちょっと、待ってください。ふう。ちょっと足がつきそうだったので＞<readstop />
+  <br />＜そんなやばい？＞<readstop />
+  <br />＜そうですね。はっきりいってやばいです。チャンスを探っていた多くの組織が一気に攻めてきているような感じです。もはや誰が敵か味方かも……連携して攻撃を仕掛けているように見えますが……そうでないかも＞<readstop />
+  <br />＜どういうこと？＞<readstop />
+  <br />＜もともとネットセクトたちは地下に潜行してから積極的な攻撃はしていなかったのです。ある状況を引き金に攻撃を仕掛けることに集中していたのです＞<readstop />
+  <br />＜引き金？＞<readstop />
+  <br />
+  <hr />＜リアルなテロです。強力なネットワーク監視の結果、伝書鳩の相場が高騰したという冗談がありますが、あれは実は冗談じゃないんです。リアルなテロが起こると官憲の強力とはいえ有限のコンピュータリソースはそちらにリソースを割り当てます。すると強力なネットワーク監視網に綻びが生じます。ネットセクトたちは当然その隙をついて突破しようとするはずです。その穴をつけば伝書鳩を使わなくていいんです。伝書鳩はメモリチップで大量のデータを転送することはできますがレイテンシが高くて＞<readstop />
+  <br />　オレは立ち上がった。<readstop />
+  <br />＜斑猫さんはネットセクトが一斉攻撃をしかけることも予期していた？＞<readstop />
+  <br />＜え？　どうでしょう。予想はしていたかもしれませんが、官憲が舎密部を目標にした時点で斑猫さんの目的は果たしたわけですし。逃走の時間稼ぎに使えると思った可能性はありますね＞<readstop />
+  <br />＜そうか……＞<readstop />
+  <br />　オレは歩き出した。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="15000.0" />＜サーバールームを制圧する＞<readstop />
+  <br />　オレはもう一度沖田の顔を見た。そんなありがたそうな顔をしなさんな。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="道岸ＤＣ・通路" y="0" />
+  <layer_show id="SEI_111" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="道岸DC・サーバールーム" y="0" />
+  <restore_tags id="4">
+    <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />
+  </restore_tags>　階段を上ってサーバールームに入った。無数のファンの音が静かに空間を覆っている。諜報課のスペシャルチームが到着する頃には眠気に誘われそうな場所だった。オレは少し吹き出しそうになりながらサーバールームの入口で警戒した。セカイの理とは別に、オレは人の理によってこのように警戒する。何も笑うことはないのだけれど、なぜかオレにはセカイの理が眼前に広がりオレが笑うように催促していた。碁盤の目のように配置されたサーバーラックの間を縫い慎重に歩みを進める。<readstop />
+  <br />「斑猫さん！　いますか！」<readstop />
+  <br />　呼びかけても返答はなかった。しんとした空間にただファンの音だけが幻聴のようにずっと鳴り響いていた。その中になんどか斑猫さんの声を聞いた気がしたがすべて気のせいだった。<readstop />
+  <br />　幻聴を突き破って多数の足音が押し寄せる。諜報課のスペシャルチームだ。オレは手を上げて友好的な笑みを浮かべた。それなのにヤツらは刀狩りにあった農民のように無抵抗なオレを乱暴に床に組み伏せた。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="道岸DC・サーバールーム" y="0" />
+  <layer_show id="SEI_112" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="道岸DC・セキュリティールーム" y="0" />　オレはセキュリティルームに閉じ込められた。オレが舎密部から脱出し、道岸ＤＣにきた経緯を何度も尋問されたがオレが知っていること以上のことは何も答えられなかった。沖田が何ものでなぜ道岸ＤＣを破壊しようとしていたのかも知らない。または斑猫の居場所を何度も問い詰められたがここにいなかったらどこにいるんだとオレが聞きたいぐらいだった。<readstop />
+  <br />　隊長は不機嫌そうに時計をみる。何か通信を受けると短い言葉でやりとりをする。<readstop />
+  <br />「テクニカルチームが３０分後に到着だ。その前に置き土産が無いか探索する」<readstop />
+  <br />　隊員たちが頷く。<readstop />
+  <br />「それからこいつを別室に移して拘束する、急げ」<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="道岸DC・セキュリティールーム" y="0" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c13_p01_e2" layer="3" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="750" xDescription="若次長通常倦怠" y="820" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="EQC" y="0" />　オレは分厚い扉を入った部屋に拘束された。ＥＱＣだった。しばらくすると、扉が開いた。二人の隊員に率いられるように入ってきたのは次長だった。さらにその後ろに三人。見た目からしてネットワークオペレータだ。一番最後に入ってきたオペレータはケイちゃんだった。<readstop />
+  <br />　次長はわざとらしく大きなため息を吐いた。<readstop />
+  <br />
+  
+  <bgm_play fade="4000.0" id="BGM_036" xDescription="現実 II" />「斑猫はここにいなかった。キミだって分かっていると思うがね。斑猫はどこかでまだうちのシステムに攻撃を仕掛けている。まったく面倒なことをしてくれる。本当はキミなんかに頼むことじゃないんだがね、どうもこれはキミにしかできない。キミには斑猫の居場所を突き止めてもらう」<readstop />
+  <br />　次長の顔は少し汗ばんでぎらついていた。頬のたるんだ肉、その口腔内から吐き出される息には生物を腐爛させる成分が含まれていた。<readstop />
+  <br />「ちょっと待ってください。斑猫さんは舎密部を潰そうとして目標は達成しかけているんでしょう？　システム攻撃？　なんですかそれ？　そんなものすでに——」<readstop />
+  <br />
+  <hr />　次長は手で遮った。<readstop />
+  <br />「そのへんはことが済んだらちゃんと説明しよう。何もしなければキミのいうようにウチは潰される。それも間違いない。だから斑猫を捕まえる。それだけだ。時間がない、さ、取りかかってくれたまえ」<readstop />
+  <br />　次長が背を向けた。オレは食い下がろうとしたが、隊員が銃床でオレの脇腹を殴打する。オレはくの字に身体を折る。<readstop />
+  <br />
+  <layer_hide layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="750" xDescription="若次長通常倦怠" y="820" />
+  <layer_show id="SEI_c13_p01_e3" layer="3" pos="8" rate="1.0" time="250.0" trans="1" x="750" xDescription="若次長通常愉快" y="820" />「ああ、そうだそうだ。ウチはマークされてるから動ける人員もこれが最後なんだ。余計な欠員は出さないようにやってくれたまえ。ハハハ」<readstop />
+  <br />
+  <layer_hide easing="31" layer="3" pos="" time="500.0" trans="1" wait="false" xDescription="-" />　言葉とは裏腹に次長は悠々と言ってのける。オレは床に手をついたまま歯を食いしばっている。次長が出て行くと三人のネットワークオペレータがのこった。ケイちゃんが駆け寄ると心配そうに声をかけた。オレは当面の痛みをやり過ごすとケイちゃんに頷きかけた。<readstop />
+  <br />「しかしケイちゃんよくこれたね」<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />「えへへ、舎密部は全人員を現場待機にしましたから。あたしみたいに名簿に載っていないエージェントは動きやすいんです。研修中ですし」<readstop />
+  <br />　別のネットオペレータの一人がオレの前に立った。ＨＭＤを上げる。５０代ぐらいの眼鏡をかけたぱっとしない男。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「この追跡には一定の価値がある。急ぎましょう。ケイ、あなたはｃａｔｔａｉｌとのコネクションを頼みます」<readstop />
+  <br />　もう一人のオペレータはＨＭＤをそのままに影のように男の後ろに立っている。まるで呼吸すらしていないかのようにじっとしていた。<readstop />
+  <br />「こちらはネットワークノードを物理ファイアーウォールで保護します。その後、全サーバーを順次追跡用に立ち上げ直します。最初は１００ユニットから。そのあと順次追加投入し最大１９１８４７６ユニットまで投入します」<readstop />
+  <br />　ケイちゃんとその男は目配せして確認した。<readstop />
+  <br />
+  <hr />「ワタナベくん、簡単に説明しますね。今回の斑猫さん追撃戦はあたしが見たことも聞いたこともないネットワークプロトコル上で行われます。斑猫さんはそのプロトコルに存在していて、そのプロトコル上にいるものだけが理解できる仕組みで何か舎密部に攻撃を仕掛けています。ワタナベくんにはそのプロトコル上で斑猫さんの痕跡を追い、居場所を突き止めてほしいのです。物理的なファイヤーウォールはもうけますがこれは既存のプロトコルに対するパターン攻撃を防ぐものですから、今回の場合はどの程度効果があるのかわかりません。既存プロトコルでの特徴的なパケットでは効果があるとおもいますが、今回はほとんど効果がないかも。それとは別にわたしたちはソフトウェアのファイアーウォールを展開します。ワタナベ君のバイタルを基準に設定してリスクのあるパケットをフィルタします」<readstop />
+  <br />「ちょちょちょ！　ま、まって？　わけが分からない！」<readstop />
+  <br />
+  <hr />「ワタナベくんがヴェールリバーにいたことを思い出してください。そこは現実ではありません。あるネットワーク上の事象を人が理解できるように表現した１つのセカイです。今回、ワタナベくんが入り込むのもそういったセカイの一種です。逆の言い方をすれば、ワタナベくんの脳みその中を駆け巡る電気信号がセカイを認識づけるなら、認識の実体はそれらの電気信号だといえる。外部からの入力とそれを処理して理解する認識の間には無限の自由度があります。そしてこれはプログラムにもいえることですが、無限の自由度を許容するインターフェースは脆弱性を含む可能性が高くなります。わたしたちはワタナベくんの認識処理を誤作動させるようなあからさまな悪意を取り除き、可能な限り静かなセカイへ送り出すようにします」<readstop />
+  <br />「そのセカイには斑猫さんがいるの？」<readstop />
+  <br />
+  <hr />「はい。一定の価値観で翻訳されたセカイ、簡単にいえば、擬セカイ化された塊があると思います。これらは斑猫さんが攻撃に使用した残骸であるかも知れませんし、攻撃対象のシステムそのものであるかもしれません。いずれにせよ、そこには斑猫さんの痕跡が残っているはずです。それを追いかけてください」<readstop />
+  <br />「ヴェールリバーでやったように、どこかにいってそこで探偵ごっこをすればいい？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　ケイちゃんは苦笑いを浮かべた。<readstop />
+  <br />「簡単にいえば。ただ、このダイブがどのような体験として感じられるかわかりません。人の認識に何が起こり、ネットワーク上にはどのような通信が流れるのか、まったく未知のことです。もし、ワタナベくんが飛び込むセカイが夢のように自意識を超越していたとしたら、たとえばダイブした先でワタナベくんが自分をワタナベだと認識できていないなら、あたしたちは直接的にはほとんど何もしてあげられないことになります」<readstop />
+  <br />「ん？」<readstop />
+  <br />
+  <hr />「夢の中で自分はスズキだと思い込んでいて、周りの人間がずっとワタナベだと言ったとしてもどちらが間違いとも言えないかもしれないということです」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　オレは少し想像してみる。それはまるで現実のことのように目の前に想起された。周囲を取り囲んだ眼球のない人間たちがオレのことを、それそれスズキだ、ほれスズキだ、やいのやいのスズキだと持てはやす。ああ、それでオレはスズキなのかもしれない、ワタナベというのは仮の名前だったかもしれないと強く自覚する。オレはふんっと気持ちよく鼻を鳴らして笑った。<readstop />
+  <br />「たぶん大丈夫だ。オレがワタナベ自身でなくなったり……あるいはオレがオレでないと強要されても、オレは壊れたりしない」<readstop />
+  <br />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQC" y="0" />
+  <bgm_play fade="15000.0" id="BGM_011" xDescription="ルート" />
+  <layer_show id="SEI_055" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />　オレは天井を見上げた。ＥＱＣの漆黒の天板が見えた。黒が見えた、というのは光が網膜に光を到達させなかったともいえる。網膜で入力された空間的光線を三次元の認識に変換し、あたかも外界に空間があるように感じさせられているのは、その認識システムであってセカイではない。そうだ、オレはなぜかそのことを理解しようとせずに理解している。<readstop />
+  <br />
+  <hr />「こういった言い方は変かもしれないけど、オレはこのセカイにいなくてもいいんだ。だから、オレの居ないセカイについてよく理解できているんだ。だからオレはこの任務に適していると思う。ところで、すごく変なことを聞いてもいい？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />「は？　は、はい？　なんでしょう？」<readstop />
+  <br />　ケイちゃんは目をチカチカさせながら言った。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />「これから侵入するシステムだけど、それを作った人は、ケイちゃんのように真面目な人だったと思う？」<readstop />
+  <br />「えっ？　どういうことですか？　あたしそんなに真面目じゃないし」<readstop />
+  <br />「ははは、ごめんごめん」<readstop />
+  <br />　オレは頭を掻いた。<readstop />
+  <br />「ケイちゃんはこれから侵入しようとしているシステムが好き？」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　ケイちゃんを大きく目を見開いて笑みを浮かべた。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e23" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />「はい、とても！　ストイックなインターフェースの先の詳細をみると、その端々には無限遠方の拡張性を滲ませています。それもわざとですよ、わざと。想像力を働かせればその先がのぞけるように設計したインターフェースなんです。メソッドシグネチャでパラメタが４０ですって？　これは機能の多様性を強調していますが同時にそれが固定的なシステムだと見せかけようとしています。でも実際にその裏では何百倍以上のパラメタでもって制御されてるシステムに違いありません。あたしたちがＣＵＩのチャットで会話するのと、実際に対面して話をすることの違いに似ています。この作者はあたしたちと彼らとが実際に会って話すことができるにも関わらずＣＵＩのチャットインターフェースしか用意しなかった、あたしにはそう見えます。あんたらなんかとこのインターフェース以上のことは話さないんだからっていうお嬢様みたいなシステムに本当にキュンキュンします。きっとこのシステムを作ったのは、足長おじさんみたいな偏屈で素敵な人に違いありません、むふふ！」<readstop />
+  <br />
+  <hr />　ケイちゃんはまるで墓場から蘇った死人みたいな気色の悪い笑みを浮かべた。オレはケイちゃんの言っている意味が良くわからなかった。だけれど、ケイちゃんの生き生きとした表情をみて何かを理解した気がした。<readstop />
+  <br />「ああ、良かった、本当に良かった。オレはネット上でも複雑な悪意に悩まされずやっていける」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ニコニコ" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　ケイちゃんは小首を傾げたが、ただ笑みを浮かべた。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「準備完了しました！」<readstop />
+  <br />　オペレータの一人が戻ってくると言った。<readstop />
+  <br />「やりましょう！」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e7" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />　ケイちゃんは言った。そして顔を近づけるとオレに耳打ちする。<readstop />
+  <br />「すべてはコンピュータの解釈です」<readstop />
+  <br />　オレは笑った。<readstop />
+  <br />「もっとわかりやすい言い方がある。すべては神のおぼしめし」<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　笑顔" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />　ケイちゃんは困った顔をした。何か言いたそうにしたが何も言わなかった。すると、先ほど入ってきた男がオレの前で言った。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「もし死ぬのがいやだったら、死にたくないと言ってください。何とかできるかもしれません。わたしたちはあなたを守らなければなりませんから」<readstop />
+  <br />「ああ、そうするよ。生きるのが嫌になったら殺してくれと言うかもしれないが、間違いなく殺してくれよ」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　数秒沈黙がありケイちゃんがうろたえた。ケイちゃんが笑いながら男を追っ払うと、オレを睨み付けた。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e21" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />「あんまり変なこと言わないでください」<readstop />
+  <br />　オレはまじめに言った。<readstop />
+  <br />「本当の気持ちを言ったんだ。別に焦ることじゃないさ。ケイちゃんこそ、頼むよ」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />　ケイちゃんが目をパチパチさせる。<readstop />
+  <br />
+  <hr />「変な意味でもなんでもないよ。オレが選んだオレ自身の死をケイちゃんも受け入れてくれればいいなってことで。オレが死にたがっているとか思われるといやだけど、そういうことじゃなくてさ、いつもの戦場のこととして」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　きょとん" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e18" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />「う、うん……でもそんなことにはならないと思います」<readstop />
+  <br />「オレも良くないことが起こらないことを望むよ」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　困惑" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　オレは手を差し出す。ケイちゃんは怒ったようにそっぽを向いた。オレはバカみたいなことをしたと思って手を引いた。ケイちゃんはそっぽを向いたままだったが口をとがらせて小指を出した。<readstop />
+  <br />「指切りしましょう！」<readstop />
+  <br />「はああ？」<readstop />
+  <br />「いいですか、指切りというのはですね、最大の口約束で反故にしますと、針を千本串刺しにして殺すという意味があります。だから、この約束をするとお互いに利益があるわけです」<readstop />
+  <br />「どういうこと？　まじない？」<readstop />
+  <br />
+  <hr />「はっ、まじないですと！？　そう言われれば、そういう気もします。もしその約束事を破れば完璧なまでにパンパンに膨らんだハリセンボンを口の中にぎゅうぎゅうに押し込んで殺しますってことです。さあやりましょう」<readstop />
+  <br />　ああ、うん……オレはケイちゃんと小指を絡ませた。<readstop />
+  <br />「ユービキーリゲンマーンウソツイタラハリセンボーンノマース、ユビキーッタ」<readstop />
+  <br />　オレの小指は切られずに残っていた。オレは残った小指を眺め、いつまでこの小指がオレのものであり、いつオレのものでなくなるのか考えた。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e16" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />　男が戻ってくると言った。<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　陰のある笑い" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />「ハードウェアファイアーウォール設定完了。ソフトウェアファイアーウォールクラスタとパケットモニタリングセットアップ完了。いきましょか」<readstop />
+  <br />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show easing="31" id="SEI_c04_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD有" y="820" />　ケイちゃんはうなずくとＨＭＤを下ろした。<readstop />
+  <br />
+  
+  <bgm_stop fade="6000.0" />「ワタナベくん、またね」<readstop />
+  <br />
+  <hr /> <task method="jump" taskid="ENDING" />
+</scenario>

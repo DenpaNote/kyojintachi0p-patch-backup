@@ -1,0 +1,1762 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  <layer_show id="CMN_001" layer="1" pos="1" time="5000.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <task method="call" taskid="EYE_CATCHE_CHAPTER03" />
+  
+  <layer_hide layer="1" pos="1" time="750.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <bgm_play fade="5000.0" id="BGM_048" volume="100.0" xDescription="休息" />
+  <layer_show id="SEI_060" layer="1" pos="1" time="500.0" trans="1" x="0" xDescription="DF・パブ" y="0" />
+  <layer_show easing="31" id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿通常" y="820" />　　酒吧角落摆着的小桌前，我倚靠在椅子上，像是飘在半空一般。<readstop />
+  <br />
+  <hr />　　我凝视着注入杯中小麦啤酒的细腻气泡从底端往上爬升的样子。<readstop />
+  <br />
+  <hr />　　我怀念在Fabliau与斑猫饮下的啤酒，如同追忆往昔的一口又一口，轻啜间，感慨涌上心头。仿佛与它共饮，分享那份滋味。<readstop />
+  <br />
+  <hr />　　甘苦与香醇穿过喉咙……这啤酒表现着经久不衰的口感。<readstop />
+  <br />
+  <hr />　　这并不是什么去品尝，而是我被动地感受了这个味道；并非我主动去喝，而是我正被迫地喝下去，好在我无需做任何事情。<readstop />
+  <br />
+  <hr />　　我将那确实美味至极的啤酒摄入体内，获得了一丝无根据的幸福感，这同时也极度剥夺了我的逻辑思考能力。<readstop />
+  <br />
+  <hr />
+  <savable_state value="false" />　　从结果来看，喝了一杯啤酒就感到如此不适还是第一次。<readstop />
+  <br />
+  <hr />　　酒吧里，数组聚会的群体在桌边大声喧哗着饮酒。<readstop />
+  <br />
+  <hr />　　接着，我还听到周围零星的客人落座前，在我附近窃窃私语了几句。<readstop />
+  <br />
+  <hr />　　我确定我的耳朵听到了那些话。<readstop />
+  <br />
+  <hr />　　但那堆出于理解那些话而在我脑海中制作出的字幕，却在浮现出形状后就消失不见了。<readstop />
+  <br />
+  <hr />　　不过实际也许正相反呢。<readstop />
+  <br />
+  <hr />　　正因脑海中冒出了文字，我才能听到声音……就像默读时脑内播放的非物理性质音频一样。<readstop />
+  <br />
+  <hr />
+  
+  <savable_state value="true" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜您是GGF先生吗？今天也斩获高分啊？！下次带带我吧？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我认为就算一言不发，也能将自己的想法传达到位。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　＜哎呀，嘛，<readstop />我没兴趣的。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　对方仿佛在死死地等我回复一般矗立在那里。<readstop />
+  <br />
+  <hr />　　啊，难道说不把话说出来的话，我的意图就无法传达吗。<readstop />
+  <br />
+  <hr />　　张嘴说话吗……为什么一定要做这么麻烦的事呢。<readstop />
+  <br />
+  <hr />　　我凝视着眼前的玻璃啤酒杯。<readstop />
+  <br />
+  <hr />　　杯子里小小的气泡正噗呲噗呲地往上冒。<readstop />
+  <br />
+  <hr />　　我举杯咕咚咕咚地灌了一口。<readstop />
+  <br />
+  <hr />　　除了美味，其他什么也没感觉到。<readstop />
+  <br />
+  <hr />　　我再次向那搭话的人看去，他像陶俑一样站在站在那里，面朝着我。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“嘛，我没兴趣啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我试着说出来了。<readstop />
+  <br />
+  <hr />　　对方以一种毫无他意的表情回嘴。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你这是非法改装吧？不怕露馅吗？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　话虽如此，难道战争又有什么规则可言吗？<readstop />
+  <br />
+  <hr />　　……啊啊，这不过仅仅是个游戏来着。<readstop />
+  <br />
+  <hr />　　“抱歉，这酒不对胃口，让我有点恶心啊。你能上一边呆着吗。”<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜要跑路了嘛？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　他像陶俑一样脸上毫无波澜地说。<readstop />
+  <br />
+  <hr />　　我完全不能理解他是如何讲出这种话的。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你就凭这个打赢sayhere吗？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <show_message_actor id="GGF" name="GGF" />　　“你居然知道sayhere吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　这男人并没有改变脸上的表情，鼻子哼哼响。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜赢了我的话，告诉你也行啊。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我将杯中的啤酒饮尽，从椅子上站起来。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“干一架吧。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　男子没什么干劲似得象征性点了点头。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="DF・パブ" y="0" />
+  <layer_hide easing="31" layer="4" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <bgm_play fade="3000.0" id="BGM_041" xDescription="GGF II" />
+  <layer_show id="SEI_130" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="DF・曠野２" y="0" />
+  <restore_tags id="2" />　　我坐进机舱，把涣散的视线对焦回来。<readstop />
+  <br />
+  <hr />　　我早就明白对手并不弱，不一定有胜算。<readstop />
+  <br />
+  <hr />　　激烈的攻守战争。<readstop />
+  <br />
+  <hr />　　我的左臂下端脱落，右足也丧失机能。<readstop />
+  <br />
+  <hr />　　对手失去了头颅。<readstop />
+  <br />
+  <hr />　　只是这时，胜负已分。<readstop />
+  <br />
+  <hr />　　我尚且可以用翅膀来自由活动，但失去头颅的对手的视野仅与普通人类别无二致。<readstop />
+  <br />
+  <hr />　　要精确躲掉从远处飞来的有线制导反坦克导弹，还要作出反击，可是难上加难。<readstop />
+  <br />
+  <hr />　　灼烈的阳光下，我立于空中，反坦克导弹弹出弹仓。<readstop />
+  <br />
+  <hr />　　我不清楚对手对现况有多大的掌握。<readstop />
+  <br />
+  <hr />　　对手仍旧在用机关炮倾泻着弹幕，看来是完全没理解状况呢。<readstop />
+  <br />
+  <hr />　　距离有线制导的反坦克导弹到达目标还有不到两秒。<readstop />
+  <br />
+  <hr />　　对手机炮的火线已然中断。<readstop />
+  <br />
+  <hr />　　自动制导导弹朝对手飞去。<readstop />
+  <br />
+  <hr />　　这已经不可能躲开了……我认为对方应该会紧急脱离。<readstop />
+  <br />
+  <hr />　　不可能躲开。<readstop />
+  <br />
+  <hr />　　无法避免这次直接攻击。<readstop />
+  <br />
+  <hr />　　即便如此对手仍持续着迎击姿态。<readstop />
+  <br />
+  <hr />　　在导弹击中的同时，闪光和浓烟爆发出来。<readstop />
+  <br />
+  <hr />　　是哪方的胜利呢，机舱中轻轻奏响敌人被击破时的提示音。<readstop />
+  <br />
+  <hr />　　黑烟被夕阳染成红色，在残骸的背面形成蠕动着的巨大阴影。<readstop />
+  <br />
+  <hr />　　我在机舱里摘下头盔，擦去冷汗。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="DF・曠野２" y="0" />
+  <bgm_play fade="5000.0" id="BGM_048" xDescription="休息" />
+  <layer_show easing="31" id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  <layer_show id="SEI_061" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="DF・パブ（日没）" y="0" />
+  <restore_tags id="3" />　　酒吧角落摆着的小桌前，我倚靠在椅子上，像是飘在半空一般。<readstop />
+  <br />
+  <hr />　　窗外的天空染上了令人心神不宁的紫色。<readstop />
+  <br />
+  <hr />　　我的眼前放着一杯已经放温的小麦啤酒。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜是GGF先生吗？刚才真是对不住了？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　声音的来源、目的、对象，过了许久，我才想清楚这堆问题。<readstop />
+  <br />
+  <hr />　　即使看着对方的脸，也无法帮助我理解这一切。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你这表情，跟见了鬼了似的。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　啊啊，原来是这样啊。<readstop />
+  <br />
+  <hr />　　这人长得有点像我刚刚打趴下的家伙啊。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“你为什么没有紧急脱离？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜哈？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我陷入混乱了。我陷入了混乱。<readstop />
+  <br />
+  <hr />　　我陷入混乱是因为发生了什么吗？<readstop />
+  <br />
+  <hr />　　我不知道。<readstop />
+  <br />
+  <hr />　　至少从我自身可找不到这混乱的原因。<readstop />
+  <br />
+  <hr />　　混乱的我自然找不到原因……这不是理所应当吗。<readstop />
+  <br />
+  <hr />　　但是，与重新审视自身同理，只有当某个幽灵般的自己站在某处，才有可能确认到自身的混乱。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“啊没什么。我们进行了不错的较量，你也没死。真的没什么。只是我好像因为战斗有点发烧了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　男人停顿了一会儿，像出土文物一样说。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜据说sayhere最近在东部地区的那片山岳被目击到。只是这世上的情报大多虚幻无实，找不到也别怪我。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <show_message_actor id="GGF" name="GGF" />　　“你啊，不是人类吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜啊？<readstop />为什么要这么说？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <show_message_actor id="GGF" name="GGF" />　　“我可是人类啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜那又怎样？和这件事有关系吗？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我瞥了眼对方的脸，然后向窗外看去。<readstop />
+  <br />
+  <hr />　　深紫色……不，实际已经接近深黑色，它并未带来不安，而只是携去了宁静的夜晚。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜喂，说点什么怎么样？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我点了点头。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“该说点什么的是你才对吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜哈？＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PC_1" />
+  <set_text_font fontType="gothic" />　　我从椅子上站起，走到那男人的面前，一口气喝干啤酒——至少我是想一口气喝干来着。<readstop />
+  <br />
+  <hr />　　啤酒却躲着喉咙，从两边嘴角溢出、流下，浸湿了我的上半身。<readstop />
+  <br />
+  <hr />　　这啤酒还是和我几小时前喝的一样美味。<readstop />
+  <br />
+  <hr />　　我探知着地板的存在感，一步一步摇摇晃晃地走出酒吧。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="DF・パブ（日没）" y="0" />
+  <bgm_play fade="5000.0" id="BGM_043" volume="80.0" xDescription="物語はすすむ" />
+  <layer_show id="SEI_062" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="DF・格納庫" y="0" />　　和白天截然不同，寒风并未掠过皮肤，我却感到寒冷彻骨。<readstop />
+  <br />
+  <hr />　　我穿过基地的大门，百无聊赖地向机棚走去。<readstop />
+  <br />
+  <hr />　　我的机体已经修复完毕，像被钉在柱子上一样笔直地竖在那里。<readstop />
+  <br />
+  <hr />　　若从兵器的角度来评价，重型机甲的高度问题可以说是十分致命的。<readstop />
+  <br />
+  <hr />　　由于接地面过低而缺乏灵活度，因此只能通过涡喷头来辅助驱动系统，以弥补机动性的缺陷，然而，作为选择如此低效的驱动方式的代价，是必须使用更加庞大的燃料箱，机体重量也因此增加，这样就进入了一个恶性循环。<readstop />
+  <br />
+  <hr />　　装甲极端轻量化，加上对行进中机体平衡的无视，已取得了重型武器不可比拟的战绩，但死伤无数，结果极为惨烈。<readstop />
+  <br />
+  <hr />　　若一个国家拥有无限的工业实力和人力资源，使用这样的兵器才算合理。<readstop />
+  <br />
+  <hr />　　只是，全世界找不到符合这种条件的国家。<readstop />
+  <br />
+  <hr />　　工业实力什么的总能有办法补上，但将人命当作零件的话，那绝大多数的国家机器都会生出问题。<readstop />
+  <br />
+  <hr />　　在这关系的紧绷中，个人和国家就被分置在天平对立的两端。<readstop />
+  <br />
+  <hr />　　我走出了机棚。<readstop />
+  <br />
+  <hr />　　与摄入的酒精相比，我的醉意却显得异常强烈。<readstop />
+  <br />
+  <hr />　　难道是我对酒精变得更敏感了？<readstop />
+  <br />
+  <hr />　　不，我根本就没有喝醉吧？<readstop />
+  <br />
+  <hr />　　只是自己希望溺死在醉意里罢了。<readstop />
+  <br />
+  <hr />　　我的醉意随鲜红的月亮愈加升起。<readstop />
+  <br />
+  <hr />　　从未有过的存在感就像藤蔓牢牢地把我缠在大地上。<readstop />
+  <br />
+  <hr />　　与此同时，一种仿若要将一切一笔勾销、把我投入虚无的空虚感，同存在的强烈感受一齐叠加在我的身上。<readstop />
+  <br />
+  <hr />　　一切皆假象，没有什么事物责备过我，也就没有事物原谅过我。<readstop />
+  <br />
+  <hr />　　可那归根到底只是没有什么事物在乎过我，没有事物了解过我罢了。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“只是，这样不也挺好的吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我环顾四周，确认没有任何人后，便自言自语起来。<readstop />
+  <br />
+  <hr />　　这话如果被谁听见一定会被误认为精神病。<readstop />
+  <br />
+  <hr />　　周围确实没有人，我放心地又重复了一遍这句话。<readstop />
+  <br />
+  <hr />　　我收到了些回应，但我应该没有听到任何东西才对。<readstop />
+  <br />
+  <hr />　　我明明不需要任何回应的……却清晰地听见了那回声。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="DF・格納庫" y="0" />
+  <layer_show id="SEI_063" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="DF・基地内" y="0" />
+  <restore_tags id="4">
+    <bgm_play id="BGM_043" xDescription="物語はすすむ" />
+    <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  </restore_tags>　　翌日，我在基地思索运输机体的方式。<readstop />
+  <br />
+  <hr />　　被视作雇佣兵的我，作战之外的问题只能自己想办法解决。<readstop />
+  <br />
+  <hr />　　租用军用坦克运输车来搬的话，那价格高得令人瞠目结舌。<readstop />
+  <br />
+  <hr />　　我决定放弃，去酒吧收集那些接不到货物订单的搬运工信息。<readstop />
+  <br />
+  <hr />　　尽管我并没有抱着多大期望，但也找到了一个廉价空运公司的从业者。<readstop />
+  <br />
+  <hr />　　坦克运输车的价格出乎意料。<readstop />
+  <br />
+  <hr />　　航空运输的话价格还要再翻好几倍。<readstop />
+  <br />
+  <hr />　　我试着和那男人交谈，他说他是个新兴国家的飞机设计技术人员。<readstop />
+  <br />
+  <hr />　　那男人一边做着运输工作来积攒资金，又借此对研发中的超重型运输机进行载重试飞，只是一直苦恼于接不到运输订单。<readstop />
+  <br />
+  <hr />　　到最后连材料费都凑不出来，才在这里进退两难。<readstop />
+  <br />
+  <hr />　　虽然他那架超重型运输机的负荷重量在100吨以上，容纳体积也很大，但也不可能装得下重型步兵战车吧。<readstop />
+  <br />
+  <hr />　　重型步兵战车一般都要求用坦克运输车在地面上进行运输。<readstop />
+  <br />
+  <hr />　　如果要航空运输，就只能用世界上仅有的几架超大型运输机，实在是太划不来。<readstop />
+  <br />
+  <hr />　　“我们正是考虑到了这一点，才有了这可大规模量产、价格亲民的解决方式……这就是；我们的试做机型！”<readstop />
+  <br />
+  <hr />　　尽管那男人对我说这些的语气热血到了直冲上头的程度，却还是要低三下四地求我接受这种在如今难以信赖的运输手段。<readstop />
+  <br />
+  <hr />　　这不是显而易见吗，只算对运输机过度劳损导致的机体报废的补偿，就是这么便宜！他热情地回答。<readstop />
+  <br />
+  <hr />　　嘛，这价格也不好说什么了不是吗。<readstop />
+  <br />
+  <hr />　　即便这着陆机场在迪拜，也不成问题。<readstop />
+  <br />
+  <hr />　　这时，对方提出了一个意外的建议。<readstop />
+  <br />
+  <hr />　　用空降卸货的话，价格又能降低不少哦。<readstop />
+  <br />
+  <hr />　　考虑风险会让我更难做出判断，但我也接受了这个条件。<readstop />
+  <br />
+  <hr />　　到头来，这只是场游戏。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="5000.0" />　　谈话结束时，我问了问他有多少护航机，结果是零。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="DF・基地内" y="0" />
+  <bgm_play fade="4000.0" id="BGM_045" volume="100.0" xDescription="待機" />
+  <layer_show id="SEI_062" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="DF・格納庫" y="0" />　　我靠着机棚的墙壁坐了下去。<readstop />
+  <br />
+  <hr />　　我从没在重型机甲里拉过伞绳。<readstop />
+  <br />
+  <hr />　　去脑补操作当然简单，只是当比自身肉体大数十倍的笨重机器执行这套操作时，我心中便生出掩盖不去的不安。<readstop />
+  <br />
+  <hr />　　这降落伞是俄罗斯为了空降战车而试制的。<readstop />
+  <br />
+  <hr />　　嘛，要是真有想想就能解决的事，我可能就不会那么担心了。<readstop />
+  <br />
+  <hr />　　可就算这种想想就能解决的事都必须要一环套一环的思考，所以很难不感到沉重。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="DF・格納庫" y="0" />
+  <layer_hide easing="31" layer="4" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_064" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="DF・輸送機内" y="0" />　　首当其冲的难题就是，如何起飞。<readstop />
+  <br />
+  <hr />　　不考虑重量，我们要装载的也是因高密度而容易偏移重心的兵器。<readstop />
+  <br />
+  <hr />　　飞机在跑道上滑行，却迟迟没有起飞的迹象。<readstop />
+  <br />
+  <hr />　　当我正担心会不会越出滑行跑道时，机体终于飘了起来。<readstop />
+  <br />
+  <hr />　　起飞的瞬间，引擎像喘气般嗡嗡作响。<readstop />
+  <br />
+  <hr />　　过了很长的时间才开始爬升。<readstop />
+  <br />
+  <hr />　　这未来可真让人忧心忡忡。<readstop />
+  <br />
+  <hr />　　我带着氧气面罩做起降落的想象训练。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_play fade="20000.0" id="BGM_044" xDescription="物語はまわる" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜十点钟方向，不明国籍机体，接近＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <set_text_font fontType="gothic" />　　原来如此，这不是没有辜负我的期待嘛。<readstop />
+  <br />
+  <hr />　　我用无线电回复飞行员。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“这里是GGF。即将搭乘机体。若发生危险请丢下负荷全力逃跑。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜OK，GGF。别放在心上，毕竟在现代战争中，运输机是躲不过战斗机的。不用在意，发生紧急情况立刻断联逃跑。哪怕只有你一个人也要活下去。哦哦呦，这么一会儿就侵犯他国领空了。这事在战争中也算常见。＞<readstop />
+  <br />
+  <hr />　　＜没时间和外务省联络，也不知道电话号码，呀，真头疼啊。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <set_text_font fontType="gothic" />　　无线电那端响起了不知是谁的笑声。<readstop />
+  <br />
+  <hr />　　“这可不是该笑的时候。快冲进云层里把货物扔下去。就算被抓也能找点别的说辞。”<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜这里还离目的地远着呢！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <show_message_actor id="GGF" name="GGF" />　　“鬼知道！总比死好吧！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜OK，GGF。这可真是个好时机。附近有个低气压区。冲进去，然后弹射到天空。在这种恶劣的条件下，发射这种重量的东西，这可是绝佳的实战测试啊！哇哈哈。我们说不准会在准备逃跑时受到攻击。＞<readstop />
+  <br />
+  <hr />　　＜别忘了带上降落用的氧气面罩啊。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <set_text_font fontType="gothic" />　　我坐进重装机甲后锁紧了座椅。<readstop />
+  <br />
+  <hr />　　引擎声，警报声和震动的感觉突然像在别的国家发生的事一样，突然离我远去。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="DF・輸送機内" y="0" />
+  <layer_show id="SEI_065" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="コクピット内" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜喂，GGF。你还在机舱里吗？听到请回答。＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <show_message_actor id="GGF" name="GGF" />　　“这里GGF。听着呢。什么时候弹射都OK。重复，什么时候弹射都OK。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜别急。这里是搬运工。我们会尽可能把你投到近处。即将冲入低气压区。减速后会打开后端货舱门。此时敌方会以热源为目标，保持动力关闭，只能用紧急电源系统进行机体导航。＞<readstop />
+  <br />
+  <hr />　　＜货物发射后请关掉所有电子系统，只能通过目测进行降落。我这边也会进行电子干扰来掩护你。＞<readstop />
+  <br />
+  <hr />　　“用不着干扰，快点卸货！”<readstop />
+  <br />
+  <hr />　　＜别催了，马上就卸货。接下来要冲入积雨云。虽然合作的时间很短，但下次，让我们在沙漠的正中心相会吧。发射，准备完毕！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <show_message_actor id="GGF" name="GGF" />　　“这里是GGF。发射准备，OK！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="PILOT" name="パイロット" />　　＜哦唔，好好干啊！再会。发射倒计时，3、2、1，发射！＞<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="PILOT" />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="コクピット内" y="0" />
+  <layer_show id="SEI_132" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="重機兵パラシュート降下" y="0" />
+  <set_text_font fontType="gothic" />　　机体以躺卧的姿态，被发射进空中。<readstop />
+  <br />
+  <hr />　　我应该在那厚厚的云层中吧，从机舱里向外看不到任何信息。<readstop />
+  <br />
+  <hr />　　我注视着机舱内的模拟仪表……说是这么说，也只是看着磁力指南针、气压高度计、测速计这三个而已。<readstop />
+  <br />
+  <hr />　　尽管雷达并不会干扰其他仪器的运行，但为了避开无源雷达还是把雷达关上吧。<readstop />
+  <br />
+  <hr />　　因为在战斗中要检查数十个仪表，我对这三个模拟仪表已经感到厌烦了。<readstop />
+  <br />
+  <hr />　　为了满足我未被充分利用的认知功能，我决定测量我的心率。<readstop />
+  <br />
+  <hr />　　这倒是没什么大不了，我细数着手腕上脉动的次数，摸索它所带来的时间感，由每分钟的心跳数，测算出现在的身体状态，除此之外并没有其他办法。<readstop />
+  <br />
+  <hr />　　如我所料，我的心率正不断升高，升到了这容易致使判断力下降的程度。<readstop />
+  <br />
+  <hr />　　因此，我反复告诫自己不要掉以轻心，要集中注意力去做出判断。<readstop />
+  <br />
+  <hr />　　我目不转睛地盯着变化的气压高度计，打算在最极限的高度打开降落伞。<readstop />
+  <br />
+  <hr />　　所以再等等，我这样告诫自己。<readstop />
+  <br />
+  <hr />　　当我决意打开降落伞那一刻，降落伞真的会如我所愿地打开吗？<readstop />
+  <br />
+  <hr />　　我迅速且理性地（而且是纯粹地！）重新反思了一遍。<readstop />
+  <br />
+  <hr />　　思考结果为，直觉大概是正确的。<readstop />
+  <br />
+  <hr />　　在得出那个结论的期间，自由落体运动持续进行着，我已经低于开伞的理想高度100m。<readstop />
+  <br />
+  <hr />　　降落伞打开的同时，我的身体像是被压在了座椅上。<readstop />
+  <br />
+  <hr />　　抗负荷座椅像是紧抱着我的身体一般地，将负荷分散了出去。<readstop />
+  <br />
+  <hr />　　下坠中虚无缥缈的感觉被那压迫感一扫而空，我感觉头顶的血液在流失，眼冒金星。<readstop />
+  <br />
+  <hr />　　接着，一阵剧烈的冲击，自下方向上袭来。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="重機兵パラシュート降下" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />　　大地隆隆的轰鸣、扭曲金属的声音、以及无数导线断开的吱吱声重叠交揉。<readstop />
+  <br />
+  <hr />　　机体在大地上回转翻滚，最终仰面于朝向天空。<readstop />
+  <br />
+  <hr />　　机舱窗外的天空遍布着可燃性金属爆裂开来的火树银花。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_133" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="重機兵前進（故障）" y="0" />　　我启动机体后，系统开始健康检查。<readstop />
+  <br />
+  <hr />　　头戴式显示器显示着机体的损害情况。<readstop />
+  <br />
+  <hr />　　看来右脚和左臂在落地时受到了损伤。<readstop />
+  <br />
+  <hr />　　我对着地图确认了现在的位置。<readstop />
+  <br />
+  <hr />　　距离目标基地大约还有100公里。<readstop />
+  <br />
+  <hr />　　虽然燃料还十分充足，但右脚的问题似乎有点严重。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“嘛，船到桥头自然直了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　这个用于姿势控制的机体固件一旦出现故障就相当麻烦。<readstop />
+  <br />
+  <hr />　　我试着向前冲刺。<readstop />
+  <br />
+  <hr />　　右足的力量顿时消散，当右肩向前倾倒时，紧急姿势控制序列启动了。<readstop />
+  <br />
+  <hr />　　为了保护弹仓、炮仓、机舱，机体像是杂耍一般翻滚起来。<readstop />
+  <br />
+  <hr />　　我觉得单脚不便就只能以回旋来前进这事很扯，但军工复合体大概会给出种逻辑来让这一切说得通。<readstop />
+  <br />
+  <hr />　　无数次地做着绝赞翻滚，我全身也快被摔得粉碎。<readstop />
+  <br />
+  <hr />　　我将姿势控制程序的自动修正范围调到了最低。<readstop />
+  <br />
+  <hr />　　我护着右脚前进。<readstop />
+  <br />
+  <hr />　　我的全身被六点式安全带牢牢固定，而头部则为了保持视野的灵活，并没有被固定。<readstop />
+  <br />
+  <hr />　　直到抵达镇子之前，我的脖子都一直承受着那剧烈而持久的冲击，感觉头首已经分离。<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="8000.0" />
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="重機兵前進（故障）" y="0" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="黒ベタ" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“啊！<readstop />啊疼疼疼。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我清醒过来睁开眼眸。<readstop />
+  <br />
+  <hr />　　就像是恶劣的睡姿带来的僵硬一般，每当我活动脖子时总有吱嘎吱嘎的声音携着我的痛楚滋生出来。<readstop />
+  <br />
+  <hr />　　我环顾四周也想不起来这里究竟是哪。<readstop />
+  <br />
+  <hr />　　肩膀和腰都有不适感。<readstop />
+  <br />
+  <hr />　　青黑色的印记（痣）浮现于肩上。<readstop />
+  <br />
+  <hr />
+  
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="UNKNOWN" name="？？？" />
+  <restore_tags id="5">
+    <layer_show id="CMN_001" layer="1" pos="1" x="0" xDescription="黒ベタ" y="0" />
+  </restore_tags>　　“早上好，士兵先生。”<readstop />
+  <br />
+  <hr />
+  
+  
+  <hide_message_actor id="UNKNOWN" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <bgm_play fade="25000.0" id="BGM_047" xDescription="たかたかたかたたん！" />
+  <layer_show id="SEI_067" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />
+  <layer_show easing="31" id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  <set_text_font fontType="gothic" />　　从房间的角落传来了一阵微弱的声音。<readstop />
+  <br />
+  <hr />　　我试图抬起上半身，确认发声者的位置。<readstop />
+  <br />
+  <hr />　　一个正在玩掌机的少女坐在房间角落里的椅子上。<readstop />
+  <br />
+  <hr />　　我试图整理情况，将混乱的思绪重新组织起来。<readstop />
+  <br />
+  <hr />　　然而，我那散乱的大脑却根本无法想象原本的状态。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c01_p02_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1115" xDescription="セレン携帯ゲーム真剣" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“这是哪里？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　少女一边让掌机发出吱吱声，手指敏捷地在一堆按钮上翻飞。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“这里是歌尔娜卡镇。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />　　“你在这里做什么呢？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="GIRL" name="少女" />　　“监视你哦，一直都在。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />　　“为什么要这么做？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　少女噼里啪啦地摁着手柄按键。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“因为还不知道你是谁。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />　　“我只是个雇佣兵哦。刚开始打工。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="GIRL" name="少女" />　　“那你怎么有那么重的伤？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />　　少女一眼都没往这边看过。<readstop />
+  <br />
+  <hr />　　只是死命地玩着游戏。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“在运输机体的时候受到了袭击。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="GIRL" name="少女" />　　“为什么？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />　　“这问题，我也想问你啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　少女没做任何回答，专心打着游戏。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“能让我去个厕所嘛。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="GIRL" name="少女" />　　“厕所在屋子外面哦。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />
+  <layer_hide layer="2" pos="" time="500.0" trans="1" xDescription="-" />
+  <layer_show id="SEI_068" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・宿舎・廊下" y="0" />
+  <set_text_font fontType="gothic" />　　向屋外走去时，一个男人挡在门口。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“可以问你几句吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　明明刚见面，这男的干嘛对我这么粗暴啊。<readstop />
+  <br />
+  <hr />　　毕竟是他们把我从无法行动的机甲里面救出来的，我也没什么好抱怨的。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“真的谢谢你救了我。但是能不能先让我去个厕所。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我不等对方回答就想要从屏障似的他钻过去，可又被他拦下。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“不，等着。得让我先说。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　男人满怀威压说道。<readstop />
+  <br />
+  <hr />　　然后他将视线投向自己的手枪上。<readstop />
+  <br />
+  <hr />　　我见他这样也确认了下自己的装备。<readstop />
+  <br />
+  <hr />　　孑然一身。<readstop />
+  <br />
+  <hr />　　我只好盯着那男人。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“想要问问题的是我才对。我一个雇佣兵还被你们这样对待，真气人。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MAN" name="男" />　　“如果能信你就好了呢。你知道我们也有我们要紧的事吧？你啊，从头到脚哪像个雇佣兵啊。你明白吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <show_message_actor id="GGF" name="GGF" />　　“好吧。那要我怎么做才行？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MAN" name="男" />　　“爱怎么做怎么做，但机甲必须留在这儿。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　对方突然提出了没有任何余地的谈判条件。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“我是雇佣兵啊。你觉得我会抛下吃饭的饭碗然后一溜烟逃跑吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MAN" name="男" />　　“但是保命才重要吧？这可没的商量。你懂吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　我叹了口气。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“不知道诸位是体制派还是反体制派，但是如果我说‘保命更重要’，你们就会大声附和着放我走吗，混蛋。问点正经问题好吗。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常怒り" y="820" />
+  <set_text_font fontType="gothic" />　　男人用狰狞的表情看着我，拳头快要飞到我脸上。<readstop />
+  <br />
+  <hr />　　最后还是落得这种结局吗。<readstop />
+  <br />
+  <hr />　　如果不给他们点好处，直接死掉也大有可能。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c01_p02_e1" layer="3" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1115" xDescription="セレン携帯ゲーム真剣" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“等一等、等一等。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />　　之前还打着游戏的少女从屋子里冲出来。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“慢慢听他说吧。他可能脑子还懵着呢。他怎么可能一心只想着逃跑哇。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常怒り" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常不愉快" y="820" />
+  <show_message_actor id="MAN" name="男" />　　“别开玩笑了。逼紧点你他就会吐出实话的啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　男人一边捏着指关节，一边轻佻地说。这男的大概是想依靠古典的非语言表达来掩饰自己的浅薄吧。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“等等！他想问我塞西亚的事来着。所以等一等！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <set_text_font fontType="gothic" />　　男人们咋了咋舌，嘀嘀咕咕地念叨着“干嘛多此一举”之类的话，纷纷退下了。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“你认识塞西亚？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我向少女询问。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“当然呀。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン携帯ゲーム真剣" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_show easing="31" id="DF_c01_p02_e2" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン携帯ゲーム笑み" y="820" />
+  <set_text_font fontType="gothic" />　　少女歪着头对我笑着说时，男人一边死死地盯着我。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“你小子，<readstop />也认识塞西亚？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常怒り" y="820" />
+  <set_text_font fontType="gothic" />　　少女被这猛地将身子撞过来的男人吓得哇哇大喊，场面顿时乱做一团，我被从那男人身边拉开。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“你不是要去厕所吗？你先去，然后我们聊一些聊聊塞西亚的事？我会等你的。”<readstop />
+  <br />
+  <hr />
+  
+  
+  <bgm_stop fade="15000.0" />
+  <hide_message_actor id="GIRL" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_hide easing="31" layer="3" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />　　于是我沿着这陌生的路朝厕所的方向行进。<readstop />
+  <br />
+  <hr />　　到处都是穿着卡其色服装而不像一般市民的人，这使我理解了一点现在的状况。<readstop />
+  <br />
+  <hr />　　我办完事，沿着来时的路返回了屋子。<readstop />
+  <br />
+  <hr />　　少女坐在房间角落的椅子上，视线在掌机屏幕和我的脸之间来回跳跃。<readstop />
+  <br />
+  <hr />
+  
+  
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・宿舎・廊下" y="0" />
+  <bgm_play fade="20000.0" id="BGM_049" xDescription="GGF IV" />
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_show easing="31" id="DF_c01_p02_e2" layer="3" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1115" xDescription="セレン携帯ゲーム笑み" y="820" />
+  <layer_show id="SEI_067" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GIRL" name="少女" />　　“你的名字是什么来着？啊！我叫塞莲。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GIRL" />
+  <show_message_actor id="GGF" name="GGF" />　　“GGF。是雇佣兵哦。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　少女带着假笑紧紧盯着我的脸。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“你为什么要来找塞西亚呢？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <show_message_actor id="GGF" name="GGF" />　　“她是出了名的强吧？我听说了塞西亚在这边出没的传闻。我也是初出茅庐想跟她过两招，不往脸上贴点金可没法开张啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　少女在掌机上翻飞的手顿时停下。<readstop />
+  <br />
+  <hr />　　然后像是被话语噎住了一样定在那里。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン携帯ゲーム笑み" y="820" />
+  <layer_show easing="31" id="DF_c01_p02_e1" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン携帯ゲーム真剣" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“所以说塞西亚在这边吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン携帯ゲーム真剣" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e2" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <set_text_font fontType="gothic" />　　灵魂被游戏机吸去的少女面无表情地回答。<readstop />
+  <br />
+  <hr />　　少女将游戏关掉，静静地低着头。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“很遗憾。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　她摇着头，看着这边说道。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚出击之后就行踪不明了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <show_message_actor id="GGF" name="GGF" />　　“塞西亚她？这是怎么一回事？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="SELEN" name="セレン" />　　“出击那一刻，我觉得塞西亚有点紧张。”<readstop />
+  <br />
+  <hr />　　“但异常也没那么明显……所以我根本没想过会发生什么不同寻常的事情……实际上，她也一如既往，在战场上取得了很大的战果。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e3" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <set_text_font fontType="gothic" />　　少女还想再说点什么，我静静地等着她。<readstop />
+  <br />
+  <hr />　　少女低着的头向我这边转了过来。<readstop />
+  <br />
+  <hr />　　用着像是能看穿一切的泠冽目光。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“在那场战斗中塞西亚失去了全部的僚机。撤退命令发出时塞西亚就开始朝着基地返航。她却没能回来。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　情报犹如接入网线般流入了我的大脑。<readstop />
+  <br />
+  <hr />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e2" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />　　仿佛丢掉大半自我的少女，低着头、半张着嘴沉默不语。<readstop />
+  <br />
+  <hr />　　男人接过话茬。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“塞西亚最后说了一句‘失去操纵’……通信管制员最后听到的，只有四周萦绕的电流噪声，和某个人急切的声音。同时机体的形迹也雷达上消失。”<readstop />
+  <br />
+  <hr />　　“侦查车即刻前去赶往救援，在机体信号消失的地方只发现了翻转过来的重型机甲的机动痕迹。沿着那痕迹往前追，前方却是交战地区。”<readstop />
+  <br />
+  <hr />　　“塞西亚真的是很可靠的飞行员，只是强行让侦查车在交战地区追踪塞西亚的形迹，有悖我们不增加无意义伤亡的宗旨啊。作为替代，我们召回了侦查敌人海上运输的高空侦查机来进行追踪。”<readstop />
+  <br />
+  <hr />　　“这当然是特例中的特例。塞西亚机甲滑行的痕迹从山岳地带……一直延伸到维塔斯峡谷的悬崖。我们不知道机体是不是因为无法操作而坠入悬崖……峡谷太深，没法用视觉确认，热源也无法探知。”<readstop />
+  <br />
+  <hr />　　“虽然很快就编成了救援部队去确认状况，但敌人的攻势过猛，没能穿越交战地区，第一次、第二次的救援部队都被迫撤退，就在前天派出的第三次搜救救援部队也失败了，我军迫不得已才作出放弃塞西亚的判断。”<readstop />
+  <br />
+  <hr />　　“我们为了救援塞西亚所失去的，远远超过了塞西亚一人的牺牲。”<readstop />
+  <br />
+  <hr />　　“……我们只能祈祷，塞西亚自己逃出来也好啊……要是变成敌人的俘虏的话，干脆死了算了。不，<readstop />这样还是有点……”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　男人说到最后觉得自己最后的话太多余了，不了了之地切断了自己的话。<readstop />
+  <br />
+  <hr />　　明明是战争啊，为什么要作出这么痛苦的表情呢。<readstop />
+  <br />
+  <hr />　　这惨烈的死相和这惨不忍睹的拷问方式算什么啊。<readstop />
+  <br />
+  <hr />　　难道真的存在只要不进行非人道的杀戮就可以接受的公平战争吗？<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“找到机体残骸了吗？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <set_text_font fontType="gothic" />　　男人摇了摇头回答。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“如果这场战斗能结束的话，我一定会去确认的。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　男人毅然决然地回答，他的表情尽入少女直盯着的双眼。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“这话问出来可能有点难听……但我听到了有人目击到了塞西亚的传闻。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <set_text_font fontType="gothic" />　　少女迈到男人身前，用力点头说<readstop />“对”。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“看到那个的人没有活着回去的。所以求求你了，我希望你能查明真相。那真的是塞西亚吗，而且——”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常怒り" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e3" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <set_text_font fontType="gothic" />　　男人将我与少女分隔开。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“没这回事。只是打倒敌人确实很爽快，尽管我们也会有损失。那肯定是为了骗塞西亚上钩的伪装。绝对是假货。假货总会被识破的。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　我陷入沉思。<readstop />
+  <br />
+  <hr />　　一个方法浮现出来。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“无论如何，确认一下塞西亚的机体残骸不好吗？而且也不排除她被俘虏的可能性啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常怒り" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常視線逸らし" y="820" />
+  <show_message_actor id="MAN" name="男" />　　“当然话是这么说……”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e4" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常意地悪" y="820" />
+  <set_text_font fontType="gothic" />　　男人语塞了。<readstop />
+  <br />
+  <hr />　　少女像是在使坏地说。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“只是战况一塌糊涂，资金调度也很困难啊～呐<readstop />你怎么啦？向他GGF发一个塞西亚的搜索委托如何？派GGF的话一定会给你完美完成的哇！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常意地悪" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <set_text_font fontType="gothic" />　　因为少女紧紧盯着我，我感到很不自在，便无心应答。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e2" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“啊啊，我是能确认塞西亚的消息就行，别的无所谓哦。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e5" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常笑み" y="820" />
+  <set_text_font fontType="gothic" />　　少女浮现起笑容。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“嚯哈！<readstop />怎样？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常視線逸らし" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <set_text_font fontType="gothic" />　　男人露出满脸的苦涩。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常笑み" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“嘛，好吧……但是只有活捉伪装塞西亚的那家伙，或者找到塞西亚的机体残骸，才有报酬领。合计50，包括所有经费。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <show_message_actor id="GGF" name="GGF" />　　“你开玩笑吧，额外经费最少也得150啊”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e6" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常嘲り" y="820" />
+  <show_message_actor id="MAN" name="男" />　　“条件相差太远，我们可没法谈哦。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　男人哼了下鼻子。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常嘲り" y="820" />
+  <layer_hide easing="31" layer="3" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e6" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常意気込む" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“差价就由人家来付哇！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　少女突然生龙活虎地插了一嘴。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“可以分期付款吗？人家会用一生来支付的！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常視線逸らし" y="820" />
+  <set_text_font fontType="gothic" />　　我为了煽动这场谈判想说“怎么着都行”，但不知道他们能不能懂我的意思，所以说了“这样也行”。<readstop />
+  <br />
+  <hr />　　男人有些示弱地看向少女。<readstop />
+  <br />
+  <hr />　　我更加得寸进尺。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常視線逸らし" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“这样的话我就没什么可抱怨的咯。<readstop />你啊，能作担保人的吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我朝着那男人微笑着说。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“不，给我等等。<readstop />完全谈不拢啊。<readstop />刚刚的全都作废。<readstop />你小子就在这儿给我等着。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_hide easing="31" layer="3" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />　　男人慌慌张张地拽着少女离开了屋子。<readstop />
+  <br />
+  <hr />　　不一会儿，只有男人回了屋。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常まじめ" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="MAN" name="男" />　　“不谈了。<readstop />150带经费。接受不了就没有。拒绝的话我们就把你驱逐，机体会还你，燃料也给你添满。但是你必须承诺不再踏入我们的领地。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <set_text_font fontType="gothic" />　　我一脸得逞地坏笑着回答。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“O—K—我接受～”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常不愉快" y="820" />
+  <set_text_font fontType="gothic" />　　男人勉强地点了点头。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“我还没问你名字呢？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="MAN" name="男" />　　“我叫贝尔巴哈，是歌尔娜卡守卫队的队长。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="MAN" />
+  <show_message_actor id="GGF" name="GGF" />　　“刚刚的女孩子呢？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“她叫塞莲……是我妹妹。然后塞西亚也是呢……。啊啊，<readstop />对外人这么说会好点吧。虽说是没有血缘相连的兄妹。在这里也不是什么大问题。我们是生死与共的好兄妹啊。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <set_text_font fontType="gothic" />　　就算听了这么一段像告白似的话我也没生出任何印象。<readstop />
+  <br />
+  <hr />　　没觉得好或不好，也不会和他们同感或共情。<readstop />
+  <br />
+  <hr />　　这除了事实之外什么也不是。<readstop />
+  <br />
+  <hr />　　虽然这可能是我的什么缺陷，但离战场越近，无法移情就越像是个优点。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常不愉快" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常まじめ" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“契约既成，我对你们也没什么兴趣哦。我只想抓出塞西亚的真实身份。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　贝尔巴哈点了头。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“就这样吧。契约成立了。供你用的弹药和燃料都只收我们部队的内部价。修理也是。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <set_text_font fontType="gothic" />　　男人盯着我。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常まじめ" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“懂我意思了吧？别辜负我们的期望。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <set_text_font fontType="gothic" />　　我脸上浮起笑容。<readstop />
+  <br />
+  <hr />　　这工作低风险高回报，简直就是易如反掌啊。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide layer="1" pos="1" time="5250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_hide layer="4" pos="" time="250.0" trans="1" xDescription="-" />
+  <layer_show id="CMN_001" layer="1" pos="1" time="3500.0" trans="1" wait="true" x="0" xDescription="黒ベタ" y="0" />
+  <restore_tags id="6">
+    <bgm_play id="BGM_049" xDescription="GGF IV" />
+  </restore_tags>　　我最初被关押的屋子就变为了我的起居用室。<readstop />
+  <br />
+  <hr />　　明明我是自由之身，但一出门就会被清一色卡其的非市民拦下，以所谓治安为由，说什么都不放我出去。<readstop />
+  <br />
+  <hr />　　我跟他们讲，我是和布尔巴哈签订契约的自由的雇佣兵，他们却连看都不看我一眼。<readstop />
+  <br />
+  <hr />　　我又说，<readstop />请让我直接和布尔巴哈交涉，<readstop />守门的人还是一言不发。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="黒ベタ" y="0" />
+  <layer_show id="SEI_069" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・宿舎・食堂" y="0" />
+  <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="250.0" trans="1" x="640" xDescription="GGF後ろ姿通常" y="820" />　　最后，我只能直到吃完饭前都一直躺在床上，仰望天花板，琢磨一些有效的骂人狠话。<readstop />
+  <br />
+  <hr />　　很奇妙地，我被叫去吃晚饭，但这好像是塞莲极力请求下来的许可。<readstop />
+  <br />
+  <hr />　　在餐桌上，布尔巴哈坐在上座，并排坐的是一个看起来很有资历的参谋，塞莲和我则坐在末席。<readstop />
+  <br />
+  <hr />　　布尔巴哈一上来就向大家介绍了我。<readstop />
+  <br />
+  <hr />　　但谁也没摆出个欢迎的笑脸。<readstop />
+  <br />
+  <hr />　　我想了数百个尖酸刻薄的笑话，但为了不说多余的话只好忍住，直至结束。<readstop />
+  <br />
+  <hr />　　对我来说这可是真是奇迹。<readstop />
+  <br />
+  <hr />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="3" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />　　饭后，大家正三两散伙，我转过去向布尔巴哈问话。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“我又不是什么嫌疑犯或者恐怖分子。你说好了会给我自由的权利吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“啊啊，我忘了说了。你小子的雇主，<readstop />可是塞莲啊。<readstop />给我去问塞莲。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常睨みi" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e6" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常嘲り" y="820" />
+  <show_message_actor id="GGF" name="GGF" />　　“哈？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“我可从头到尾没打算过雇你，<readstop />你小子绝对是个危险分子，<readstop />我可说过把你杀了只留机体就行对吧？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <show_message_actor id="GGF" name="GGF" />　　“噗啊？！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“还不是因为塞莲紧咬着不放啊。塞莲也能独当一面了，该为自己负责了吧。约定了就要遵守。不论是谁。做不到就要付出代价。哪怕要付出生命。塞莲也快十四了。是这样吧。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <set_text_font fontType="gothic" />　　塞莲点了头。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="285" xDescription="ブルバッハ通常嘲り" y="820" />
+  <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“……哎、也无所谓，只要如数付钱的话，谁当金主我都乐意。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“你说什么呢，还摆着那么不安的脸。会伤害塞莲的，别这样。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="BURBACH" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <set_text_font fontType="gothic" />　　这话有点颠倒是非呢。<readstop />
+  <br />
+  <hr />　　我可不是慈善大使。<readstop />
+  <br />
+  <hr />　　不知道布尔巴哈有没有察觉到我的动摇，他带着微妙的笑容走出房间。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・宿舎・食堂" y="0" />
+  <layer_hide easing="31" layer="3" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_067" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />　　吃完晚饭回到自己房间后，我为了找点正经的酒来喝而寻思着出门。<readstop />
+  <br />
+  <hr />　　一眨眼，塞莲门也不敲就直蹿进我的房间。<readstop />
+  <br />
+  <hr />
+  
+  <layer_show easing="31" id="DF_c01_p01_e7" layer="2" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="1115" xDescription="セレン通常慌て" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“什么啊？”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　塞莲吧嗒吧嗒眨着眼睛，盯着我说。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常慌て" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“我是你的雇主对吧～”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />
+  <layer_show id="SEI_070" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・バブ入口" y="0" />
+  <set_text_font fontType="gothic" />　　虽然我知道这句话所表明的事实，却不能理解言外之意。<readstop />
+  <br />
+  <hr />　　我无视塞莲，绕过她夺门而出，但就在抵达酒吧时被拒之门外。<readstop />
+  <br />
+  <hr />　　这是为什么呢，当然是因为塞莲一路上紧紧跟在我身后呀。<readstop />
+  <br />
+  <hr />　　我转过头盯着塞莲。<readstop />
+  <br />
+  <hr />　　我这小屁孩一样的金主紧跟着我，直等到我朝她开口说道。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“那个啥，因为你是我的金主，所以我会尽最大力毕恭毕敬地对你说话，你有什么想说的请畅所欲言。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <set_text_font fontType="gothic" />　　塞莲的肩膀轻轻颤了一下。<readstop />
+  <br />
+  <hr />　　就这样，浪漫的姑娘们啊，一点一滴地伤害着已经精神颓废的我。<readstop />
+  <br />
+  <hr />　　不置可否，我的心躁动不安。<readstop />
+  <br />
+  <hr />
+  
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常俯き" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“既然酒喝不了了，也没办法。<readstop />回去算了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <set_text_font fontType="gothic" />　　我试着越过塞莲时，她跟在了我的后面。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“因为我有些话必须要对塞西亚说……”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　啊啊，你要开始了吗。<readstop />
+  <br />
+  <hr />　　看来为了能弄到好酒，我得努努力了啊……<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“我们常与外敌战斗，无论是只要赶出去就好了的敌人，还是不得不赶尽杀绝的敌人。这里的矿物资源太充沛了，所以就算不涉入战事，也总有敌人来犯。那时我们资金还够，就雇了很多雇佣兵。”<readstop />
+  <br />
+  <hr />　　“米拉比利斯正是其中的一员。在备受膜拜的重型机甲雇佣兵中，米拉比利斯作为狙击手，虽有战果，却也不是鹤立鸡群。”<readstop />
+  <br />
+  <hr />　　“他说自己只是为了果腹才当的雇佣兵，所以被民族出身的雇佣兵们瞧不起，正规军也不跟他讲话。但米拉比利斯和小孩子们的关系相当不错。”<readstop />
+  <br />
+  <hr />　　“虽然我根本不可能设身处地去想米拉比利斯那时的处境什么的……”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　通常这些事关他人的旧话我是一点也听不懂，随便地左耳朵进右耳朵出，应付几句就过去了，但这次塞莲说的话却清晰地流入了我的脑内。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚曾是重型机甲队里的王牌，不管他们的举止好坏，大人都不会把她当做小孩，但米拉比利斯不在乎这些，对待塞西亚跟对其他小孩子没什么两样。”<readstop />
+  <br />
+  <hr />　　“所以说啊，我觉得塞西亚也喜欢米拉比利斯。啊，<readstop />不，<readstop />我不是那个意思，只是因为真的没人能与塞西亚像朋友一样普通地交流。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　我沉默地看着塞莲。<readstop />
+  <br />
+  <hr />　　多嘴大抵不会带来好事。<readstop />
+  <br />
+  <hr />　　如果这是场电视剧还则罢了，我真的不想掀起任何波澜，只想去找点美酒喝喝。<readstop />
+  <br />
+  <hr />　　当对方全神贯注、兴致勃勃地讲话时，插嘴没法带来任何好结果。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“当米拉比利斯被选去狙杀重要人物时，重型机甲队抽调了一架机甲以作后援。用模拟器来选拔这架后援机的驾驶员。毋庸置疑啊，塞西亚会被选中，这仅仅是走个形式罢了。”<readstop />
+  <br />
+  <hr />　　“但是，这不是很无聊吗？因此啊，人家也想赢下那个选拔。用了点小技巧，我就让自己被选上了。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e8" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常苦笑い" y="820" />
+  <set_text_font fontType="gothic" />　　塞莲浮起那了大人般的苦笑，看到这一幕，我加快了追击美酒的计划。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“gg刺杀行动失败了，我作为后援前去出战。可情况却比后援机能应对的棘手很多。得知米拉比利斯战死的塞西亚，情绪也坠入了低谷。”<readstop />
+  <br />
+  <hr />　　“我当然真的非常后悔啦……但因为已经无能为力，所以才觉得不要想得那么深入或许会好一点。”<readstop />
+  <br />
+  <hr />　　“我向塞西亚说：‘绝对，会报仇雪恨’，但塞西亚还是哭个不停……在那之后，战争变得越发艰难，塞西亚还是没法出战。塞西亚再一次的出战……成了那最后一次出战。”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常苦笑い" y="820" />
+  <layer_show easing="31" id="DF_c01_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <set_text_font fontType="gothic" />　　我憋着想插嘴的欲望，一直沉默着。<readstop />
+  <br />
+  <hr />　　管他什么战场的真相，有没有都一样啊。<readstop />
+  <br />
+  <hr />　　但是，有没有好酒，才是大问题啊！！<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚可能觉得，如果是自己去支援米拉比利斯的话，本可以将他救回来的。但那只是缘木求鱼，早就已经无能为力了。”<readstop />
+  <br />
+  <hr />　　“不管是我凭作弊胜出选拔，还是塞西亚正大光明入选，到头来什么都不会改变……”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　我急忙发话打断她。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="GGF" name="GGF" />　　“OK。既然老板有这个愿望我就来实现。突破前线去见塞西亚，塞莲通过作弊去赢比赛，这都是无可奈何之举吧。战场就是如此玩笑般地决定着人的生死。”<readstop />
+  <br />
+  <hr />　　“因这样荒诞的理由而死是真的笑不出来啊，太痛苦了。走吧，<readstop />回宿舍开喝了。我啊，现在心里是真的很想喝酒。而且是要自己一个人去喝！哇哈哈哈哈哈哈！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="GGF" />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・バブ入口" y="0" />
+  <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常無表情" y="820" />
+  <layer_show id="SEI_071" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="ガルニャカ・夜道" y="0" />
+  <layer_show easing="31" id="DF_c01_p01_e5" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常笑み" y="820" />
+  <set_text_font fontType="gothic" />　　为什么我的精神如此颤动呢。<readstop />
+  <br />
+  <hr />　　我意识到自己的烦躁，为了哄骗自己，我像小红帽一样跳着小碎步踏上回宿舍的路。<readstop />
+  <br />
+  <hr />　　穿梭于稀疏排列的街边路灯，我轻快地迈着步伐，仿佛我的身体正深深的嵌入精灵之中，只剩意识残留于此的知觉。<readstop />
+  <br />
+  <hr />　　我暂且把一切身体上的问题搁置一边，仅仅聚焦于意识上的问题。<readstop />
+  <br />
+  <hr />　　结果就是，我能想象到塞莲那自由的逻辑，以及塞西亚的心境，令我烦躁的原因就在于，我简直是在被强硬要求着去表达什么人性的东西。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ガルニャカ・夜道" y="0" />
+  <layer_hide easing="31" layer="2" pos="" time="500.0" trans="1" wait="false" />
+  <layer_hide layer="4" pos="" time="500.0" trans="1" wait="false" xDescription="-" />
+  <layer_show id="SEI_122" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="セレン・アルペン踊り" y="0" />　　思索随我的脚步骤然停止。<readstop />
+  <br />
+  <hr />　　塞莲雀跃地跳着阿尔卑斯之舞。<readstop />
+  <br />
+  <hr />　　还有这种蠢事吗。<readstop />
+  <br />
+  <hr />
+  
+  <set_text_font fontType="mincho" size="26" />
+  <show_message_actor id="SELEN" name="セレン" />　　“GGF。人家出击了哦！<readstop />嘿！”<readstop />
+  <br />
+  <hr />
+  
+  <hide_message_actor id="SELEN" />
+  <set_text_font fontType="gothic" />　　塞莲随着音乐的节奏高喊着。<readstop />
+  <br />
+  <hr />　　战场可能是既非常识、又不合理的，但总得有一定的逻辑……用现成的话来说的话，我觉得是有超理性的逻辑。<readstop />
+  <br />
+  <hr />　　如果连那个也没有的话，就是纯粹的混沌了。<readstop />
+  <br />
+  <hr />　　然而我现在真的觉得自己正处于纯粹的混沌之中。<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="セレン・アルペン踊り" y="0" />
+  <layer_show id="DF_c12_p01_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿通常" y="820" />
+  <layer_show id="SEI_067" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ガルニャカ・宿舎・自室" y="0" />　　我为了给自己的思绪一分停顿，回屋后开了一瓶威士忌，倒进玻璃杯。<readstop />
+  <br />
+  <hr />　　我被那灼烧喉咙的热度唤起了思考。<readstop />
+  <br />
+  <hr />　　如果必须要保持思维世界的连贯性，那有时停止思考也是有必要的。<readstop />
+  <br />
+  <hr />　　假若扭曲的世界也会延通到思维世界的话，那也是可以存续思考的世界之一。<readstop />
+  <br />
+  <hr />
+  
+  <bgm_stop fade="10000.0" />　　瘫坐在窗边的椅子上，感觉全身好似块铅，伴着灌入体内的琥珀色液体熔融。<readstop />
+  <br />
+  <hr />　　熔融态的我在地板上流淌。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="SEI_03" taskid="SCENARIO_MVP" />
+  <readstop />
+  <br />
+  <hr />
+</scenario>

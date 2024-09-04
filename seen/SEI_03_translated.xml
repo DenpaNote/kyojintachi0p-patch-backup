@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<scenario>
+  
+  <bgm_play fade="10000.0" id="BGM_030" volume="100.0" xDescription="現実 I" />
+  <layer_show id="SEI_055" layer="1" pos="1" time="200.0" trans="1" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show id="FIL_001" layer="7" pos="" xDescription="ストーンウォッシュ" />　　我存在的重心被动摇了……不，是思考的重心吗……不，也不是。这是脑的中心啊……对，是身体的震颤。<readstop />
+  <br />　　“渡边君，吃饭啦！”<readstop />
+  <br />
+  <layer_show id="SEI_c04_p01_e21" layer="2" pos="8" rate="1.0" time="500.0" trans="1" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />　　我睁开眼。摘掉了头戴式显示器。<readstop />
+  <br />　　“啊，你终于醒了呀。游戏打过头了哦！有伟人曾说过游戏一天打一小时就够了对吧！”<readstop />
+  <br />　　眼前的小凯紧紧盯着我。而我的脑海中突然出现一阵挥之不去的念头，好想吃海苔佃煮配热气腾腾的白米饭啊。<readstop />
+  <br />　　“肚子饿了……”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ジト目" y="820" />
+  <layer_show id="SEI_c04_p01_e24" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　狂笑" y="820" />　　小凯扑哧一声，哈哈哈地大笑起来。太过分了吧，这又不好笑。人靠饭，铁靠钢，一顿不吃饿得慌，就为饿肚子这种事而笑得前仰后合什么的，就好像这世界上只有虚拟人才会饿肚子似的。<readstop />
+  <br />　　“啊哈哈哈，哼哼，谁叫我这么担心你呢。”<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　狂笑" y="820" />
+  <layer_show id="SEI_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />　　小凯不知为何吞下了唾沫。也许是听到了饥饿这个词让她条件反射般地感到肚子空空了吧。<readstop />
+  <br />
+  <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="EQCパイロットシート" y="0" />
+  <layer_show id="SEI_054" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="EQC" y="0" />　　我先意识到了脚尖，接着从手指末梢开始确认，然后顺其自然地确定了大脑的存在。然后从感受到的空腹感中想象出了一个空空如也的胃袋。<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　普通" y="820" />
+  <layer_show id="SEI_c04_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />　　我从椅子上站起来，膝盖无法支撑自己的重量，跪倒在地。小凯慌忙向我伸出手。<readstop />
+  <br />　　“你没事吧？”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　驚き" y="820" />
+  <layer_show id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　我本想一笑置之，却没想到饿肚子有这么难受。<readstop />
+  <br />　　“稍微休息一下，等下再玩哦。”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show id="SEI_c04_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　むくれる" y="820" />　　小凯露出极其不满的表情。她深吸了一口气，似乎想表达自己的不同意见。我赶紧轻描淡写地打断了她的话。<readstop />
+  <br />　　“马上就要见到sayhere了。”<readstop />
+  <br />
+  <hr />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　むくれる" y="820" />
+  <layer_show id="SEI_c04_p01_e15" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />　　我试着露出笑脸。<readstop />
+  <br />　　“不抓到斑猫可不行呢。”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　げんなり" y="820" />
+  <layer_show id="SEI_c04_p01_e13" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />　　小凯对我露出严肃的表情，添了句话。<readstop />
+  <br />　　“渡边君在玩的时候生命体征不稳定的话，那可是很危险的。我们可要小心谨慎，真·的·哦。”<readstop />
+  <br />　　“战场是与死亡比邻而居的吧。”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　真面目" y="820" />
+  <layer_show id="SEI_c04_p01_e10" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />　　虽然我觉得这只是个俏皮的玩笑，但小凯却摇了摇头。<readstop />
+  <br />　　“很显然，你对于游戏中的压力反应很大。千万别死了，如果你真的到了濒死状态，请一定要试着想起来那边并非现实！”<readstop />
+  <br />
+  <layer_hide layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　ピカー" y="820" />
+  <layer_show id="SEI_c04_p01_e9" layer="2" pos="8" rate="1.0" time="250.0" trans="1" x="1100" xDescription="ケイ正面HMD無　不満" y="820" />　　“我加加油吧。只是在梦里快被杀死的时候是反应不过来在梦里的，所以不会觉得被杀也无所谓呢。”<readstop />
+  <br />
+  <layer_hide layer="2" pos="" xDescription="-" />　　小凯耸了耸肩走出了房间。可能是因为太累了吧，神经过度紧张，战战兢兢的。<readstop />
+  <br />
+  <hr />　　我在完全隔绝了电波的空无一人的EQC内侧耳倾听。但什么也没听见。<readstop />
+  <br />　　“哦，当然啦，如果‘绝对不要死’说出来就能成真，那当个指挥官简直简单得让人怀疑人生嘛！”<readstop />
+  <br />
+  
+  <bgm_stop fade="10000.0" />　　我的呢喃被吸收电波的特殊墙壁吸收，变异成不像是我声音的振动，再传回我的耳中。我像是为了回应某人的疑问而深深地点了点头。然后环顾四周，感觉到有无数个我都站在这里。<readstop />
+  <br />
+  <hr />
+  <task method="jump" scenarioID="DF_02" taskid="SCENARIO_MVP" viewType="adv" />
+</scenario>
