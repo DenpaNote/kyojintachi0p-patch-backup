@@ -37,7 +37,7 @@
   
   <savable_state value="true" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜您是GGF先生吗？今天也斩获高分啊？！下次带带我吧？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜您是GGF先生吗？今天也斩获高分啊？！下次带带我吧？＞<readstop />
   <br />
   <hr />
   
@@ -83,7 +83,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你这是非法改装吧？不怕露馅吗？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜你这是非法改装吧？不怕露馅吗？＞<readstop />
   <br />
   <hr />
   
@@ -97,7 +97,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜要跑路了嘛？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜要跑路了嘛？＞<readstop />
   <br />
   <hr />
   
@@ -109,7 +109,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你就凭这个打赢sayhere吗？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜你就凭这个打赢sayhere吗？＞<readstop />
   <br />
   <hr />
   
@@ -124,7 +124,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜赢了我的话，告诉你也行啊。＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜赢了我的话，告诉你也行啊。＞<readstop />
   <br />
   <hr />
   
@@ -208,7 +208,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜是GGF先生吗？刚才真是对不住了？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜是GGF先生吗？刚才真是对不住了？＞<readstop />
   <br />
   <hr />
   
@@ -220,7 +220,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜你这表情，跟见了鬼了似的。＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜你这表情，跟见了鬼了似的。＞<readstop />
   <br />
   <hr />
   
@@ -237,7 +237,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜哈？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜哈？＞<readstop />
   <br />
   <hr />
   
@@ -267,7 +267,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜据说sayhere最近在东部地区的那片山岳被目击到。只是这世上的情报大多虚幻无实，找不到也别怪我。＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜据说sayhere最近在东部地区的那片山岳被目击到。只是这世上的情报大多虚幻无实，找不到也别怪我。＞<readstop />
   <br />
   <hr />
   
@@ -277,7 +277,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜啊？<readstop />为什么要这么说？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜啊？<readstop />为什么要这么说？＞<readstop />
   <br />
   <hr />
   
@@ -287,7 +287,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜那又怎样？和这件事有关系吗？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜那又怎样？和这件事有关系吗？＞<readstop />
   <br />
   <hr />
   
@@ -299,7 +299,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜喂，说点什么怎么样？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜喂，说点什么怎么样？＞<readstop />
   <br />
   <hr />
   
@@ -314,7 +314,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PC_1" name="プレイヤーA" />　　＜哈？＞<readstop />
+  <show_message_actor id="PC_1" name="玩家A" />　　＜哈？＞<readstop />
   <br />
   <hr />
   
@@ -484,7 +484,7 @@
   
   <bgm_play fade="20000.0" id="BGM_044" xDescription="物語はまわる" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜十点钟方向，不明国籍机体，接近＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜十点钟方向，不明国籍机体，接近＞<readstop />
   <br />
   <hr />
   
@@ -501,7 +501,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜OK，GGF。别放在心上，毕竟在现代战争中，运输机是躲不过战斗机的。不用在意，发生紧急情况立刻断联逃跑。哪怕只有你一个人也要活下去。哦哦呦，这么一会儿就侵犯他国领空了。这事在战争中也算常见。＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜OK，GGF。别放在心上，毕竟在现代战争中，运输机是躲不过战斗机的。不用在意，发生紧急情况立刻断联逃跑。哪怕只有你一个人也要活下去。哦哦呦，这么一会儿就侵犯他国领空了。这事在战争中也算常见。＞<readstop />
   <br />
   <hr />　　＜没时间和外务省联络，也不知道电话号码，呀，真头疼啊。＞<readstop />
   <br />
@@ -515,7 +515,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜这里还离目的地远着呢！＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜这里还离目的地远着呢！＞<readstop />
   <br />
   <hr />
   
@@ -525,7 +525,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜OK，GGF。这可真是个好时机。附近有个低气压区。冲进去，然后弹射到天空。在这种恶劣的条件下，发射这种重量的东西，这可是绝佳的实战测试啊！哇哈哈。我们说不准会在准备逃跑时受到攻击。＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜OK，GGF。这可真是个好时机。附近有个低气压区。冲进去，然后弹射到天空。在这种恶劣的条件下，发射这种重量的东西，这可是绝佳的实战测试啊！哇哈哈。我们说不准会在准备逃跑时受到攻击。＞<readstop />
   <br />
   <hr />　　＜别忘了带上降落用的氧气面罩啊。＞<readstop />
   <br />
@@ -541,7 +541,7 @@
   <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="DF・輸送機内" y="0" />
   <layer_show id="SEI_065" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="コクピット内" y="0" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜喂，GGF。你还在机舱里吗？听到请回答。＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜喂，GGF。你还在机舱里吗？听到请回答。＞<readstop />
   <br />
   <hr />
   
@@ -551,7 +551,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜别急。这里是搬运工。我们会尽可能把你投到近处。即将冲入低气压区。减速后会打开后端货舱门。此时敌方会以热源为目标，保持动力关闭，只能用紧急电源系统进行机体导航。＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜别急。这里是搬运工。我们会尽可能把你投到近处。即将冲入低气压区。减速后会打开后端货舱门。此时敌方会以热源为目标，保持动力关闭，只能用紧急电源系统进行机体导航。＞<readstop />
   <br />
   <hr />　　＜货物发射后请关掉所有电子系统，只能通过目测进行降落。我这边也会进行电子干扰来掩护你。＞<readstop />
   <br />
@@ -567,7 +567,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PILOT" name="パイロット" />　　＜哦唔，好好干啊！再会。发射倒计时，3、2、1，发射！＞<readstop />
+  <show_message_actor id="PILOT" name="飞行员" />　　＜哦唔，好好干啊！再会。发射倒计时，3、2、1，发射！＞<readstop />
   <br />
   <hr />
   
@@ -1022,7 +1022,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“你为什么要来找塞西亚呢？”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“你为什么要来找塞西亚呢？”<readstop />
   <br />
   <hr />
   
@@ -1057,7 +1057,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“很遗憾。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“很遗憾。”<readstop />
   <br />
   <hr />
   
@@ -1067,7 +1067,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚出击之后就行踪不明了。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“塞西亚出击之后就行踪不明了。”<readstop />
   <br />
   <hr />
   
@@ -1077,7 +1077,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="SELEN" name="セレン" />　　“出击那一刻，我觉得塞西亚有点紧张。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“出击那一刻，我觉得塞西亚有点紧张。”<readstop />
   <br />
   <hr />　　“但异常也没那么明显……所以我根本没想过会发生什么不同寻常的事情……实际上，她也一如既往，在战场上取得了很大的战果。”<readstop />
   <br />
@@ -1095,7 +1095,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“在那场战斗中塞西亚失去了全部的僚机。撤退命令发出时塞西亚就开始朝着基地返航。她却没能回来。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“在那场战斗中塞西亚失去了全部的僚机。撤退命令发出时塞西亚就开始朝着基地返航。她却没能回来。”<readstop />
   <br />
   <hr />
   
@@ -1175,7 +1175,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“看到那个的人没有活着回去的。所以求求你了，我希望你能查明真相。那真的是塞西亚吗，而且——”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“看到那个的人没有活着回去的。所以求求你了，我希望你能查明真相。那真的是塞西亚吗，而且——”<readstop />
   <br />
   <hr />
   
@@ -1222,7 +1222,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“只是战况一塌糊涂，资金调度也很困难啊～呐<readstop />你怎么啦？向他GGF发一个塞西亚的搜索委托如何？派GGF的话一定会给你完美完成的哇！”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“只是战况一塌糊涂，资金调度也很困难啊～呐<readstop />你怎么啦？向他GGF发一个塞西亚的搜索委托如何？派GGF的话一定会给你完美完成的哇！”<readstop />
   <br />
   <hr />
   
@@ -1248,7 +1248,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“嚯哈！<readstop />怎样？”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“嚯哈！<readstop />怎样？”<readstop />
   <br />
   <hr />
   
@@ -1290,7 +1290,7 @@
   <layer_show easing="31" id="DF_c02_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="285" xDescription="ブルバッハ通常まじめ" y="820" />
   <layer_show easing="31" id="DF_c01_p01_e6" layer="3" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常意気込む" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“差价就由人家来付哇！”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“差价就由人家来付哇！”<readstop />
   <br />
   <hr />
   
@@ -1300,7 +1300,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“可以分期付款吗？人家会用一生来支付的！”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“可以分期付款吗？人家会用一生来支付的！”<readstop />
   <br />
   <hr />
   
@@ -1382,7 +1382,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“她叫塞莲……是我妹妹。然后塞西亚也是呢……。啊啊，<readstop />对外人这么说会好点吧。虽说是没有血缘相连的兄妹。在这里也不是什么大问题。我们是生死与共的好兄妹啊。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“她叫塞莲……是我妹妹。然后塞西亚也是呢……。啊啊，<readstop />对外人这么说会好点吧。虽说是没有血缘相连的兄妹。在这里也不是什么大问题。我们是生死与共的好兄妹啊。”<readstop />
   <br />
   <hr />
   
@@ -1410,7 +1410,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“就这样吧。契约成立了。供你用的弹药和燃料都只收我们部队的内部价。修理也是。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“就这样吧。契约成立了。供你用的弹药和燃料都只收我们部队的内部价。修理也是。”<readstop />
   <br />
   <hr />
   
@@ -1422,7 +1422,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="995" xDescription="ブルバッハ通常まじめ" y="820" />
   <layer_show easing="31" id="DF_c02_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="995" xDescription="ブルバッハ通常睨みi" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“懂我意思了吧？别辜负我们的期望。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“懂我意思了吧？别辜负我们的期望。”<readstop />
   <br />
   <hr />
   
@@ -1476,7 +1476,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“啊啊，我忘了说了。你小子的雇主，<readstop />可是塞莲啊。<readstop />给我去问塞莲。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“啊啊，我忘了说了。你小子的雇主，<readstop />可是塞莲啊。<readstop />给我去问塞莲。”<readstop />
   <br />
   <hr />
   
@@ -1488,7 +1488,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“我可从头到尾没打算过雇你，<readstop />你小子绝对是个危险分子，<readstop />我可说过把你杀了只留机体就行对吧？”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“我可从头到尾没打算过雇你，<readstop />你小子绝对是个危险分子，<readstop />我可说过把你杀了只留机体就行对吧？”<readstop />
   <br />
   <hr />
   
@@ -1498,7 +1498,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“还不是因为塞莲紧咬着不放啊。塞莲也能独当一面了，该为自己负责了吧。约定了就要遵守。不论是谁。做不到就要付出代价。哪怕要付出生命。塞莲也快十四了。是这样吧。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“还不是因为塞莲紧咬着不放啊。塞莲也能独当一面了，该为自己负责了吧。约定了就要遵守。不论是谁。做不到就要付出代价。哪怕要付出生命。塞莲也快十四了。是这样吧。”<readstop />
   <br />
   <hr />
   
@@ -1515,7 +1515,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="BURBACH" name="ブルバッハ" />　　“你说什么呢，还摆着那么不安的脸。会伤害塞莲的，别这样。”<readstop />
+  <show_message_actor id="BURBACH" name="贝尔巴哈" />　　“你说什么呢，还摆着那么不安的脸。会伤害塞莲的，别这样。”<readstop />
   <br />
   <hr />
   
@@ -1550,7 +1550,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1115" xDescription="セレン通常慌て" y="820" />
   <layer_show easing="31" id="DF_c01_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1115" xDescription="セレン通常通常" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“我是你的雇主对吧～”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“我是你的雇主对吧～”<readstop />
   <br />
   <hr />
   
@@ -1598,7 +1598,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“因为我有些话必须要对塞西亚说……”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“因为我有些话必须要对塞西亚说……”<readstop />
   <br />
   <hr />
   
@@ -1610,7 +1610,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“我们常与外敌战斗，无论是只要赶出去就好了的敌人，还是不得不赶尽杀绝的敌人。这里的矿物资源太充沛了，所以就算不涉入战事，也总有敌人来犯。那时我们资金还够，就雇了很多雇佣兵。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“我们常与外敌战斗，无论是只要赶出去就好了的敌人，还是不得不赶尽杀绝的敌人。这里的矿物资源太充沛了，所以就算不涉入战事，也总有敌人来犯。那时我们资金还够，就雇了很多雇佣兵。”<readstop />
   <br />
   <hr />　　“米拉比利斯正是其中的一员。在备受膜拜的重型机甲雇佣兵中，米拉比利斯作为狙击手，虽有战果，却也不是鹤立鸡群。”<readstop />
   <br />
@@ -1626,7 +1626,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚曾是重型机甲队里的王牌，不管他们的举止好坏，大人都不会把她当做小孩，但米拉比利斯不在乎这些，对待塞西亚跟对其他小孩子没什么两样。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“塞西亚曾是重型机甲队里的王牌，不管他们的举止好坏，大人都不会把她当做小孩，但米拉比利斯不在乎这些，对待塞西亚跟对其他小孩子没什么两样。”<readstop />
   <br />
   <hr />　　“所以说啊，我觉得塞西亚也喜欢米拉比利斯。啊，<readstop />不，<readstop />我不是那个意思，只是因为真的没人能与塞西亚像朋友一样普通地交流。”<readstop />
   <br />
@@ -1644,7 +1644,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“当米拉比利斯被选去狙杀重要人物时，重型机甲队抽调了一架机甲以作后援。用模拟器来选拔这架后援机的驾驶员。毋庸置疑啊，塞西亚会被选中，这仅仅是走个形式罢了。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“当米拉比利斯被选去狙杀重要人物时，重型机甲队抽调了一架机甲以作后援。用模拟器来选拔这架后援机的驾驶员。毋庸置疑啊，塞西亚会被选中，这仅仅是走个形式罢了。”<readstop />
   <br />
   <hr />　　“但是，这不是很无聊吗？因此啊，人家也想赢下那个选拔。用了点小技巧，我就让自己被选上了。”<readstop />
   <br />
@@ -1658,7 +1658,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“gg刺杀行动失败了，我作为后援前去出战。可情况却比后援机能应对的棘手很多。得知米拉比利斯战死的塞西亚，情绪也坠入了低谷。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“gg刺杀行动失败了，我作为后援前去出战。可情况却比后援机能应对的棘手很多。得知米拉比利斯战死的塞西亚，情绪也坠入了低谷。”<readstop />
   <br />
   <hr />　　“我当然真的非常后悔啦……但因为已经无能为力，所以才觉得不要想得那么深入或许会好一点。”<readstop />
   <br />
@@ -1678,7 +1678,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“塞西亚可能觉得，如果是自己去支援米拉比利斯的话，本可以将他救回来的。但那只是缘木求鱼，早就已经无能为力了。”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“塞西亚可能觉得，如果是自己去支援米拉比利斯的话，本可以将他救回来的。但那只是缘木求鱼，早就已经无能为力了。”<readstop />
   <br />
   <hr />　　“不管是我凭作弊胜出选拔，还是塞西亚正大光明入选，到头来什么都不会改变……”<readstop />
   <br />
@@ -1724,7 +1724,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SELEN" name="セレン" />　　“GGF。人家出击了哦！<readstop />嘿！”<readstop />
+  <show_message_actor id="SELEN" name="塞莲" />　　“GGF。人家出击了哦！<readstop />嘿！”<readstop />
   <br />
   <hr />
   

@@ -255,7 +255,7 @@
   <br />　　“啊，啊，那个话题先放一放吧……”<readstop />
   <br />　　“什么！！”<readstop />
   <br />　　“不是，我的意思是，不是小凯你，是有人成了大用户然后删除了索引，也就是说彻底删除了重村的信息。”<readstop />
-  <br />　　“唔，<readstop />唔，<readstop />是这样。虽然是这样，这听起来很无聊。请听听这过程有多寒碜。b用电锯来割这么细的线——”<readstop />
+  <br />　　“唔，<readstop />唔，<readstop />是这样。虽然是这样，这听起来很无聊。请听听这过程有多寒碜。<readstop />用电锯来割这么细的线——”<readstop />
   <br />　　“啊——<readstop />小凯，小凯，这么忙还打扰你，抱歉呀。”<readstop />
   <br />
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ正面HMD無　狂笑" y="820" />
@@ -320,7 +320,8 @@
   <br />　　我的紧张感已经完全消失了。以前我跨过这扇门时，明明紧张得就像是将要受到地狱门前守卫的审讯一样来着。<readstop />
   <br />　　“啊啊，渡边君啊。”<readstop />
   <br />　　社会科的老师显得有些忧郁，但也没有试图隐藏自己的情绪，招呼着我进来。<readstop />
-  <br />　　“重村君的事，听说了吗？”<readstop />
+  <br />
+  <hr />　　“重村君的事，听说了吗？”<readstop />
   <br />　　我摇了摇头。<readstop />
   <br />　　“这样啊。他要转学，因此要退出山岳部。这样一来，像我们的山岳部这种传统社团也眼看着要被废止了。渡边君打算怎么办？”<readstop />
   <br />　　社会科准备室的窗户因被世界地图遮住而看不到窗外。我望向世界地图，凝视着乞力马扎罗。<readstop />
@@ -544,6 +545,7 @@
   <br />　　“里面可能含有需要这么做的重要情报吧？”<readstop />
   <br />　　原来如此。<readstop />
   <br />
+  <hr />
   <layer_action layer="1" method="play" time="500" type="hideAllLayerChildren" wait="false" />
   <moveto alpha="100.0" children="futuu" layer="1" pos="" time="250.0" trans="1" wait="false" xDescription="中華屋・テーブル" />　　“小凯有这样的东西吗？”<readstop />
   <br />
@@ -890,7 +892,7 @@
   <br />
   <hr />
   <layer_hide layer="1" pos="1" time="1500.0" trans="2" wait="false" x="0" xDescription="山小屋外観" y="0" />
-  <layer_show id="SEI_042" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />　　稍微沿着河沟上游走了一段路后，视野开阔了。天空暗淡浑浊，布满了从雨雪滋生的水雾。隐约可以看到山的脊线。我忽地回想起重村的画，感觉这里和他画的景象相符。我就在这里停下脚步，期待云开雾散，可雨雪不停，云雾像在刻意隐瞒什么似地不断再生。云雾不断翻涌再生，像是在刻意隐瞒着什么。<readstop />
+  <layer_show id="SEI_042" layer="1" pos="1" time="1000.0" trans="1" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />　　稍微沿着河沟上游走了一段路后，视野开阔了。天空暗淡浑浊，布满了从雨雪滋生的水雾。隐约可以看到山的脊线。我忽地回想起重村的画，感觉这里和他画的景象相符。我就在这里停下脚步，期待云开雾散，云雾不断翻涌再生，像是在刻意隐瞒着什么。<readstop />
   <br />
   
   <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="沢ルート（上り）" y="0" />

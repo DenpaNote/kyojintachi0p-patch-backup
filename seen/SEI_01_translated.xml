@@ -207,7 +207,8 @@
   <br />　　“不清楚呢。”<readstop />
   <br />　　斑猫稍稍考虑了一下。<readstop />
   <br />　　“你会不会觉得有点强人所难了呢？”<readstop />
-  <br />　　“没有的事。只是，有点摸不着头脑。每次有新人加入的时候斑猫先生都是像这样加深感情的吗？”<readstop />
+  <br />
+  <hr />　　“没有的事。只是，有点摸不着头脑。每次有新人加入的时候斑猫先生都是像这样加深感情的吗？”<readstop />
   <br />　　“我现在因为经费的事正消沉着呢。要是再这么花下去，总务课的会计又要喋喋不休了。”<readstop />
   <br />　　斑猫一脸正经地开着玩笑，说不定确有此事。<readstop />
   <br />　　“渡边啊。我想让你来当我的搭档。”<readstop />
@@ -1905,7 +1906,8 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="1500.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有" y="820" />
   <bgm_play id="BGM_017" xDescription="めいあんのめい" />
   <layer_show easing="31" id="SEI_c04_p02_e2" layer="2" pos="8" rate="1.0" time="1000.0" trans="1" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />　　“搞定了！”<readstop />
-  <br />　　“哦哦，哦哦，太好了，太好了，谢谢你。那么，请将报告书发送给我。”<readstop />
+  <br />
+  <hr />　　“哦哦，哦哦，太好了，太好了，谢谢你。那么，请将报告书发送给我。”<readstop />
   <br />
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1100" xDescription="ケイ踊りHMD有　バンザイ" y="820" />
   <layer_show easing="31" id="SEI_c04_p01_e4" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1100" xDescription="ケイ正面HMD無　むくれる" y="820" />　　“诶——，ID是？”<readstop />

@@ -113,7 +113,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />＜こちらコンバットネームＫ。救援にきたわよ！　ひゃっほー。すぐに蹴散らしてあげるから待っててね！＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜こちらコンバットネームＫ。救援にきたわよ！　ひゃっほー。すぐに蹴散らしてあげるから待っててね！＞<readstop />
   <br />
   <hr />
   
@@ -139,7 +139,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />＜わー、ぎゃー、よけ！　よけ！　撃つなって。そっち撃てよ、そっち、わっわわ＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜わー、ぎゃー、よけ！　よけ！　撃つなって。そっち撃てよ、そっち、わっわわ＞<readstop />
   <br />
   <hr />
   
@@ -149,7 +149,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />＜う、うわ、ぜ、全弾発射だって、わー死ぬー！　チャフチャフ！　フレアフレア！＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜う、うわ、ぜ、全弾発射だって、わー死ぬー！　チャフチャフ！　フレアフレア！＞<readstop />
   <br />
   <hr />
   
@@ -187,7 +187,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SAYHERE" name="セイヒア" />＜こちらセイヒア、テッキすべて倒しました。キトウしまーす。んふふ＞<readstop />
+  <show_message_actor id="SAYHERE" name="sayhere" />＜こちらセイヒア、テッキすべて倒しました。キトウしまーす。んふふ＞<readstop />
   <br />
   <hr />
   
@@ -214,7 +214,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />＜いやあ、危なかったですねえ。あたしが来なければもう少しでやられるところでしたよ！　何かあたしに言うことありますよね＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜いやあ、危なかったですねえ。あたしが来なければもう少しでやられるところでしたよ！　何かあたしに言うことありますよね＞<readstop />
   <br />
   <hr />
   
@@ -224,7 +224,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />＜え？　何のことですか？＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜え？　何のことですか？＞<readstop />
   <br />
   <hr />
   
@@ -241,7 +241,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />＜あー、うー、物語はリアルじゃなきゃいけないでしょ？　だから史実なんですよ。でもリアルってのは退屈なことが多いでしょ＞<readstop />
+  <show_message_actor id="KEI" name="小凯" />＜あー、うー、物語はリアルじゃなきゃいけないでしょ？　だから史実なんですよ。でもリアルってのは退屈なことが多いでしょ＞<readstop />
   <br />
   <hr />＜それに、世の中に完全はないというか、全く同じ状態を再現することは理想世界だけであってえ、つまりなんというか、退屈しない程度には、脚色はあるかもしれません＞<readstop />
   <br />
@@ -309,7 +309,7 @@
   <layer_show easing="31" id="DF_c12_p02_e1" layer="4" pos="8" rate="1.0" time="500.0" trans="1" wait="false" x="640" xDescription="GGF後ろ姿（パイロットスーツ）通常" y="820" />
   <layer_show id="SEI_085" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・パイロット室" y="0" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「やあやあ、どうですか、ＧＧＦ！」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「やあやあ、どうですか、ＧＧＦ！」<readstop />
   <br />
   <hr />
   
@@ -323,7 +323,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「心配いりません、リモートウェアのコクピットですよ」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「心配いりません、リモートウェアのコクピットですよ」<readstop />
   <br />
   <hr />
   
@@ -338,7 +338,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「あれがＸＮＣによるリモートウェアで重機兵を操縦しているときの体感です。予想はしていましたが、あれがヴァーチャルだとは思えないほどでしたね。すんごい興奮しました」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「あれがＸＮＣによるリモートウェアで重機兵を操縦しているときの体感です。予想はしていましたが、あれがヴァーチャルだとは思えないほどでしたね。すんごい興奮しました」<readstop />
   <br />
   <hr />
   
@@ -389,7 +389,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「リアルで良かったでしょ？」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「リアルで良かったでしょ？」<readstop />
   <br />
   <hr />
   
@@ -410,7 +410,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「他の人に聞かれるから、外世界的なことはあんまり……彼らは、自分たちが登場人物だとは思っていませんから……クエストの軸はプログラミングしてありますが、キャラクターたちはあくまでも自動的ですので、その軸から逸脱してしまうこともありますから」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「他の人に聞かれるから、外世界的なことはあんまり……彼らは、自分たちが登場人物だとは思っていませんから……クエストの軸はプログラミングしてありますが、キャラクターたちはあくまでも自動的ですので、その軸から逸脱してしまうこともありますから」<readstop />
   <br />
   <hr />
   
@@ -420,7 +420,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「ちゃんと聞いてます？」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「ちゃんと聞いてます？」<readstop />
   <br />
   <hr />
   
@@ -437,7 +437,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「埴谷さんや斑猫さんに会っても余計なこと言っちゃだめですよ」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「埴谷さんや斑猫さんに会っても余計なこと言っちゃだめですよ」<readstop />
   <br />
   <hr />
   
@@ -456,7 +456,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="パイロットケイ頭を抱える普通" y="820" />
   <layer_show easing="31" id="DF_c04_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="パイロットケイ通常不満" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「分かってないじゃないですか。ここもまたヴァーチャルですけど、ここにダイナミックにロードされている人格は数学的な言葉を使えばこの世界系で十分に確からしいんです」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「分かってないじゃないですか。ここもまたヴァーチャルですけど、ここにダイナミックにロードされている人格は数学的な言葉を使えばこの世界系で十分に確からしいんです」<readstop />
   <br />
   <hr />「わたしたちは主張のない無人格、繰り返し同じ台詞をを繰り返すあれになるほうなんですから。いいですか、自分の機能を果たしたら、じっとそこでなんでもないことを繰り返せばいいのです。そのあと、世界は自動的に動きますから」<readstop />
   <br />
@@ -468,7 +468,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「そりゃそうですけど、目的忘れないでください。主人公としてクエストを進行させるボタンは押しますが、それ以外では余計な干渉はしないことです。なるべく再現性の高い過去を観察するにはそれが一番です。分かりました？」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「そりゃそうですけど、目的忘れないでください。主人公としてクエストを進行させるボタンは押しますが、それ以外では余計な干渉はしないことです。なるべく再現性の高い過去を観察するにはそれが一番です。分かりました？」<readstop />
   <br />
   <hr />
   
@@ -478,7 +478,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「ちょっともう、自分を殺せばいいだけです。おとなしくなんもしなければいいんです。今まで通りですよ。サボタージュしててください」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「ちょっともう、自分を殺せばいいだけです。おとなしくなんもしなければいいんです。今まで通りですよ。サボタージュしててください」<readstop />
   <br />
   <hr />
   
@@ -501,7 +501,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「それ教えたら、余計なことするでしょ？　だから内緒です。なるべく自然にしててください」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「それ教えたら、余計なことするでしょ？　だから内緒です。なるべく自然にしててください」<readstop />
   <br />
   <hr />
   
@@ -513,7 +513,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「とりあえず宿舎に戻って、次の出撃に備えましょう。あと、あたしの機体ですが、史実には存在しないんで、数には入れないでくださいね。そもそも実際はセイヒアの一号機と大破した二号機しかないので」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「とりあえず宿舎に戻って、次の出撃に備えましょう。あと、あたしの機体ですが、史実には存在しないんで、数には入れないでくださいね。そもそも実際はセイヒアの一号機と大破した二号機しかないので」<readstop />
   <br />
   <hr />
   
@@ -550,7 +550,7 @@
   <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・宿舎・全景" y="0" />
   <layer_show id="CMN_001" layer="1" pos="1" time="1500.0" trans="1" wait="false" x="0" xDescription="黒ベタ" y="0" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SOLDIER" name="兵士" />「いけない！　それは来客用のものです」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「いけない！　それは来客用のものです」<readstop />
   <br />
   <hr />
   
@@ -702,7 +702,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「まさか、愛称だよ。初対面なのにずいぶんな挨拶だな。こんなところで射撃練習をしてるんだから重機兵を潰したのは君だろう？　名前は？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「まさか、愛称だよ。初対面なのにずいぶんな挨拶だな。こんなところで射撃練習をしてるんだから重機兵を潰したのは君だろう？　名前は？」<readstop />
   <br />
   <hr />
   
@@ -728,7 +728,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「はは！　そりゃあな。一日で小国の軍事予算三年分の損害をだしたパイロットの名前だものな。知りたくなくても耳には入ってくる。でも、ぼくは君が自分の口で名乗る声を聞きたかったんだ」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「はは！　そりゃあな。一日で小国の軍事予算三年分の損害をだしたパイロットの名前だものな。知りたくなくても耳には入ってくる。でも、ぼくは君が自分の口で名乗る声を聞きたかったんだ」<readstop />
   <br />
   <hr />「ほら、君だって僕のことは知っていて名前を聞いたんだろう？　そんな顔だった」<readstop />
   <br />
@@ -742,7 +742,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君、おもしろいね。優秀な重機兵パイロットだとは聞いていたけど、ぼくが思っていたようなヤツではないみたいだ。戦争が終われば飲みに行きたいね、どう？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「君、おもしろいね。優秀な重機兵パイロットだとは聞いていたけど、ぼくが思っていたようなヤツではないみたいだ。戦争が終われば飲みに行きたいね、どう？」<readstop />
   <br />
   <hr />
   
@@ -766,7 +766,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「あはは、そりゃそうだ。パイロットってのは頭がいいのかバカまじめなのか。戦争なんてものは銃担いで、相手を殺そうとしていていりゃ、戦争だってこと」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「あはは、そりゃそうだ。パイロットってのは頭がいいのかバカまじめなのか。戦争なんてものは銃担いで、相手を殺そうとしていていりゃ、戦争だってこと」<readstop />
   <br />
   <hr />「後になんとか戦争と呼ばれる戦争だから参戦してるわけじゃないし、君もこの戦争が二十年戦争と呼ばれることになるとは思いもよらないだろう？」<readstop />
   <br />
@@ -782,7 +782,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「じゃあ、また」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「じゃあ、また」<readstop />
   <br />
   <hr />
   
@@ -838,7 +838,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="SOLDIER" name="兵士" />「急患だ。通常の民間からの医療委託で心配はない」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「急患だ。通常の民間からの医療委託で心配はない」<readstop />
   <br />
   <hr />
   
@@ -903,7 +903,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SOLDIER" name="兵士" />「どうぞ」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「どうぞ」<readstop />
   <br />
   <hr />
   
@@ -1119,7 +1119,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SOLDIER" name="兵士" />「用がないなら帰れ」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「用がないなら帰れ」<readstop />
   <br />
   <hr />
   
@@ -1129,7 +1129,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="SOLDIER" name="兵士" />「知らん。帰れ」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「知らん。帰れ」<readstop />
   <br />
   <hr />
   
@@ -1139,7 +1139,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SOLDIER" name="兵士" />「帰れ」<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />「帰れ」<readstop />
   <br />
   <hr />
   
@@ -1190,7 +1190,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「もう一度聞いていいかい？　パイロットがなんのつもりだ？　こんなときに」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「もう一度聞いていいかい？　パイロットがなんのつもりだ？　こんなときに」<readstop />
   <br />
   <hr />
   
@@ -1200,7 +1200,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「戦場が嵐のこともあるだろ？　ぼくは臆病だから、そんな状態でもちゃんと人が殺せるように練習しておきたかっただけさ。それに銃も替えたしね。リコイル強さとかばらつきとかね、最悪の条件のなかで確認しておきたかったんだ。どう？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「戦場が嵐のこともあるだろ？　ぼくは臆病だから、そんな状態でもちゃんと人が殺せるように練習しておきたかっただけさ。それに銃も替えたしね。リコイル強さとかばらつきとかね、最悪の条件のなかで確認しておきたかったんだ。どう？」<readstop />
   <br />
   <hr />「それでもおかしい？」<readstop />
   <br />
@@ -1225,7 +1225,7 @@
   <hide_message_actor id="GGF" />
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e2" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「ああ、死んだらしいね。よかったよ。苦しまずに済んだんだから」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「ああ、死んだらしいね。よかったよ。苦しまずに済んだんだから」<readstop />
   <br />
   <hr />
   
@@ -1237,7 +1237,7 @@
   <hide_message_actor id="GGF" />
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常冷淡" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e6" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常残念" y="820" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「知らないの？　風土病のこと」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「知らないの？　風土病のこと」<readstop />
   <br />
   <hr />
   
@@ -1251,7 +1251,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常残念" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e3" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「いやあ、しまったな。なんていうかな、そいつに感染すると良くないことが起こって死ぬわけだけどね。そんなおぞましいことになる前に死んだほうがいいぐらいのね、そういう意味で言ったんだ。誤解しないでくれよ」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「いやあ、しまったな。なんていうかな、そいつに感染すると良くないことが起こって死ぬわけだけどね。そんなおぞましいことになる前に死んだほうがいいぐらいのね、そういう意味で言ったんだ。誤解しないでくれよ」<readstop />
   <br />
   <hr />
   
@@ -1268,7 +1268,7 @@
   <hide_message_actor id="GGF" />
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常笑み" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「え？　そうだけど。良く覚えてるね。だましだまし使っていたＰ２２０がついにダメになったんで、ここに来て支給品のクーガーに替えたんだけどね」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「え？　そうだけど。良く覚えてるね。だましだまし使っていたＰ２２０がついにダメになったんで、ここに来て支給品のクーガーに替えたんだけどね」<readstop />
   <br />
   <hr />「まあ、大げさな言い方に聞こえるかも知れないけど赤茶けた鉄の塊でね、いやあ、使えるところまでもっていくのに手を焼いたよ。鉄の塊から削りだした方がはやいんじゃないかって思ったぐらい。まったくどんな管理をしていたんだか」<readstop />
   <br />
@@ -1280,7 +1280,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「間に合わせのクーガーからやっと近代的な拳銃に持ち替えたってわけ。いやあしかし、これはこれでイージーすぎてなんかしっくりこないけどね」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「間に合わせのクーガーからやっと近代的な拳銃に持ち替えたってわけ。いやあしかし、これはこれでイージーすぎてなんかしっくりこないけどね」<readstop />
   <br />
   <hr />
   
@@ -1298,7 +1298,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「戦争が終われば、どこかで一杯やろう」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「戦争が終われば、どこかで一杯やろう」<readstop />
   <br />
   <hr />
   
@@ -1345,7 +1345,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「しばらくすれば出撃になるはずです。ワタナベくんも招集されるはずです」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「しばらくすれば出撃になるはずです。ワタナベくんも招集されるはずです」<readstop />
   <br />
   <hr />
   
@@ -1355,7 +1355,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「実際の記録に沿ってクエストはきちんと進行しています。重機兵が直るかどうかはあまり関係ないことです」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「実際の記録に沿ってクエストはきちんと進行しています。重機兵が直るかどうかはあまり関係ないことです」<readstop />
   <br />
   <hr />
   
@@ -1370,7 +1370,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「まあ、ワタナベくんはそのほうがいいかもね。めちゃくちゃして、クエストの軸を替えてしまいそうだし」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「まあ、ワタナベくんはそのほうがいいかもね。めちゃくちゃして、クエストの軸を替えてしまいそうだし」<readstop />
   <br />
   <hr />
   
@@ -1394,7 +1394,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「いいえ……どんな格好でした？」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「いいえ……どんな格好でした？」<readstop />
   <br />
   <hr />
   
@@ -1406,7 +1406,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「うーん、あたしは知らないですが、蓋然的な人物かも」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「うーん、あたしは知らないですが、蓋然的な人物かも」<readstop />
   <br />
   <hr />
   
@@ -1416,7 +1416,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「蓋然性のぶれ幅は発散しないよう補正されていますので、なんにせよ、最小限に接触はとどめていたほうがいいでしょう」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「蓋然性のぶれ幅は発散しないよう補正されていますので、なんにせよ、最小限に接触はとどめていたほうがいいでしょう」<readstop />
   <br />
   <hr />
   
@@ -1428,7 +1428,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="KEI" name="ケイ" />「斑猫さんや埴谷さんには？」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「斑猫さんや埴谷さんには？」<readstop />
   <br />
   <hr />
   
@@ -1443,7 +1443,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="KEI" name="ケイ" />「まあ、あまり干渉しないならどうってことないんだけど、その様子じゃ、また調子にのってべらべらと軽口を叩いたんでしょうね……ワタナベくんは基地の入口に立って、ここはヴェールリバーの基地だと繰り返すキャラクターの練習でもするといいのかもねえ」<readstop />
+  <show_message_actor id="KEI" name="小凯" />「まあ、あまり干渉しないならどうってことないんだけど、その様子じゃ、また調子にのってべらべらと軽口を叩いたんでしょうね……ワタナベくんは基地の入口に立って、ここはヴェールリバーの基地だと繰り返すキャラクターの練習でもするといいのかもねえ」<readstop />
   <br />
   <hr />
   
@@ -1628,7 +1628,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PADMORE" name="パドモア" />「現時点では信頼に値するパイロットしか使わん！　黙って指示に従え！　いつでも出られるように待機せよ！　機体はケイのものを使え！」<readstop />
+  <show_message_actor id="PADMORE" name="巴德莫尔" />「現時点では信頼に値するパイロットしか使わん！　黙って指示に従え！　いつでも出られるように待機せよ！　機体はケイのものを使え！」<readstop />
   <br />
   <hr />
   
@@ -1652,7 +1652,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウ。ＧＧＦ、起動準備に取りかかれ。信頼性の低い情報補完に関する全アシストを停止して起動する。交戦時は注意せよ＞<readstop />
+  <show_message_actor id="PADMORE" name="巴德莫尔" />＜こちらシキツウ。ＧＧＦ、起動準備に取りかかれ。信頼性の低い情報補完に関する全アシストを停止して起動する。交戦時は注意せよ＞<readstop />
   <br />
   <hr />
   
@@ -1674,7 +1674,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウからＧＧＦ。ツニートは敵性戦闘員による強奪と断定。後方で待機せよ。位置を指示する——＞<readstop />
+  <show_message_actor id="PADMORE" name="巴德莫尔" />＜こちらシキツウからＧＧＦ。ツニートは敵性戦闘員による強奪と断定。後方で待機せよ。位置を指示する——＞<readstop />
   <br />
   <hr />
   
@@ -1699,7 +1699,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="PADMORE" name="パドモア" />＜シキツウ了解。ゴリアテは現状待機。先導車は後退せよ。ターゲットは現在ガルーダが追跡中＞<readstop />
+  <show_message_actor id="PADMORE" name="巴德莫尔" />＜シキツウ了解。ゴリアテは現状待機。先導車は後退せよ。ターゲットは現在ガルーダが追跡中＞<readstop />
   <br />
   <hr />
   
@@ -1727,7 +1727,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="PADMORE" name="パドモア" />＜こちらシキツウ。ツニートのパイロットを狙え！＞<readstop />
+  <show_message_actor id="PADMORE" name="巴德莫尔" />＜こちらシキツウ。ツニートのパイロットを狙え！＞<readstop />
   <br />
   <hr />
   
@@ -1777,7 +1777,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="SOLDIER" name="兵士" />＜ツニートは沈黙。状況終了。ゴリアテのパイロットは拘束せよ＞<readstop />
+  <show_message_actor id="SOLDIER" name="士兵" />＜ツニートは沈黙。状況終了。ゴリアテのパイロットは拘束せよ＞<readstop />
   <br />
   <hr />
   
@@ -1944,7 +1944,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「少し散歩でもどうだい？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「少し散歩でもどうだい？」<readstop />
   <br />
   <hr />
   
@@ -1964,7 +1964,7 @@
   <layer_hide layer="1" pos="1" time="2250.0" trans="2" wait="false" x="0" xDescription="ヴェールリバー・隊舎・拘置所" y="0" />
   <layer_show id="SEI_102" layer="1" pos="1" time="1500.0" trans="1" wait="true" x="0" xDescription="ヴェールリバー・基地・グランド１（夜）" y="0" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「埴谷の提案を断ったんだって？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「埴谷の提案を断ったんだって？」<readstop />
   <br />
   <hr />
   
@@ -1974,7 +1974,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君が本当のことをいえば、重機兵の暴走だと証言するっていったんだろう？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「君が本当のことをいえば、重機兵の暴走だと証言するっていったんだろう？」<readstop />
   <br />
   <hr />
   
@@ -1991,7 +1991,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「真相は墓まで持って行くってか。そんな何かがあったのか？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「真相は墓まで持って行くってか。そんな何かがあったのか？」<readstop />
   <br />
   <hr />
   
@@ -2008,7 +2008,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「それが本当だとして……僕は君に助けられたわけだ。あのとき僕は狙撃手としてガルーダに乗っていて、ツニートのパイロットを殺さなければならなかった。Ｌ４汚染地帯で限界を超えた低空から狙撃する命令だった」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「それが本当だとして……僕は君に助けられたわけだ。あのとき僕は狙撃手としてガルーダに乗っていて、ツニートのパイロットを殺さなければならなかった。Ｌ４汚染地帯で限界を超えた低空から狙撃する命令だった」<readstop />
   <br />
   <hr />「条件的には難しい狙撃だったが不可能ではなかった。でも、正直僕はしたくなかったんだ。君……ゴリアテがミサイルを発射したことでガルーダは戦場を離脱せざるを得なかった。僕は引きたくない引き金を引かずに済んだ」<readstop />
   <br />
@@ -2022,7 +2022,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「それでも君はそこにいたんだ。意識しようとしまいと」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「それでも君はそこにいたんだ。意識しようとしまいと」<readstop />
   <br />
   <hr />
   
@@ -2032,7 +2032,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「なんでそんなに怒鳴るんだ。嫌なことでも人はそこに居合わせることがある、その程度のことだろう。君は本当は何か知ってるんじゃないのか？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「なんでそんなに怒鳴るんだ。嫌なことでも人はそこに居合わせることがある、その程度のことだろう。君は本当は何か知ってるんじゃないのか？」<readstop />
   <br />
   <hr />
   
@@ -2044,7 +2044,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君はこの顛末を知らないだろうから教えておいたほうがいいだろうね。自分とはまったく関係ないことで君は絞首刑になろうとしているとしても、全く関係ないことを知りたいと思うだろ？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「君はこの顛末を知らないだろうから教えておいたほうがいいだろうね。自分とはまったく関係ないことで君は絞首刑になろうとしているとしても、全く関係ないことを知りたいと思うだろ？」<readstop />
   <br />
   <hr />
   
@@ -2058,7 +2058,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「僕は狙撃手としてガルーダに搭乗して重機兵を強奪したパイロットを撃ち殺さなきゃならなかった。ツニートはＬ４の汚染地域に侵入した。生身の人間なら数時間持たないし電子機器もまともに動作しない高レベルの汚染地域だ」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「僕は狙撃手としてガルーダに搭乗して重機兵を強奪したパイロットを撃ち殺さなきゃならなかった。ツニートはＬ４の汚染地域に侵入した。生身の人間なら数時間持たないし電子機器もまともに動作しない高レベルの汚染地域だ」<readstop />
   <br />
   <hr />「指揮所はゴリアテをそのエリアの手前で待機させ、ガルーダによる上空からの狙撃を命じた。上空とはいえ、生身の僕にとっては気が進まない話さ」<readstop />
   <br />
@@ -2074,7 +2074,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「ガルーダが戦域から離脱するとゴリアテはその場で停止した。強奪された重機兵ツニートは壊れたように前進を続けた。そして停止した」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「ガルーダが戦域から離脱するとゴリアテはその場で停止した。強奪された重機兵ツニートは壊れたように前進を続けた。そして停止した」<readstop />
   <br />
   <hr />「ツニートを強奪したパイロットは実際にツニートに搭乗していたのだから、Ｌ４の汚染地域に侵入すればひとたまりも無い。パイロットは気を失いツニートは停止した。そのあと特殊防護の重機兵回収車が向かいツニートを回収した」<readstop />
   <br />
@@ -2094,7 +2094,7 @@
   <layer_hide easing="31" layer="2" pos="8" rate="1.0" time="375.0" trans="2" wait="false" x="1045" xDescription="ミラビリス通常苦笑い" y="820" />
   <layer_show easing="31" id="DF_c05_p01_e1" layer="2" pos="8" rate="1.0" time="250.0" trans="1" wait="false" x="1045" xDescription="ミラビリス通常普通" y="820" />
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君はこの状況を望んでいたか？　灰色の魂しかもたない君が、色彩あるセカイを求めたか？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「君はこの状況を望んでいたか？　灰色の魂しかもたない君が、色彩あるセカイを求めたか？」<readstop />
   <br />
   <hr />
   
@@ -2109,7 +2109,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「あははは、君は僕が何を言っているかわからないっ！？　あはははは、面白い、おもしろいよ！」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「あははは、君は僕が何を言っているかわからないっ！？　あはははは、面白い、おもしろいよ！」<readstop />
   <br />
   <hr />
   
@@ -2131,7 +2131,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「だったら、今死んで死後を確定させたほうがいいかもしれないね。死後の不安はあるけれど、生前の不安はそれで終いだ」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「だったら、今死んで死後を確定させたほうがいいかもしれないね。死後の不安はあるけれど、生前の不安はそれで終いだ」<readstop />
   <br />
   <hr />
   
@@ -2143,7 +2143,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「キミはその覚悟だけは間違いなくあるんだといって自信満々に引き金に手をかけてみせるわけだけど、一度だってその引き金を引いたことはない」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「キミはその覚悟だけは間違いなくあるんだといって自信満々に引き金に手をかけてみせるわけだけど、一度だってその引き金を引いたことはない」<readstop />
   <br />
   <hr />
   
@@ -2153,7 +2153,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「だけど、キミは引き金を引いていない。引き金を引いたセカイと引き金を引いていないセカイは完全に相反することを知っていて、そしてキミは引き金を引けないでいるんだ」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「だけど、キミは引き金を引いていない。引き金を引いたセカイと引き金を引いていないセカイは完全に相反することを知っていて、そしてキミは引き金を引けないでいるんだ」<readstop />
   <br />
   <hr />「いやいやちょっとまってくれ、ボクは引き金が引けないでいることを責めているわけじゃあない。キミが引き金を引けないでいる間、キミやキミたちは確かに生き生きとうごめくわけだからね」<readstop />
   <br />
@@ -2176,7 +2176,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「キミは死刑囚だ。いずれにせよ、死ぬ。今すべきことがあるだろ？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「キミは死刑囚だ。いずれにせよ、死ぬ。今すべきことがあるだろ？」<readstop />
   <br />
   <hr />
   
@@ -2199,7 +2199,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「どうして？」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「どうして？」<readstop />
   <br />
   <hr />
   
@@ -2209,7 +2209,7 @@
   <hr />
   
   <hide_message_actor id="GGF" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「君は死ぬか殺すかを、すべきときにしないとすれば、君が存在し続けることは難しくなるかも知れない」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「君は死ぬか殺すかを、すべきときにしないとすれば、君が存在し続けることは難しくなるかも知れない」<readstop />
   <br />
   <hr />
   
@@ -2224,7 +2224,7 @@
   <hr />
   
   <set_text_font fontType="mincho" size="26" />
-  <show_message_actor id="MIRABILIS" name="ミラビリス" />「困ったやつだな」<readstop />
+  <show_message_actor id="MIRABILIS" name="米拉比利斯" />「困ったやつだな」<readstop />
   <br />
   <hr />
   
